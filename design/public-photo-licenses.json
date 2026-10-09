@@ -511,15 +511,20 @@
       "name": "Marek Beneš"
     },
     "lukas-krpalek": {
-      "src": "/images/lukas-krpalek.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Luk%C3%A1%C5%A1_Krp%C3%A1lek_-_Rio_2016_(cropped).jpg",
-      "author": "Fernando Frazão/Agência Brasil",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "src": "/images/lukas-krpalek-official.jpg",
+      "source": "https://www.lukaskrpalek.cz/",
+      "name": "Lukáš Krpálek",
+      "author": "Autor ve zdroji neuveden",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.lukaskrpalek.cz/",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
-      "name": "Lukáš Krpálek"
+      "permission_basis": "User explicitly confirmed permission for all nine requested websites and profiles, including Czech Olympic Committee photographs, on 2026-10-09.",
+      "changes": "Downloaded source image unchanged; displayed with natural aspect ratio and rounded corners.",
+      "caption": "Lukáš Krpálek (vpravo / right)"
     },
     "alfons-mucha": {
       "src": "/images/alfons-mucha.jpg",
@@ -533,15 +538,19 @@
       "name": "Alfons Mucha"
     },
     "barbora-spotakova": {
-      "src": "/images/barbora-spotakova.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Barbora_%C5%A0pot%C3%A1kov%C3%A1.jpg",
-      "author": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)",
-      "license": "CC BY-SA 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "src": "/images/barbora-spotakova-official.jpg",
+      "source": "https://www.olympijskytym.cz/athlete/barbora-spotakova",
+      "name": "Barbora Špotáková",
+      "author": "Autor ve zdroji neuveden",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.olympijskytym.cz/athlete/barbora-spotakova",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
-      "name": "Barbora Špotáková"
+      "permission_basis": "User explicitly confirmed permission for all nine requested websites and profiles, including Czech Olympic Committee photographs, on 2026-10-09.",
+      "changes": "Downloaded source image unchanged; displayed with natural aspect ratio and rounded corners."
     },
     "karel-gott": {
       "src": "/images/karel-gott.jpg",
@@ -775,15 +784,19 @@
       "name": "Zdeněk Svěrák"
     },
     "petr-cech": {
-      "src": "/images/petr-cech.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Arsenal_players_training_before_2019_UEFA_Europa_League_final_07_(cropped).jpg",
-      "author": "Amir Hosseini",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "src": "/images/petr-cech-official.jpg",
+      "source": "https://www.petr-cech.cz/",
+      "name": "Petr Čech",
+      "author": "Autor ve zdroji neuveden",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.petr-cech.cz/",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
-      "name": "Petr Čech"
+      "permission_basis": "User explicitly confirmed permission for all nine requested websites and profiles, including Czech Olympic Committee photographs, on 2026-10-09.",
+      "changes": "Downloaded source image unchanged; displayed with natural aspect ratio and rounded corners."
     },
     "pavel-pafko": {
       "src": "/images/pavel-pafko.jpg",
@@ -896,15 +909,19 @@
       "name": "Lída Rakušanová"
     },
     "katerina-neumannova": {
-      "src": "/images/katerina-neumannova.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:20190225_Seefeld_3339_Katerina_Neumannova_(cropped).jpg",
-      "author": "Ailura",
-      "license": "CC BY-SA 3.0 at",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+      "src": "/images/katerina-neumannova-official.png",
+      "source": "https://neumannova.cz/",
+      "name": "Kateřina Neumannová",
+      "author": "Autor ve zdroji neuveden",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://neumannova.cz/",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
-      "name": "Kateřina Neumannová"
+      "permission_basis": "User explicitly confirmed permission for all nine requested websites and profiles, including Czech Olympic Committee photographs, on 2026-10-09.",
+      "changes": "Downloaded source image unchanged; displayed with natural aspect ratio and rounded corners."
     },
     "josef-vana": {
       "src": "/images/josef-vana.jpg",
@@ -1006,26 +1023,34 @@
       "name": "Zuzana Baudyšová"
     },
     "emil-zatopek": {
-      "src": "/images/emil-zatopek.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Fotothek_df_roe-neg_0006305_003_Emil_Z%C3%A1topek-2.jpg",
-      "author": "Fotothek_df_roe-neg_0006305_003_Emil_Zátopek.jpg : Roger Rössing derivative work: MachoCarioca",
-      "license": "CC BY-SA 3.0 de",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "src": "/images/emil-zatopek-official.png",
+      "source": "https://www.zatopek100.cz/",
+      "name": "Emil Zátopek",
+      "author": "Autor neuveden; archiv Muzea Fojtství, Kopřivnice",
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.zatopek100.cz/",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
-      "name": "Emil Zátopek"
+      "permission_basis": "User explicitly confirmed permission for all nine requested websites and profiles, including Czech Olympic Committee photographs, on 2026-10-09.",
+      "changes": "Downloaded source image unchanged; displayed with natural aspect ratio and rounded corners.",
+      "archive_credit": "Muzeum Fojtství, Kopřivnice"
     },
     "stepanka-hilgertova": {
-      "src": "/images/stepanka-hilgertova.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:%C5%A0t%C4%9Bp%C3%A1nka_Hilgertov%C3%A1_(2018).jpg",
-      "author": "Jindřich Nosek (NoJin)",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "src": "/images/stepanka-hilgertova-official.avif",
+      "source": "https://www.hilgertova.eu/",
+      "name": "Štěpánka Hilgertová",
+      "author": "Autor ve zdroji neuveden",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.hilgertova.eu/",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
-      "name": "Štěpánka Hilgertová"
+      "permission_basis": "User explicitly confirmed permission for all nine requested websites and profiles, including Czech Olympic Committee photographs, on 2026-10-09.",
+      "changes": "Downloaded source image unchanged; displayed with natural aspect ratio and rounded corners."
     },
     "petr-janda": {
       "src": "/images/petr-janda.jpg",
@@ -1317,15 +1342,19 @@
       "name": "Pavel Nedvěd"
     },
     "adam-ondra": {
-      "src": "/images/adam-ondra.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:20180227-LS-0055_by_Lukasz_Sokol.jpg",
-      "author": "AO Production",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "src": "/images/adam-ondra-official.png",
+      "source": "https://www.adamondra.com/cz/",
+      "name": "Adam Ondra",
+      "author": "Autor ve zdroji neuveden",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.adamondra.com/cz/",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
-      "name": "Adam Ondra"
+      "permission_basis": "User explicitly confirmed permission for all nine requested websites and profiles, including Czech Olympic Committee photographs, on 2026-10-09.",
+      "changes": "Downloaded source image unchanged; displayed with natural aspect ratio and rounded corners."
     },
     "milos-forman": {
       "src": "/images/milos-forman.jpg",
