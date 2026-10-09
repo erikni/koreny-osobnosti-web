@@ -1,8 +1,8 @@
 {
-  "release": "seo-language-sitemap-image-preview-2026-10-09",
+  "release": "google-verification-exact-uri-2026-10-09",
   "approved_on": "2026-10-09",
-  "authorization": "Uživatel výslovně schválil publikaci šestého SEO balíku odpovědí „accept“ po předložení ověřeného náhledu: české a anglické alternativy a x-default v sitemap všech 654 stránek, max-image-preview:large a automatická kontrola shody jazykových vazeb sitemap s HTML. lastmod zůstává vynechané.",
-  "content_source_sha256": "8666cbb0e2230a54c6ba18b067eb8fb969c6582e7cd68521e5684eadecacd857",
+  "authorization": "Uživatel požádal o zveřejnění existujícího souboru public/google39c57c24f9a4b784.html na přesném URI /google39c57c24f9a4b784.html kvůli ověření Google. Oprava obsluhy tohoto URI zachovává obsah souboru a byla ověřena v lokálním Cloudflare runtime: přímé HTTP 200 a shoda bajtů.",
+  "content_source_sha256": "7384e72d26d1be0a196a90ecc11f771e3afa60b73492223d5a5ed89e4428e88f",
   "entries": 127,
   "people": 153,
   "languages": [
