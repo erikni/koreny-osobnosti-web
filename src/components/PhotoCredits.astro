@@ -7,3 +7,4 @@ const author=photo.author_unknown?(isCS?'ve zdroji neuveden':'not stated by the 
 const licence=photo[isCS?'license_cs':'license_en']??photo.license;
 ---
 <p class="photo-credit">{isCS?'Zdroj fotografie':'Photo source'}: <a href={photo.source}>{sourceName}</a>{name&&<> · {name}</>} · {isCS?'Autor':'Author'}: {author} · <a href={photo.licenseUrl}>{licence}</a></p>
+<p class="photo-credit">{isCS?'Zmenšené varianty fotografií zachovávají poměr stran a celý snímek. Použitelné sociální náhledy mají navíc krémové pozadí.':'Reduced photograph variants preserve the aspect ratio and the complete image. Eligible social previews also include a cream background.'} <a href="/image-credits.json">{isCS?'Zdroje, licence a úpravy odvozených souborů':'Sources, licences and derivative file changes'}</a>.</p>

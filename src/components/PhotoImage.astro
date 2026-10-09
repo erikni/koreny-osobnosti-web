@@ -1,0 +1,9 @@
+---
+import assets from '../lib/image-assets.json';
+const {src, alt, class: className, width = 800, height = 600, sizes = '(max-width: 760px) 100vw, 880px', loading, fetchpriority} = Astro.props;
+const image = assets.variants[src];
+const fallback = image?.variants.find(v => v.width >= 800) ?? image?.variants.at(-1);
+---
+<img src={fallback?.src ?? src} srcset={image?.variants.map(v => `${v.src} ${v.width}w`).join(', ')}
+  sizes={image ? sizes : undefined} width={image?.width ?? width} height={image?.height ?? height}
+  alt={alt} class={className} loading={loading} fetchpriority={fetchpriority}/>

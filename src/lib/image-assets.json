@@ -1,0 +1,4564 @@
+{
+  "variants": {
+    "/images/petra-kvitova.jpg": {
+      "width": 613,
+      "height": 993,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-petra-kvitova-8e0cc332fb18-400.webp",
+          "width": 400,
+          "height": 648,
+          "bytes": 34806
+        },
+        {
+          "src": "/images/optimized/portraits-petra-kvitova-8e0cc332fb18-613.webp",
+          "width": 613,
+          "height": 993,
+          "bytes": 70080
+        }
+      ]
+    },
+    "/images/vaclav-havel.jpg": {
+      "width": 1500,
+      "height": 2209,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vaclav-havel-4d2911a4dd93-400.webp",
+          "width": 400,
+          "height": 589,
+          "bytes": 19830
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-havel-4d2911a4dd93-800.webp",
+          "width": 800,
+          "height": 1178,
+          "bytes": 50970
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-havel-4d2911a4dd93-1400.webp",
+          "width": 1400,
+          "height": 2062,
+          "bytes": 112534
+        }
+      ]
+    },
+    "/images/bara-kodetova.jpg": {
+      "width": 810,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-bara-kodetova-c298f04b705e-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 21130
+        },
+        {
+          "src": "/images/optimized/portraits-bara-kodetova-c298f04b705e-800.webp",
+          "width": 800,
+          "height": 1067,
+          "bytes": 68964
+        },
+        {
+          "src": "/images/optimized/portraits-bara-kodetova-c298f04b705e-810.webp",
+          "width": 810,
+          "height": 1080,
+          "bytes": 71880
+        }
+      ]
+    },
+    "/images/alice-masarykova.jpg": {
+      "width": 282,
+      "height": 400,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-alice-masarykova-d9a11daa867b-282.webp",
+          "width": 282,
+          "height": 400,
+          "bytes": 12070
+        }
+      ]
+    },
+    "/images/meda-mladkova.jpg": {
+      "width": 768,
+      "height": 1024,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-meda-mladkova-1e8e2b567f2a-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 59996
+        },
+        {
+          "src": "/images/optimized/portraits-meda-mladkova-1e8e2b567f2a-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 157818
+        }
+      ]
+    },
+    "/images/miroslav-ondricek.jpg": {
+      "width": 697,
+      "height": 964,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-miroslav-ondricek-1d0f67aee51a-400.webp",
+          "width": 400,
+          "height": 553,
+          "bytes": 26594
+        },
+        {
+          "src": "/images/optimized/portraits-miroslav-ondricek-1d0f67aee51a-697.webp",
+          "width": 697,
+          "height": 964,
+          "bytes": 61348
+        }
+      ]
+    },
+    "/images/sona-cervena.jpg": {
+      "width": 960,
+      "height": 1445,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-sona-cervena-159c57df3466-400.webp",
+          "width": 400,
+          "height": 602,
+          "bytes": 18596
+        },
+        {
+          "src": "/images/optimized/portraits-sona-cervena-159c57df3466-800.webp",
+          "width": 800,
+          "height": 1204,
+          "bytes": 69920
+        },
+        {
+          "src": "/images/optimized/portraits-sona-cervena-159c57df3466-960.webp",
+          "width": 960,
+          "height": 1445,
+          "bytes": 105650
+        }
+      ]
+    },
+    "/images/chantal-poullain.jpg": {
+      "width": 960,
+      "height": 1438,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-chantal-poullain-24292a3cd136-400.webp",
+          "width": 400,
+          "height": 599,
+          "bytes": 32070
+        },
+        {
+          "src": "/images/optimized/portraits-chantal-poullain-24292a3cd136-800.webp",
+          "width": 800,
+          "height": 1198,
+          "bytes": 98242
+        },
+        {
+          "src": "/images/optimized/portraits-chantal-poullain-24292a3cd136-960.webp",
+          "width": 960,
+          "height": 1438,
+          "bytes": 130704
+        }
+      ]
+    },
+    "/images/jiri-belohlavek.jpg": {
+      "width": 960,
+      "height": 1350,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jiri-belohlavek-671f97e82d9c-400.webp",
+          "width": 400,
+          "height": 563,
+          "bytes": 22938
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-belohlavek-671f97e82d9c-800.webp",
+          "width": 800,
+          "height": 1125,
+          "bytes": 88664
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-belohlavek-671f97e82d9c-960.webp",
+          "width": 960,
+          "height": 1350,
+          "bytes": 131656
+        }
+      ]
+    },
+    "/images/andrew-j-feustel.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-andrew-j-feustel-6f128185bf06-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 34926
+        },
+        {
+          "src": "/images/optimized/portraits-andrew-j-feustel-6f128185bf06-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 107246
+        },
+        {
+          "src": "/images/optimized/portraits-andrew-j-feustel-6f128185bf06-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 147816
+        }
+      ]
+    },
+    "/images/madeleine-albrightova.jpg": {
+      "width": 960,
+      "height": 1072,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-madeleine-albrightova-5a3e443c037b-400.webp",
+          "width": 400,
+          "height": 447,
+          "bytes": 11604
+        },
+        {
+          "src": "/images/optimized/portraits-madeleine-albrightova-5a3e443c037b-800.webp",
+          "width": 800,
+          "height": 893,
+          "bytes": 61034
+        },
+        {
+          "src": "/images/optimized/portraits-madeleine-albrightova-5a3e443c037b-960.webp",
+          "width": 960,
+          "height": 1072,
+          "bytes": 87586
+        }
+      ]
+    },
+    "/images/stefan-margita.jpg": {
+      "width": 960,
+      "height": 1210,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-stefan-margita-6168e0779df9-400.webp",
+          "width": 400,
+          "height": 504,
+          "bytes": 31304
+        },
+        {
+          "src": "/images/optimized/portraits-stefan-margita-6168e0779df9-800.webp",
+          "width": 800,
+          "height": 1008,
+          "bytes": 114228
+        },
+        {
+          "src": "/images/optimized/portraits-stefan-margita-6168e0779df9-960.webp",
+          "width": 960,
+          "height": 1210,
+          "bytes": 162462
+        }
+      ]
+    },
+    "/images/jan-zelezny.jpg": {
+      "width": 784,
+      "height": 926,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-zelezny-40e78857ad80-400.webp",
+          "width": 400,
+          "height": 472,
+          "bytes": 11108
+        },
+        {
+          "src": "/images/optimized/portraits-jan-zelezny-40e78857ad80-784.webp",
+          "width": 784,
+          "height": 926,
+          "bytes": 25306
+        }
+      ]
+    },
+    "/images/antonin-panenka.jpg": {
+      "width": 960,
+      "height": 1338,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-antonin-panenka-9850de067d5c-400.webp",
+          "width": 400,
+          "height": 558,
+          "bytes": 26194
+        },
+        {
+          "src": "/images/optimized/portraits-antonin-panenka-9850de067d5c-800.webp",
+          "width": 800,
+          "height": 1115,
+          "bytes": 109862
+        },
+        {
+          "src": "/images/optimized/portraits-antonin-panenka-9850de067d5c-960.webp",
+          "width": 960,
+          "height": 1338,
+          "bytes": 154864
+        }
+      ]
+    },
+    "/images/vladimir-jiranek.jpg": {
+      "width": 448,
+      "height": 358,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vladimir-jiranek-17b98bd969b1-400.webp",
+          "width": 400,
+          "height": 320,
+          "bytes": 14500
+        },
+        {
+          "src": "/images/optimized/portraits-vladimir-jiranek-17b98bd969b1-448.webp",
+          "width": 448,
+          "height": 358,
+          "bytes": 19858
+        }
+      ]
+    },
+    "/images/gabriela-koukalova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-gabriela-koukalova-3d132ae5bbe5-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 35586
+        },
+        {
+          "src": "/images/optimized/portraits-gabriela-koukalova-3d132ae5bbe5-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 96914
+        },
+        {
+          "src": "/images/optimized/portraits-gabriela-koukalova-3d132ae5bbe5-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 120970
+        }
+      ]
+    },
+    "/images/mathilda-nostitzova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-mathilda-nostitzova-48edea8b8980-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 25506
+        },
+        {
+          "src": "/images/optimized/portraits-mathilda-nostitzova-48edea8b8980-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 78228
+        },
+        {
+          "src": "/images/optimized/portraits-mathilda-nostitzova-48edea8b8980-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 102218
+        }
+      ]
+    },
+    "/images/marie-vodickova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-marie-vodickova-7da20804e3e2-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 38800
+        },
+        {
+          "src": "/images/optimized/portraits-marie-vodickova-7da20804e3e2-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 110248
+        },
+        {
+          "src": "/images/optimized/portraits-marie-vodickova-7da20804e3e2-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 140482
+        }
+      ]
+    },
+    "/images/radek-jaros.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-radek-jaros-60d8a6a93dc7-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 29368
+        },
+        {
+          "src": "/images/optimized/portraits-radek-jaros-60d8a6a93dc7-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 91828
+        },
+        {
+          "src": "/images/optimized/portraits-radek-jaros-60d8a6a93dc7-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 123506
+        }
+      ]
+    },
+    "/images/nicholas-winton.jpg": {
+      "width": 960,
+      "height": 720,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-nicholas-winton-eae0a8457c2d-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 16784
+        },
+        {
+          "src": "/images/optimized/portraits-nicholas-winton-eae0a8457c2d-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 56032
+        },
+        {
+          "src": "/images/optimized/portraits-nicholas-winton-eae0a8457c2d-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 78684
+        }
+      ]
+    },
+    "/images/theodor-pistek.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-theodor-pistek-4c8fc14fa31f-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 22048
+        },
+        {
+          "src": "/images/optimized/portraits-theodor-pistek-4c8fc14fa31f-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 64338
+        },
+        {
+          "src": "/images/optimized/portraits-theodor-pistek-4c8fc14fa31f-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 83714
+        }
+      ]
+    },
+    "/images/adriana-krnacova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-adriana-krnacova-a526d082b236-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 22250
+        },
+        {
+          "src": "/images/optimized/portraits-adriana-krnacova-a526d082b236-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 60144
+        },
+        {
+          "src": "/images/optimized/portraits-adriana-krnacova-a526d082b236-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 76044
+        }
+      ]
+    },
+    "/images/venceslava-hrdlickova.jpg": {
+      "width": 116,
+      "height": 146,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-venceslava-hrdlickova-abfc2bd2e126-116.webp",
+          "width": 116,
+          "height": 146,
+          "bytes": 5548
+        }
+      ]
+    },
+    "/images/petr-sis.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-petr-sis-99567ca0e7ed-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 21648
+        },
+        {
+          "src": "/images/optimized/portraits-petr-sis-99567ca0e7ed-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 59998
+        },
+        {
+          "src": "/images/optimized/portraits-petr-sis-99567ca0e7ed-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 77888
+        }
+      ]
+    },
+    "/images/miroslav-zikmund.jpg": {
+      "width": 811,
+      "height": 1550,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-miroslav-zikmund-bd139ec96a6b-400.webp",
+          "width": 400,
+          "height": 764,
+          "bytes": 26998
+        },
+        {
+          "src": "/images/optimized/portraits-miroslav-zikmund-bd139ec96a6b-800.webp",
+          "width": 800,
+          "height": 1529,
+          "bytes": 73186
+        },
+        {
+          "src": "/images/optimized/portraits-miroslav-zikmund-bd139ec96a6b-811.webp",
+          "width": 811,
+          "height": 1550,
+          "bytes": 76258
+        }
+      ]
+    },
+    "/images/14-dalajlama.jpg": {
+      "width": 748,
+      "height": 1234,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-14-dalajlama-93db5c77a562-400.webp",
+          "width": 400,
+          "height": 660,
+          "bytes": 26044
+        },
+        {
+          "src": "/images/optimized/portraits-14-dalajlama-93db5c77a562-748.webp",
+          "width": 748,
+          "height": 1234,
+          "bytes": 64316
+        }
+      ]
+    },
+    "/images/tomas-garrigue-masaryk.png": {
+      "width": 637,
+      "height": 828,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-tomas-garrigue-masaryk-50e5ae719850-400.webp",
+          "width": 400,
+          "height": 520,
+          "bytes": 55642
+        },
+        {
+          "src": "/images/optimized/portraits-tomas-garrigue-masaryk-50e5ae719850-637.webp",
+          "width": 637,
+          "height": 828,
+          "bytes": 154300
+        }
+      ]
+    },
+    "/images/jiri-friml.png": {
+      "width": 720,
+      "height": 720,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jiri-friml-4e13bf3961be-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 12980
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-friml-4e13bf3961be-720.webp",
+          "width": 720,
+          "height": 720,
+          "bytes": 25854
+        }
+      ]
+    },
+    "/images/martin-doktor.jpg": {
+      "width": 640,
+      "height": 480,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-martin-doktor-0b5ff46c574a-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 27718
+        },
+        {
+          "src": "/images/optimized/portraits-martin-doktor-0b5ff46c574a-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 56086
+        }
+      ]
+    },
+    "/images/dana-zatopkova.jpg": {
+      "width": 420,
+      "height": 280,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-dana-zatopkova-799f81c1181e-400.webp",
+          "width": 400,
+          "height": 267,
+          "bytes": 25482
+        },
+        {
+          "src": "/images/optimized/portraits-dana-zatopkova-799f81c1181e-420.webp",
+          "width": 420,
+          "height": 280,
+          "bytes": 27148
+        }
+      ]
+    },
+    "/images/kveta-jeriova-peckova.jpg": {
+      "width": 453,
+      "height": 784,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-kveta-jeriova-peckova-73c15cb79e71-400.webp",
+          "width": 400,
+          "height": 692,
+          "bytes": 39338
+        },
+        {
+          "src": "/images/optimized/portraits-kveta-jeriova-peckova-73c15cb79e71-453.webp",
+          "width": 453,
+          "height": 784,
+          "bytes": 51280
+        }
+      ]
+    },
+    "/images/pavel-sporcl.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-pavel-sporcl-ad134849db87-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 25730
+        },
+        {
+          "src": "/images/optimized/portraits-pavel-sporcl-ad134849db87-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 72046
+        },
+        {
+          "src": "/images/optimized/portraits-pavel-sporcl-ad134849db87-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 93584
+        }
+      ]
+    },
+    "/images/petr-fejk.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-petr-fejk-62044edc0a82-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 21768
+        },
+        {
+          "src": "/images/optimized/portraits-petr-fejk-62044edc0a82-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 60426
+        },
+        {
+          "src": "/images/optimized/portraits-petr-fejk-62044edc0a82-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 76080
+        }
+      ]
+    },
+    "/images/manolo-blahnik.jpg": {
+      "width": 1024,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-manolo-blahnik-472a17c19610-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 19546
+        },
+        {
+          "src": "/images/optimized/portraits-manolo-blahnik-472a17c19610-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 55932
+        },
+        {
+          "src": "/images/optimized/portraits-manolo-blahnik-472a17c19610-1024.webp",
+          "width": 1024,
+          "height": 1280,
+          "bytes": 77840
+        }
+      ]
+    },
+    "/images/dagmar-peckova.jpg": {
+      "width": 2987,
+      "height": 2655,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-dagmar-peckova-4f1d9ee03615-400.webp",
+          "width": 400,
+          "height": 355,
+          "bytes": 14602
+        },
+        {
+          "src": "/images/optimized/portraits-dagmar-peckova-4f1d9ee03615-800.webp",
+          "width": 800,
+          "height": 711,
+          "bytes": 38852
+        },
+        {
+          "src": "/images/optimized/portraits-dagmar-peckova-4f1d9ee03615-1400.webp",
+          "width": 1400,
+          "height": 1244,
+          "bytes": 95140
+        }
+      ]
+    },
+    "/images/david-drahoninsky.jpg": {
+      "width": 960,
+      "height": 640,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-david-drahoninsky-fab5d8db7094-400.webp",
+          "width": 400,
+          "height": 267,
+          "bytes": 18694
+        },
+        {
+          "src": "/images/optimized/portraits-david-drahoninsky-fab5d8db7094-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 49262
+        },
+        {
+          "src": "/images/optimized/portraits-david-drahoninsky-fab5d8db7094-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 62318
+        }
+      ]
+    },
+    "/images/ludvik-vaculik.jpg": {
+      "width": 960,
+      "height": 1141,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-ludvik-vaculik-1ffbc0b1b235-400.webp",
+          "width": 400,
+          "height": 475,
+          "bytes": 14180
+        },
+        {
+          "src": "/images/optimized/portraits-ludvik-vaculik-1ffbc0b1b235-800.webp",
+          "width": 800,
+          "height": 951,
+          "bytes": 47770
+        },
+        {
+          "src": "/images/optimized/portraits-ludvik-vaculik-1ffbc0b1b235-960.webp",
+          "width": 960,
+          "height": 1141,
+          "bytes": 67668
+        }
+      ]
+    },
+    "/images/david-ondricek.jpg": {
+      "width": 5171,
+      "height": 3447,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-david-ondricek-244d06bbdc55-400.webp",
+          "width": 400,
+          "height": 266,
+          "bytes": 11200
+        },
+        {
+          "src": "/images/optimized/portraits-david-ondricek-244d06bbdc55-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 29284
+        },
+        {
+          "src": "/images/optimized/portraits-david-ondricek-244d06bbdc55-1400.webp",
+          "width": 1400,
+          "height": 933,
+          "bytes": 76624
+        }
+      ]
+    },
+    "/images/pierre-richard.jpg": {
+      "width": 960,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-pierre-richard-92da43d48752-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 21502
+        },
+        {
+          "src": "/images/optimized/portraits-pierre-richard-92da43d48752-800.webp",
+          "width": 800,
+          "height": 1067,
+          "bytes": 74238
+        },
+        {
+          "src": "/images/optimized/portraits-pierre-richard-92da43d48752-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 103858
+        }
+      ]
+    },
+    "/images/magdalena-kozena.jpg": {
+      "width": 960,
+      "height": 640,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-magdalena-kozena-0e84ca84356f-400.webp",
+          "width": 400,
+          "height": 267,
+          "bytes": 23274
+        },
+        {
+          "src": "/images/optimized/portraits-magdalena-kozena-0e84ca84356f-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 85558
+        },
+        {
+          "src": "/images/optimized/portraits-magdalena-kozena-0e84ca84356f-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 122952
+        }
+      ]
+    },
+    "/images/eliska-buckova.jpg": {
+      "width": 1024,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-eliska-buckova-a556d2dcc6b8-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 17832
+        },
+        {
+          "src": "/images/optimized/portraits-eliska-buckova-a556d2dcc6b8-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 46700
+        },
+        {
+          "src": "/images/optimized/portraits-eliska-buckova-a556d2dcc6b8-1024.webp",
+          "width": 1024,
+          "height": 1280,
+          "bytes": 68368
+        }
+      ]
+    },
+    "/images/ester-ledecka.webp": {
+      "width": 2000,
+      "height": 1333,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-ester-ledecka-c8eee4e7bf28-400.webp",
+          "width": 400,
+          "height": 267,
+          "bytes": 15608
+        },
+        {
+          "src": "/images/optimized/portraits-ester-ledecka-c8eee4e7bf28-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 46156
+        },
+        {
+          "src": "/images/optimized/portraits-ester-ledecka-c8eee4e7bf28-1400.webp",
+          "width": 1400,
+          "height": 933,
+          "bytes": 104778
+        }
+      ]
+    },
+    "/images/bohuslav-svoboda.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-bohuslav-svoboda-167a7e34f303-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 19202
+        },
+        {
+          "src": "/images/optimized/portraits-bohuslav-svoboda-167a7e34f303-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 50404
+        },
+        {
+          "src": "/images/optimized/portraits-bohuslav-svoboda-167a7e34f303-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 66214
+        }
+      ]
+    },
+    "/images/jiri-hanzelka.jpg": {
+      "width": 250,
+      "height": 333,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jiri-hanzelka-92b2bf406c69-250.webp",
+          "width": 250,
+          "height": 333,
+          "bytes": 18014
+        }
+      ]
+    },
+    "/images/vaclav-kuchynka.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vaclav-kuchynka-be8271030f8a-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 27334
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-kuchynka-be8271030f8a-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 89560
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-kuchynka-be8271030f8a-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 127556
+        }
+      ]
+    },
+    "/images/marek-benes.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-marek-benes-964ffdec37d1-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 38860
+        },
+        {
+          "src": "/images/optimized/portraits-marek-benes-964ffdec37d1-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 118844
+        },
+        {
+          "src": "/images/optimized/portraits-marek-benes-964ffdec37d1-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 154030
+        }
+      ]
+    },
+    "/images/lukas-krpalek-official.jpg": {
+      "width": 4475,
+      "height": 2983,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-lukas-krpalek-6d1a771111b1-400.webp",
+          "width": 400,
+          "height": 266,
+          "bytes": 12632
+        },
+        {
+          "src": "/images/optimized/portraits-lukas-krpalek-6d1a771111b1-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 35114
+        },
+        {
+          "src": "/images/optimized/portraits-lukas-krpalek-6d1a771111b1-1400.webp",
+          "width": 1400,
+          "height": 933,
+          "bytes": 87872
+        }
+      ]
+    },
+    "/images/alfons-mucha.jpg": {
+      "width": 500,
+      "height": 692,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-alfons-mucha-de10eae29501-400.webp",
+          "width": 400,
+          "height": 554,
+          "bytes": 24544
+        },
+        {
+          "src": "/images/optimized/portraits-alfons-mucha-de10eae29501-500.webp",
+          "width": 500,
+          "height": 692,
+          "bytes": 37668
+        }
+      ]
+    },
+    "/images/barbora-spotakova-official.jpg": {
+      "width": 2800,
+      "height": 1867,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-barbora-spotakova-0ac4171740fb-400.webp",
+          "width": 400,
+          "height": 266,
+          "bytes": 10260
+        },
+        {
+          "src": "/images/optimized/portraits-barbora-spotakova-0ac4171740fb-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 27060
+        },
+        {
+          "src": "/images/optimized/portraits-barbora-spotakova-0ac4171740fb-1400.webp",
+          "width": 1400,
+          "height": 934,
+          "bytes": 60890
+        }
+      ]
+    },
+    "/images/karel-gott.jpg": {
+      "width": 960,
+      "height": 1268,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-karel-gott-33ea29a82903-400.webp",
+          "width": 400,
+          "height": 528,
+          "bytes": 46958
+        },
+        {
+          "src": "/images/optimized/portraits-karel-gott-33ea29a82903-800.webp",
+          "width": 800,
+          "height": 1057,
+          "bytes": 181474
+        },
+        {
+          "src": "/images/optimized/portraits-karel-gott-33ea29a82903-960.webp",
+          "width": 960,
+          "height": 1268,
+          "bytes": 253196
+        }
+      ]
+    },
+    "/images/vojtech-jasny.jpg": {
+      "width": 960,
+      "height": 1217,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vojtech-jasny-a24385b63fff-400.webp",
+          "width": 400,
+          "height": 507,
+          "bytes": 29806
+        },
+        {
+          "src": "/images/optimized/portraits-vojtech-jasny-a24385b63fff-800.webp",
+          "width": 800,
+          "height": 1014,
+          "bytes": 118030
+        },
+        {
+          "src": "/images/optimized/portraits-vojtech-jasny-a24385b63fff-960.webp",
+          "width": 960,
+          "height": 1217,
+          "bytes": 165228
+        }
+      ]
+    },
+    "/images/jaroslav-sterba.png": {
+      "width": 345,
+      "height": 502,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jaroslav-sterba-40ab70db8e08-345.webp",
+          "width": 345,
+          "height": 502,
+          "bytes": 12882
+        }
+      ]
+    },
+    "/images/vaclav-cilek.jpg": {
+      "width": 500,
+      "height": 640,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vaclav-cilek-5db11288adbe-400.webp",
+          "width": 400,
+          "height": 512,
+          "bytes": 33620
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-cilek-5db11288adbe-500.webp",
+          "width": 500,
+          "height": 640,
+          "bytes": 50372
+        }
+      ]
+    },
+    "/images/daria-klimentova.jpg": {
+      "width": 544,
+      "height": 680,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-daria-klimentova-e11c27dd9540-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 27710
+        },
+        {
+          "src": "/images/optimized/portraits-daria-klimentova-e11c27dd9540-544.webp",
+          "width": 544,
+          "height": 680,
+          "bytes": 42952
+        }
+      ]
+    },
+    "/images/vera-caslavska.jpg": {
+      "width": 332,
+      "height": 608,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vera-caslavska-1f6eebc1ab3a-332.webp",
+          "width": 332,
+          "height": 608,
+          "bytes": 24460
+        }
+      ]
+    },
+    "/images/vaclav-postranecky.jpg": {
+      "width": 1280,
+      "height": 1313,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vaclav-postranecky-ac0346ae4825-400.webp",
+          "width": 400,
+          "height": 410,
+          "bytes": 23070
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-postranecky-ac0346ae4825-800.webp",
+          "width": 800,
+          "height": 821,
+          "bytes": 85612
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-postranecky-ac0346ae4825-1280.webp",
+          "width": 1280,
+          "height": 1313,
+          "bytes": 204116
+        }
+      ]
+    },
+    "/images/jiri-jezek.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jiri-jezek-1e5aa4183a00-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 29186
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-jezek-1e5aa4183a00-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 68424
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-jezek-1e5aa4183a00-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 86892
+        }
+      ]
+    },
+    "/images/linda-wichterlova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-linda-wichterlova-7e98a6e55f8d-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 16864
+        },
+        {
+          "src": "/images/optimized/portraits-linda-wichterlova-7e98a6e55f8d-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 46006
+        },
+        {
+          "src": "/images/optimized/portraits-linda-wichterlova-7e98a6e55f8d-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 61670
+        }
+      ]
+    },
+    "/images/zdenek-miler.jpg": {
+      "width": 500,
+      "height": 649,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-zdenek-miler-f2c1aad746f9-400.webp",
+          "width": 400,
+          "height": 519,
+          "bytes": 41222
+        },
+        {
+          "src": "/images/optimized/portraits-zdenek-miler-f2c1aad746f9-500.webp",
+          "width": 500,
+          "height": 649,
+          "bytes": 67722
+        }
+      ]
+    },
+    "/images/petr-pavel.jpg": {
+      "width": 960,
+      "height": 1288,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-petr-pavel-e875a2faa934-400.webp",
+          "width": 400,
+          "height": 537,
+          "bytes": 27768
+        },
+        {
+          "src": "/images/optimized/portraits-petr-pavel-e875a2faa934-800.webp",
+          "width": 800,
+          "height": 1073,
+          "bytes": 162648
+        },
+        {
+          "src": "/images/optimized/portraits-petr-pavel-e875a2faa934-960.webp",
+          "width": 960,
+          "height": 1288,
+          "bytes": 265188
+        }
+      ]
+    },
+    "/images/josef-koutecky.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-josef-koutecky-9f56772b244a-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 22196
+        },
+        {
+          "src": "/images/optimized/portraits-josef-koutecky-9f56772b244a-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 57526
+        },
+        {
+          "src": "/images/optimized/portraits-josef-koutecky-9f56772b244a-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 74030
+        }
+      ]
+    },
+    "/images/josef-masopust.jpg": {
+      "width": 960,
+      "height": 1387,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-josef-masopust-eb74ac9857a8-400.webp",
+          "width": 400,
+          "height": 578,
+          "bytes": 41500
+        },
+        {
+          "src": "/images/optimized/portraits-josef-masopust-eb74ac9857a8-800.webp",
+          "width": 800,
+          "height": 1156,
+          "bytes": 177868
+        },
+        {
+          "src": "/images/optimized/portraits-josef-masopust-eb74ac9857a8-960.webp",
+          "width": 960,
+          "height": 1387,
+          "bytes": 244874
+        }
+      ]
+    },
+    "/images/jirina-jiraskova.jpg": {
+      "width": 762,
+      "height": 1131,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jirina-jiraskova-4ec107023a27-400.webp",
+          "width": 400,
+          "height": 594,
+          "bytes": 24666
+        },
+        {
+          "src": "/images/optimized/portraits-jirina-jiraskova-4ec107023a27-762.webp",
+          "width": 762,
+          "height": 1131,
+          "bytes": 62078
+        }
+      ]
+    },
+    "/images/vendula-svobodova.jpg": {
+      "width": 250,
+      "height": 312,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vendula-svobodova-2a69e50a39b4-250.webp",
+          "width": 250,
+          "height": 312,
+          "bytes": 12236
+        }
+      ]
+    },
+    "/images/tatana-gregor-kucharova.jpg": {
+      "width": 500,
+      "height": 625,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-tatana-gregor-kucharova-873931edd266-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 22716
+        },
+        {
+          "src": "/images/optimized/portraits-tatana-gregor-kucharova-873931edd266-500.webp",
+          "width": 500,
+          "height": 625,
+          "bytes": 39222
+        }
+      ]
+    },
+    "/images/stepanka-duchkova.jpg": {
+      "width": 960,
+      "height": 1419,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-stepanka-duchkova-5032e8788b0f-400.webp",
+          "width": 400,
+          "height": 591,
+          "bytes": 44844
+        },
+        {
+          "src": "/images/optimized/portraits-stepanka-duchkova-5032e8788b0f-800.webp",
+          "width": 800,
+          "height": 1183,
+          "bytes": 175896
+        },
+        {
+          "src": "/images/optimized/portraits-stepanka-duchkova-5032e8788b0f-960.webp",
+          "width": 960,
+          "height": 1419,
+          "bytes": 237204
+        }
+      ]
+    },
+    "/images/jiri-suchy.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jiri-suchy-7979bacf0cba-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 21082
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-suchy-7979bacf0cba-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 68938
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-suchy-7979bacf0cba-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 88864
+        }
+      ]
+    },
+    "/images/iva-janzurova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-iva-janzurova-dbd5585ba1c0-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 34388
+        },
+        {
+          "src": "/images/optimized/portraits-iva-janzurova-dbd5585ba1c0-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 117452
+        },
+        {
+          "src": "/images/optimized/portraits-iva-janzurova-dbd5585ba1c0-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 156136
+        }
+      ]
+    },
+    "/images/tomas-hudecek.jpg": {
+      "width": 960,
+      "height": 1449,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-tomas-hudecek-af9629a46d34-400.webp",
+          "width": 400,
+          "height": 604,
+          "bytes": 44024
+        },
+        {
+          "src": "/images/optimized/portraits-tomas-hudecek-af9629a46d34-800.webp",
+          "width": 800,
+          "height": 1208,
+          "bytes": 168392
+        },
+        {
+          "src": "/images/optimized/portraits-tomas-hudecek-af9629a46d34-960.webp",
+          "width": 960,
+          "height": 1449,
+          "bytes": 240976
+        }
+      ]
+    },
+    "/images/zdenek-sverak.jpg": {
+      "width": 500,
+      "height": 625,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-zdenek-sverak-30c6ac9cc22b-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 31998
+        },
+        {
+          "src": "/images/optimized/portraits-zdenek-sverak-30c6ac9cc22b-500.webp",
+          "width": 500,
+          "height": 625,
+          "bytes": 51082
+        }
+      ]
+    },
+    "/images/petr-cech-official.jpg": {
+      "width": 1440,
+      "height": 923,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-petr-cech-bacd3e6c7351-400.webp",
+          "width": 400,
+          "height": 256,
+          "bytes": 6708
+        },
+        {
+          "src": "/images/optimized/portraits-petr-cech-bacd3e6c7351-800.webp",
+          "width": 800,
+          "height": 513,
+          "bytes": 21384
+        },
+        {
+          "src": "/images/optimized/portraits-petr-cech-bacd3e6c7351-1400.webp",
+          "width": 1400,
+          "height": 897,
+          "bytes": 60540
+        }
+      ]
+    },
+    "/images/pavel-pafko.jpg": {
+      "width": 1280,
+      "height": 1600,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-pavel-pafko-2f1d05ddb381-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 22902
+        },
+        {
+          "src": "/images/optimized/portraits-pavel-pafko-2f1d05ddb381-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 53904
+        },
+        {
+          "src": "/images/optimized/portraits-pavel-pafko-2f1d05ddb381-1280.webp",
+          "width": 1280,
+          "height": 1600,
+          "bytes": 100480
+        }
+      ]
+    },
+    "/images/antonin-kratochvil.jpg": {
+      "width": 500,
+      "height": 400,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-antonin-kratochvil-2dbae4942064-400.webp",
+          "width": 400,
+          "height": 320,
+          "bytes": 20138
+        },
+        {
+          "src": "/images/optimized/portraits-antonin-kratochvil-2dbae4942064-500.webp",
+          "width": 500,
+          "height": 400,
+          "bytes": 30446
+        }
+      ]
+    },
+    "/images/jan-hrebejk.jpg": {
+      "width": 960,
+      "height": 1440,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-hrebejk-0330dc9ec5ff-400.webp",
+          "width": 400,
+          "height": 600,
+          "bytes": 25168
+        },
+        {
+          "src": "/images/optimized/portraits-jan-hrebejk-0330dc9ec5ff-800.webp",
+          "width": 800,
+          "height": 1200,
+          "bytes": 97524
+        },
+        {
+          "src": "/images/optimized/portraits-jan-hrebejk-0330dc9ec5ff-960.webp",
+          "width": 960,
+          "height": 1440,
+          "bytes": 159252
+        }
+      ]
+    },
+    "/images/jirina-bohdalova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jirina-bohdalova-95691e6f8efa-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 30686
+        },
+        {
+          "src": "/images/optimized/portraits-jirina-bohdalova-95691e6f8efa-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 95184
+        },
+        {
+          "src": "/images/optimized/portraits-jirina-bohdalova-95691e6f8efa-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 125882
+        }
+      ]
+    },
+    "/images/jiri-anderle.jpg": {
+      "width": 250,
+      "height": 312,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jiri-anderle-25d9a7e81165-250.webp",
+          "width": 250,
+          "height": 312,
+          "bytes": 17052
+        }
+      ]
+    },
+    "/images/otakar-vavra.jpg": {
+      "width": 308,
+      "height": 262,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-otakar-vavra-abce18bf51c8-308.webp",
+          "width": 308,
+          "height": 262,
+          "bytes": 12006
+        }
+      ]
+    },
+    "/images/eva-jiricna.jpg": {
+      "width": 907,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-eva-jiricna-23e08d7a85ad-400.webp",
+          "width": 400,
+          "height": 564,
+          "bytes": 26714
+        },
+        {
+          "src": "/images/optimized/portraits-eva-jiricna-23e08d7a85ad-800.webp",
+          "width": 800,
+          "height": 1129,
+          "bytes": 77952
+        },
+        {
+          "src": "/images/optimized/portraits-eva-jiricna-23e08d7a85ad-907.webp",
+          "width": 907,
+          "height": 1280,
+          "bytes": 93872
+        }
+      ]
+    },
+    "/images/helena-illnerova.jpg": {
+      "width": 1280,
+      "height": 853,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-helena-illnerova-19a1c8fc2403-400.webp",
+          "width": 400,
+          "height": 266,
+          "bytes": 16238
+        },
+        {
+          "src": "/images/optimized/portraits-helena-illnerova-19a1c8fc2403-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 51200
+        },
+        {
+          "src": "/images/optimized/portraits-helena-illnerova-19a1c8fc2403-1280.webp",
+          "width": 1280,
+          "height": 853,
+          "bytes": 117364
+        }
+      ]
+    },
+    "/images/anna-geislerova.jpg": {
+      "width": 250,
+      "height": 312,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-anna-geislerova-4bbe60ef6694-250.webp",
+          "width": 250,
+          "height": 312,
+          "bytes": 18454
+        }
+      ]
+    },
+    "/images/lida-rakusanova.jpg": {
+      "width": 960,
+      "height": 636,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-lida-rakusanova-67a2cca0b171-400.webp",
+          "width": 400,
+          "height": 265,
+          "bytes": 10670
+        },
+        {
+          "src": "/images/optimized/portraits-lida-rakusanova-67a2cca0b171-800.webp",
+          "width": 800,
+          "height": 530,
+          "bytes": 40130
+        },
+        {
+          "src": "/images/optimized/portraits-lida-rakusanova-67a2cca0b171-960.webp",
+          "width": 960,
+          "height": 636,
+          "bytes": 58502
+        }
+      ]
+    },
+    "/images/katerina-neumannova-official.png": {
+      "width": 920,
+      "height": 482,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-katerina-neumannova-4c257d0be137-400.webp",
+          "width": 400,
+          "height": 210,
+          "bytes": 21514
+        },
+        {
+          "src": "/images/optimized/portraits-katerina-neumannova-4c257d0be137-800.webp",
+          "width": 800,
+          "height": 419,
+          "bytes": 61238
+        },
+        {
+          "src": "/images/optimized/portraits-katerina-neumannova-4c257d0be137-920.webp",
+          "width": 920,
+          "height": 482,
+          "bytes": 70838
+        }
+      ]
+    },
+    "/images/josef-vana.jpg": {
+      "width": 533,
+      "height": 800,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-josef-vana-a5f6e05edcdb-400.webp",
+          "width": 400,
+          "height": 600,
+          "bytes": 28606
+        },
+        {
+          "src": "/images/optimized/portraits-josef-vana-a5f6e05edcdb-533.webp",
+          "width": 533,
+          "height": 800,
+          "bytes": 46470
+        }
+      ]
+    },
+    "/images/jan-pirk.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-pirk-def795862cb7-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 27662
+        },
+        {
+          "src": "/images/optimized/portraits-jan-pirk-def795862cb7-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 97848
+        },
+        {
+          "src": "/images/optimized/portraits-jan-pirk-def795862cb7-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 137536
+        }
+      ]
+    },
+    "/images/tomas-j-bata.jpg": {
+      "width": 960,
+      "height": 1397,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-tomas-j-bata-f5334e3c7ad8-400.webp",
+          "width": 400,
+          "height": 582,
+          "bytes": 23464
+        },
+        {
+          "src": "/images/optimized/portraits-tomas-j-bata-f5334e3c7ad8-800.webp",
+          "width": 800,
+          "height": 1164,
+          "bytes": 87554
+        },
+        {
+          "src": "/images/optimized/portraits-tomas-j-bata-f5334e3c7ad8-960.webp",
+          "width": 960,
+          "height": 1397,
+          "bytes": 131652
+        }
+      ]
+    },
+    "/images/martina-smukova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-martina-smukova-2967964887b4-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 14518
+        },
+        {
+          "src": "/images/optimized/portraits-martina-smukova-2967964887b4-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 36996
+        },
+        {
+          "src": "/images/optimized/portraits-martina-smukova-2967964887b4-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 48364
+        }
+      ]
+    },
+    "/images/david-smoljak.jpg": {
+      "width": 650,
+      "height": 867,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-david-smoljak-9da4822af94f-400.webp",
+          "width": 400,
+          "height": 534,
+          "bytes": 19566
+        },
+        {
+          "src": "/images/optimized/portraits-david-smoljak-9da4822af94f-650.webp",
+          "width": 650,
+          "height": 867,
+          "bytes": 42966
+        }
+      ]
+    },
+    "/images/helena-stachova.jpg": {
+      "width": 960,
+      "height": 800,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-helena-stachova-2cf618571412-400.webp",
+          "width": 400,
+          "height": 333,
+          "bytes": 22942
+        },
+        {
+          "src": "/images/optimized/portraits-helena-stachova-2cf618571412-800.webp",
+          "width": 800,
+          "height": 667,
+          "bytes": 83502
+        },
+        {
+          "src": "/images/optimized/portraits-helena-stachova-2cf618571412-960.webp",
+          "width": 960,
+          "height": 800,
+          "bytes": 122916
+        }
+      ]
+    },
+    "/images/martin-hilsky.jpg": {
+      "width": 500,
+      "height": 625,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-martin-hilsky-0b10788573dc-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 15326
+        },
+        {
+          "src": "/images/optimized/portraits-martin-hilsky-0b10788573dc-500.webp",
+          "width": 500,
+          "height": 625,
+          "bytes": 23894
+        }
+      ]
+    },
+    "/images/jan-sverak.jpg": {
+      "width": 250,
+      "height": 345,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-sverak-5b68a85cf1fa-250.webp",
+          "width": 250,
+          "height": 345,
+          "bytes": 13442
+        }
+      ]
+    },
+    "/images/zuzana-baudysova.jpg": {
+      "width": 960,
+      "height": 1438,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-zuzana-baudysova-24a7243344f8-400.webp",
+          "width": 400,
+          "height": 599,
+          "bytes": 45338
+        },
+        {
+          "src": "/images/optimized/portraits-zuzana-baudysova-24a7243344f8-800.webp",
+          "width": 800,
+          "height": 1198,
+          "bytes": 159734
+        },
+        {
+          "src": "/images/optimized/portraits-zuzana-baudysova-24a7243344f8-960.webp",
+          "width": 960,
+          "height": 1438,
+          "bytes": 228138
+        }
+      ]
+    },
+    "/images/emil-zatopek-official.png": {
+      "width": 500,
+      "height": 655,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-emil-zatopek-e053ae5e0e26-400.webp",
+          "width": 400,
+          "height": 524,
+          "bytes": 39772
+        },
+        {
+          "src": "/images/optimized/portraits-emil-zatopek-e053ae5e0e26-500.webp",
+          "width": 500,
+          "height": 655,
+          "bytes": 52842
+        }
+      ]
+    },
+    "/images/stepanka-hilgertova-official.avif": {
+      "width": 567,
+      "height": 800,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-stepanka-hilgertova-672714901ad5-400.webp",
+          "width": 400,
+          "height": 564,
+          "bytes": 37098
+        },
+        {
+          "src": "/images/optimized/portraits-stepanka-hilgertova-672714901ad5-567.webp",
+          "width": 567,
+          "height": 800,
+          "bytes": 56710
+        }
+      ]
+    },
+    "/images/petr-janda.jpg": {
+      "width": 960,
+      "height": 960,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-petr-janda-82ae4dc070fb-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 18106
+        },
+        {
+          "src": "/images/optimized/portraits-petr-janda-82ae4dc070fb-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 58258
+        },
+        {
+          "src": "/images/optimized/portraits-petr-janda-82ae4dc070fb-960.webp",
+          "width": 960,
+          "height": 960,
+          "bytes": 82944
+        }
+      ]
+    },
+    "/images/zuzana-caputova.jpg": {
+      "width": 648,
+      "height": 851,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-zuzana-caputova-f8b9849d11c0-400.webp",
+          "width": 400,
+          "height": 525,
+          "bytes": 19728
+        },
+        {
+          "src": "/images/optimized/portraits-zuzana-caputova-f8b9849d11c0-648.webp",
+          "width": 648,
+          "height": 851,
+          "bytes": 41534
+        }
+      ]
+    },
+    "/images/tomas-bata.jpg": {
+      "width": 417,
+      "height": 559,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-tomas-bata-cd3c221cb6ac-400.webp",
+          "width": 400,
+          "height": 536,
+          "bytes": 27910
+        },
+        {
+          "src": "/images/optimized/portraits-tomas-bata-cd3c221cb6ac-417.webp",
+          "width": 417,
+          "height": 559,
+          "bytes": 29900
+        }
+      ]
+    },
+    "/images/karel-loprais.jpg": {
+      "width": 960,
+      "height": 643,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-karel-loprais-6f2254727a30-400.webp",
+          "width": 400,
+          "height": 268,
+          "bytes": 20106
+        },
+        {
+          "src": "/images/optimized/portraits-karel-loprais-6f2254727a30-800.webp",
+          "width": 800,
+          "height": 536,
+          "bytes": 52074
+        },
+        {
+          "src": "/images/optimized/portraits-karel-loprais-6f2254727a30-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 69514
+        }
+      ]
+    },
+    "/images/jiri-menzel.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jiri-menzel-e0c0f307489f-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 37702
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-menzel-e0c0f307489f-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 92682
+        },
+        {
+          "src": "/images/optimized/portraits-jiri-menzel-e0c0f307489f-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 117714
+        }
+      ]
+    },
+    "/images/jan-potmesil.jpg": {
+      "width": 1024,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-potmesil-188a3bcbaed7-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 29322
+        },
+        {
+          "src": "/images/optimized/portraits-jan-potmesil-188a3bcbaed7-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 79744
+        },
+        {
+          "src": "/images/optimized/portraits-jan-potmesil-188a3bcbaed7-1024.webp",
+          "width": 1024,
+          "height": 1280,
+          "bytes": 106062
+        }
+      ]
+    },
+    "/images/marta-kubisova.jpg": {
+      "width": 1008,
+      "height": 1440,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-marta-kubisova-d2536a7af785-400.webp",
+          "width": 400,
+          "height": 571,
+          "bytes": 29906
+        },
+        {
+          "src": "/images/optimized/portraits-marta-kubisova-d2536a7af785-800.webp",
+          "width": 800,
+          "height": 1143,
+          "bytes": 169632
+        },
+        {
+          "src": "/images/optimized/portraits-marta-kubisova-d2536a7af785-1008.webp",
+          "width": 1008,
+          "height": 1440,
+          "bytes": 287840
+        }
+      ]
+    },
+    "/images/milan-samanek.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-milan-samanek-d91437d8ba35-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 22596
+        },
+        {
+          "src": "/images/optimized/portraits-milan-samanek-d91437d8ba35-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 61158
+        },
+        {
+          "src": "/images/optimized/portraits-milan-samanek-d91437d8ba35-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 78152
+        }
+      ]
+    },
+    "/images/vladimir-remek.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vladimir-remek-68021319eacb-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 22670
+        },
+        {
+          "src": "/images/optimized/portraits-vladimir-remek-68021319eacb-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 80476
+        },
+        {
+          "src": "/images/optimized/portraits-vladimir-remek-68021319eacb-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 106750
+        }
+      ]
+    },
+    "/images/jaroslav-nemecek.jpg": {
+      "width": 960,
+      "height": 1251,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jaroslav-nemecek-25d112e96d6f-400.webp",
+          "width": 400,
+          "height": 521,
+          "bytes": 23390
+        },
+        {
+          "src": "/images/optimized/portraits-jaroslav-nemecek-25d112e96d6f-800.webp",
+          "width": 800,
+          "height": 1043,
+          "bytes": 77504
+        },
+        {
+          "src": "/images/optimized/portraits-jaroslav-nemecek-25d112e96d6f-960.webp",
+          "width": 960,
+          "height": 1251,
+          "bytes": 110826
+        }
+      ]
+    },
+    "/images/zdenek-hrib.jpg": {
+      "width": 960,
+      "height": 1284,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-zdenek-hrib-13b72c439f0e-400.webp",
+          "width": 400,
+          "height": 535,
+          "bytes": 38436
+        },
+        {
+          "src": "/images/optimized/portraits-zdenek-hrib-13b72c439f0e-800.webp",
+          "width": 800,
+          "height": 1070,
+          "bytes": 166266
+        },
+        {
+          "src": "/images/optimized/portraits-zdenek-hrib-13b72c439f0e-960.webp",
+          "width": 960,
+          "height": 1284,
+          "bytes": 245622
+        }
+      ]
+    },
+    "/images/richard-konkolski.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-richard-konkolski-2bb5fd1488c0-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 32800
+        },
+        {
+          "src": "/images/optimized/portraits-richard-konkolski-2bb5fd1488c0-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 121424
+        },
+        {
+          "src": "/images/optimized/portraits-richard-konkolski-2bb5fd1488c0-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 166456
+        }
+      ]
+    },
+    "/images/dagmar-havlova.jpg": {
+      "width": 682,
+      "height": 1024,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-dagmar-havlova-97e4df35954f-400.webp",
+          "width": 400,
+          "height": 601,
+          "bytes": 30042
+        },
+        {
+          "src": "/images/optimized/portraits-dagmar-havlova-97e4df35954f-682.webp",
+          "width": 682,
+          "height": 1024,
+          "bytes": 68752
+        }
+      ]
+    },
+    "/images/lucie-bila.jpg": {
+      "width": 960,
+      "height": 742,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-lucie-bila-070c06e48e73-400.webp",
+          "width": 400,
+          "height": 309,
+          "bytes": 9450
+        },
+        {
+          "src": "/images/optimized/portraits-lucie-bila-070c06e48e73-800.webp",
+          "width": 800,
+          "height": 618,
+          "bytes": 37856
+        },
+        {
+          "src": "/images/optimized/portraits-lucie-bila-070c06e48e73-960.webp",
+          "width": 960,
+          "height": 742,
+          "bytes": 54850
+        }
+      ]
+    },
+    "/images/bohdan-pomahac.png": {
+      "width": 960,
+      "height": 960,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-bohdan-pomahac-2ee594e6a00b-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 8788
+        },
+        {
+          "src": "/images/optimized/portraits-bohdan-pomahac-2ee594e6a00b-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 26584
+        },
+        {
+          "src": "/images/optimized/portraits-bohdan-pomahac-2ee594e6a00b-960.webp",
+          "width": 960,
+          "height": 960,
+          "bytes": 39542
+        }
+      ]
+    },
+    "/images/ivan-klima.jpg": {
+      "width": 1280,
+      "height": 1757,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-ivan-klima-2d73632479c5-400.webp",
+          "width": 400,
+          "height": 549,
+          "bytes": 50504
+        },
+        {
+          "src": "/images/optimized/portraits-ivan-klima-2d73632479c5-800.webp",
+          "width": 800,
+          "height": 1098,
+          "bytes": 206476
+        },
+        {
+          "src": "/images/optimized/portraits-ivan-klima-2d73632479c5-1280.webp",
+          "width": 1280,
+          "height": 1757,
+          "bytes": 485942
+        }
+      ]
+    },
+    "/images/jan-masaryk.jpg": {
+      "width": 960,
+      "height": 1256,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-masaryk-4ff1762a1241-400.webp",
+          "width": 400,
+          "height": 523,
+          "bytes": 58244
+        },
+        {
+          "src": "/images/optimized/portraits-jan-masaryk-4ff1762a1241-800.webp",
+          "width": 800,
+          "height": 1047,
+          "bytes": 213000
+        },
+        {
+          "src": "/images/optimized/portraits-jan-masaryk-4ff1762a1241-960.webp",
+          "width": 960,
+          "height": 1256,
+          "bytes": 282772
+        }
+      ]
+    },
+    "/images/antonin-holy.jpg": {
+      "width": 2163,
+      "height": 2592,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-antonin-holy-ab5c2fa8460c-400.webp",
+          "width": 400,
+          "height": 480,
+          "bytes": 13734
+        },
+        {
+          "src": "/images/optimized/portraits-antonin-holy-ab5c2fa8460c-800.webp",
+          "width": 800,
+          "height": 959,
+          "bytes": 40418
+        },
+        {
+          "src": "/images/optimized/portraits-antonin-holy-ab5c2fa8460c-1400.webp",
+          "width": 1400,
+          "height": 1678,
+          "bytes": 103054
+        }
+      ]
+    },
+    "/images/libor-pesek.jpg": {
+      "width": 960,
+      "height": 1111,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-libor-pesek-34f21b46c64d-400.webp",
+          "width": 400,
+          "height": 463,
+          "bytes": 13876
+        },
+        {
+          "src": "/images/optimized/portraits-libor-pesek-34f21b46c64d-800.webp",
+          "width": 800,
+          "height": 926,
+          "bytes": 38596
+        },
+        {
+          "src": "/images/optimized/portraits-libor-pesek-34f21b46c64d-960.webp",
+          "width": 960,
+          "height": 1111,
+          "bytes": 52640
+        }
+      ]
+    },
+    "/images/petr-brukner.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-petr-brukner-67686da6702d-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 27058
+        },
+        {
+          "src": "/images/optimized/portraits-petr-brukner-67686da6702d-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 83018
+        },
+        {
+          "src": "/images/optimized/portraits-petr-brukner-67686da6702d-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 109182
+        }
+      ]
+    },
+    "/images/pavel-bem.jpg": {
+      "width": 250,
+      "height": 375,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-pavel-bem-f95f63633a17-250.webp",
+          "width": 250,
+          "height": 375,
+          "bytes": 12708
+        }
+      ]
+    },
+    "/images/helena-trestikova.jpg": {
+      "width": 250,
+      "height": 312,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-helena-trestikova-508ef57fb0ee-250.webp",
+          "width": 250,
+          "height": 312,
+          "bytes": 11272
+        }
+      ]
+    },
+    "/images/otto-wichterle.jpg": {
+      "width": 275,
+      "height": 398,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-otto-wichterle-acd2aa47368d-275.webp",
+          "width": 275,
+          "height": 398,
+          "bytes": 19352
+        }
+      ]
+    },
+    "/images/tomas-lom.jpg": {
+      "width": 250,
+      "height": 312,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-tomas-lom-56ab1d925f31-250.webp",
+          "width": 250,
+          "height": 312,
+          "bytes": 17390
+        }
+      ]
+    },
+    "/images/jiri-kylian.jpg": {
+      "width": 250,
+      "height": 333,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jiri-kylian-fa33b8c9af1d-250.webp",
+          "width": 250,
+          "height": 333,
+          "bytes": 7228
+        }
+      ]
+    },
+    "/images/pavel-nedved.jpg": {
+      "width": 633,
+      "height": 915,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-pavel-nedved-e90d80e498f0-400.webp",
+          "width": 400,
+          "height": 578,
+          "bytes": 28512
+        },
+        {
+          "src": "/images/optimized/portraits-pavel-nedved-e90d80e498f0-633.webp",
+          "width": 633,
+          "height": 915,
+          "bytes": 55974
+        }
+      ]
+    },
+    "/images/adam-ondra-official.png": {
+      "width": 1903,
+      "height": 1846,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-adam-ondra-d62c941250e8-400.webp",
+          "width": 400,
+          "height": 388,
+          "bytes": 8784
+        },
+        {
+          "src": "/images/optimized/portraits-adam-ondra-d62c941250e8-800.webp",
+          "width": 800,
+          "height": 776,
+          "bytes": 20982
+        },
+        {
+          "src": "/images/optimized/portraits-adam-ondra-d62c941250e8-1400.webp",
+          "width": 1400,
+          "height": 1358,
+          "bytes": 43586
+        }
+      ]
+    },
+    "/images/milos-forman.jpg": {
+      "width": 1280,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-milos-forman-63fad601a9ab-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 12168
+        },
+        {
+          "src": "/images/optimized/portraits-milos-forman-63fad601a9ab-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 48650
+        },
+        {
+          "src": "/images/optimized/portraits-milos-forman-63fad601a9ab-1280.webp",
+          "width": 1280,
+          "height": 1280,
+          "bytes": 114094
+        }
+      ]
+    },
+    "/images/jan-hruska.jpg": {
+      "width": 250,
+      "height": 355,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-hruska-d403ad478ef0-250.webp",
+          "width": 250,
+          "height": 355,
+          "bytes": 40132
+        }
+      ]
+    },
+    "/images/jan-hrabeta.jpg": {
+      "width": 250,
+      "height": 188,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-hrabeta-e156d3b2c30d-250.webp",
+          "width": 250,
+          "height": 188,
+          "bytes": 13454
+        }
+      ]
+    },
+    "/images/katerina-tepla-sromova.jpg": {
+      "width": 1280,
+      "height": 1600,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-katerina-tepla-sromova-fa1176b7dcf0-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 23060
+        },
+        {
+          "src": "/images/optimized/portraits-katerina-tepla-sromova-fa1176b7dcf0-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 59034
+        },
+        {
+          "src": "/images/optimized/portraits-katerina-tepla-sromova-fa1176b7dcf0-1280.webp",
+          "width": 1280,
+          "height": 1600,
+          "bytes": 108322
+        }
+      ]
+    },
+    "/images/vaclav-vetvicka.jpg": {
+      "width": 1280,
+      "height": 1707,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vaclav-vetvicka-5c93006b404f-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 18700
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-vetvicka-5c93006b404f-800.webp",
+          "width": 800,
+          "height": 1067,
+          "bytes": 81226
+        },
+        {
+          "src": "/images/optimized/portraits-vaclav-vetvicka-5c93006b404f-1280.webp",
+          "width": 1280,
+          "height": 1707,
+          "bytes": 219542
+        }
+      ]
+    },
+    "/images/tereza-kmochova.jpg": {
+      "width": 960,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-tereza-kmochova-c402f51a311a-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 39184
+        },
+        {
+          "src": "/images/optimized/portraits-tereza-kmochova-c402f51a311a-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 99832
+        },
+        {
+          "src": "/images/optimized/portraits-tereza-kmochova-c402f51a311a-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 127524
+        }
+      ]
+    },
+    "/images/jindrich-pospisil.jpg": {
+      "width": 120,
+      "height": 180,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jindrich-pospisil-e6c773bc0bdd-120.webp",
+          "width": 120,
+          "height": 180,
+          "bytes": 2602
+        }
+      ]
+    },
+    "/images/jan-pospisil.jpg": {
+      "width": 120,
+      "height": 180,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-jan-pospisil-5c611ec0a46b-120.webp",
+          "width": 120,
+          "height": 180,
+          "bytes": 3808
+        }
+      ]
+    },
+    "/images/alena-vranova.jpg": {
+      "width": 214,
+      "height": 321,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-alena-vranova-0d1475369542-214.webp",
+          "width": 214,
+          "height": 321,
+          "bytes": 15428
+        }
+      ]
+    },
+    "/images/borivoj-penc.jpg": {
+      "width": 214,
+      "height": 321,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-borivoj-penc-722ee21a1ea9-214.webp",
+          "width": 214,
+          "height": 321,
+          "bytes": 15382
+        }
+      ]
+    },
+    "/images/vaclav-kotek.jpg": {
+      "width": 214,
+      "height": 321,
+      "variants": [
+        {
+          "src": "/images/optimized/portraits-vaclav-kotek-8141b7bfb69b-214.webp",
+          "width": 214,
+          "height": 321,
+          "bytes": 12974
+        }
+      ]
+    },
+    "/images/magnolia-kobus.jpg": {
+      "width": 2560,
+      "height": 1920,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-magnolia-kobus-772ce0af25cc-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 31376
+        },
+        {
+          "src": "/images/optimized/plants-magnolia-kobus-772ce0af25cc-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 91432
+        },
+        {
+          "src": "/images/optimized/plants-magnolia-kobus-772ce0af25cc-1400.webp",
+          "width": 1400,
+          "height": 1050,
+          "bytes": 207562
+        }
+      ]
+    },
+    "/images/prunus-serrulata-amanogawa.jpg": {
+      "width": 693,
+      "height": 1179,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-prunus-serrulata-amanogawa-c28ca7217408-400.webp",
+          "width": 400,
+          "height": 681,
+          "bytes": 24410
+        },
+        {
+          "src": "/images/optimized/plants-prunus-serrulata-amanogawa-c28ca7217408-693.webp",
+          "width": 693,
+          "height": 1179,
+          "bytes": 47090
+        }
+      ]
+    },
+    "/images/plant-tilia-platyphyllos.jpg": {
+      "width": 1280,
+      "height": 1920,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-tilia-platyphyllos-aurea-ca3ad051dc50-400.webp",
+          "width": 400,
+          "height": 600,
+          "bytes": 106882
+        },
+        {
+          "src": "/images/optimized/plants-tilia-platyphyllos-aurea-ca3ad051dc50-800.webp",
+          "width": 800,
+          "height": 1200,
+          "bytes": 391918
+        },
+        {
+          "src": "/images/optimized/plants-tilia-platyphyllos-aurea-ca3ad051dc50-1280.webp",
+          "width": 1280,
+          "height": 1920,
+          "bytes": 863080
+        }
+      ]
+    },
+    "/images/plant-abies-balsamea.jpg": {
+      "width": 1280,
+      "height": 1600,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-abies-balsamea-a7481596895c-400.webp",
+          "width": 400,
+          "height": 500,
+          "bytes": 54884
+        },
+        {
+          "src": "/images/optimized/plants-abies-balsamea-a7481596895c-800.webp",
+          "width": 800,
+          "height": 1000,
+          "bytes": 188736
+        },
+        {
+          "src": "/images/optimized/plants-abies-balsamea-a7481596895c-1280.webp",
+          "width": 1280,
+          "height": 1600,
+          "bytes": 354394
+        }
+      ]
+    },
+    "/images/plant-pinus-mugo.jpg": {
+      "width": 2220,
+      "height": 1664,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pinus-mugo-hvozdany-e33b900c2a27-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 32276
+        },
+        {
+          "src": "/images/optimized/plants-pinus-mugo-hvozdany-e33b900c2a27-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 88076
+        },
+        {
+          "src": "/images/optimized/plants-pinus-mugo-hvozdany-e33b900c2a27-1400.webp",
+          "width": 1400,
+          "height": 1049,
+          "bytes": 204420
+        }
+      ]
+    },
+    "/images/plant-acer-palmatum.jpg": {
+      "width": 640,
+      "height": 480,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-acer-palmatum-37afb3e1c890-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 24898
+        },
+        {
+          "src": "/images/optimized/plants-acer-palmatum-37afb3e1c890-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 45370
+        }
+      ]
+    },
+    "/images/plant-araucaria-araucana.jpg": {
+      "width": 1280,
+      "height": 1920,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-araucaria-araucana-9ea5c5115247-400.webp",
+          "width": 400,
+          "height": 600,
+          "bytes": 72758
+        },
+        {
+          "src": "/images/optimized/plants-araucaria-araucana-9ea5c5115247-800.webp",
+          "width": 800,
+          "height": 1200,
+          "bytes": 273600
+        },
+        {
+          "src": "/images/optimized/plants-araucaria-araucana-9ea5c5115247-1280.webp",
+          "width": 1280,
+          "height": 1920,
+          "bytes": 655482
+        }
+      ]
+    },
+    "/images/plant-betula-pendula.jpg": {
+      "width": 1280,
+      "height": 960,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-betula-pendula-vanek-d16db2e66dfb-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 56452
+        },
+        {
+          "src": "/images/optimized/plants-betula-pendula-vanek-d16db2e66dfb-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 253740
+        },
+        {
+          "src": "/images/optimized/plants-betula-pendula-vanek-d16db2e66dfb-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 666096
+        }
+      ]
+    },
+    "/images/plant-nothofagus-antarctica.jpg": {
+      "width": 750,
+      "height": 1000,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-nothofagus-antarctica-189b75c49737-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 67716
+        },
+        {
+          "src": "/images/optimized/plants-nothofagus-antarctica-189b75c49737-750.webp",
+          "width": 750,
+          "height": 1000,
+          "bytes": 194642
+        }
+      ]
+    },
+    "/images/plant-malus-baccata.jpg": {
+      "width": 640,
+      "height": 480,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-malus-baccata-5c8a39cb545a-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 24658
+        },
+        {
+          "src": "/images/optimized/plants-malus-baccata-5c8a39cb545a-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 50412
+        }
+      ]
+    },
+    "/images/plant-pinus-sabiniana.jpg": {
+      "width": 2124,
+      "height": 3000,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pinus-sabiniana-7e451b708914-400.webp",
+          "width": 400,
+          "height": 565,
+          "bytes": 62028
+        },
+        {
+          "src": "/images/optimized/plants-pinus-sabiniana-7e451b708914-800.webp",
+          "width": 800,
+          "height": 1130,
+          "bytes": 266562
+        },
+        {
+          "src": "/images/optimized/plants-pinus-sabiniana-7e451b708914-1400.webp",
+          "width": 1400,
+          "height": 1977,
+          "bytes": 782476
+        }
+      ]
+    },
+    "/images/plant-dendrobium-anosmum.jpg": {
+      "width": 500,
+      "height": 333,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-dendrobium-anosmum-cac63479964d-400.webp",
+          "width": 400,
+          "height": 266,
+          "bytes": 14124
+        },
+        {
+          "src": "/images/optimized/plants-dendrobium-anosmum-cac63479964d-500.webp",
+          "width": 500,
+          "height": 333,
+          "bytes": 20682
+        }
+      ]
+    },
+    "/images/plant-prunus-mume.jpg": {
+      "width": 3224,
+      "height": 4302,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-prunus-mume-50bb50ce7159-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 25388
+        },
+        {
+          "src": "/images/optimized/plants-prunus-mume-50bb50ce7159-800.webp",
+          "width": 800,
+          "height": 1067,
+          "bytes": 56946
+        },
+        {
+          "src": "/images/optimized/plants-prunus-mume-50bb50ce7159-1400.webp",
+          "width": 1400,
+          "height": 1868,
+          "bytes": 110360
+        }
+      ]
+    },
+    "/images/plant-quercus-lobata.jpg": {
+      "width": 250,
+      "height": 187,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-quercus-lobata-e939b586e4cc-250.webp",
+          "width": 250,
+          "height": 187,
+          "bytes": 17106
+        }
+      ]
+    },
+    "/images/plant-angraecum-sesquipedale.jpg": {
+      "width": 1280,
+      "height": 1153,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-angraecum-sesquipedale-c0edb5f3bd17-400.webp",
+          "width": 400,
+          "height": 360,
+          "bytes": 30596
+        },
+        {
+          "src": "/images/optimized/plants-angraecum-sesquipedale-c0edb5f3bd17-800.webp",
+          "width": 800,
+          "height": 721,
+          "bytes": 88552
+        },
+        {
+          "src": "/images/optimized/plants-angraecum-sesquipedale-c0edb5f3bd17-1280.webp",
+          "width": 1280,
+          "height": 1153,
+          "bytes": 163916
+        }
+      ]
+    },
+    "/images/plant-pinus-wallichiana.jpg": {
+      "width": 1280,
+      "height": 1920,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pinus-wallichiana-b0c8457848d8-400.webp",
+          "width": 400,
+          "height": 600,
+          "bytes": 52186
+        },
+        {
+          "src": "/images/optimized/plants-pinus-wallichiana-b0c8457848d8-800.webp",
+          "width": 800,
+          "height": 1200,
+          "bytes": 197108
+        },
+        {
+          "src": "/images/optimized/plants-pinus-wallichiana-b0c8457848d8-1280.webp",
+          "width": 1280,
+          "height": 1920,
+          "bytes": 471744
+        }
+      ]
+    },
+    "/images/plant-pinus-arizonica.jpg": {
+      "width": 960,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pinus-arizonica-83ddb8bd918a-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 85224
+        },
+        {
+          "src": "/images/optimized/plants-pinus-arizonica-83ddb8bd918a-800.webp",
+          "width": 800,
+          "height": 1067,
+          "bytes": 317542
+        },
+        {
+          "src": "/images/optimized/plants-pinus-arizonica-83ddb8bd918a-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 448296
+        }
+      ]
+    },
+    "/images/plant-pinus-armandii.jpg": {
+      "width": 960,
+      "height": 643,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pinus-armandii-88c5949043cc-400.webp",
+          "width": 400,
+          "height": 268,
+          "bytes": 41570
+        },
+        {
+          "src": "/images/optimized/plants-pinus-armandii-88c5949043cc-800.webp",
+          "width": 800,
+          "height": 536,
+          "bytes": 166178
+        },
+        {
+          "src": "/images/optimized/plants-pinus-armandii-88c5949043cc-960.webp",
+          "width": 960,
+          "height": 643,
+          "bytes": 231072
+        }
+      ]
+    },
+    "/images/plant-sophora-microphylla.jpg": {
+      "width": 500,
+      "height": 667,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-sophora-microphylla-5336692ccf65-400.webp",
+          "width": 400,
+          "height": 534,
+          "bytes": 95550
+        },
+        {
+          "src": "/images/optimized/plants-sophora-microphylla-5336692ccf65-500.webp",
+          "width": 500,
+          "height": 667,
+          "bytes": 154030
+        }
+      ]
+    },
+    "/images/plant-quercus-macrocarpa.jpg": {
+      "width": 1280,
+      "height": 905,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-quercus-macrocarpa-9901dd464889-400.webp",
+          "width": 400,
+          "height": 283,
+          "bytes": 31722
+        },
+        {
+          "src": "/images/optimized/plants-quercus-macrocarpa-9901dd464889-800.webp",
+          "width": 800,
+          "height": 566,
+          "bytes": 128576
+        },
+        {
+          "src": "/images/optimized/plants-quercus-macrocarpa-9901dd464889-1280.webp",
+          "width": 1280,
+          "height": 905,
+          "bytes": 342566
+        }
+      ]
+    },
+    "/images/plant-acer-platanoides.jpg": {
+      "width": 1280,
+      "height": 894,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-acer-platanoides-holata-966ab00667cb-400.webp",
+          "width": 400,
+          "height": 279,
+          "bytes": 28018
+        },
+        {
+          "src": "/images/optimized/plants-acer-platanoides-holata-966ab00667cb-800.webp",
+          "width": 800,
+          "height": 559,
+          "bytes": 95468
+        },
+        {
+          "src": "/images/optimized/plants-acer-platanoides-holata-966ab00667cb-1280.webp",
+          "width": 1280,
+          "height": 894,
+          "bytes": 227118
+        }
+      ]
+    },
+    "/images/plant-malus-toringoides.jpg": {
+      "width": 960,
+      "height": 640,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-malus-toringoides-01e55611bf1c-400.webp",
+          "width": 400,
+          "height": 267,
+          "bytes": 28142
+        },
+        {
+          "src": "/images/optimized/plants-malus-toringoides-01e55611bf1c-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 74924
+        },
+        {
+          "src": "/images/optimized/plants-malus-toringoides-01e55611bf1c-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 101100
+        }
+      ]
+    },
+    "/images/plant-pteroceltis-tatarinowii.jpg": {
+      "width": 250,
+      "height": 375,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pteroceltis-tatarinowii-7b6ee16aa2c7-250.webp",
+          "width": 250,
+          "height": 375,
+          "bytes": 47622
+        }
+      ]
+    },
+    "/images/plant-pinus-bungeana.jpg": {
+      "width": 1284,
+      "height": 1712,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pinus-bungeana-4f1a202f9100-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 57384
+        },
+        {
+          "src": "/images/optimized/plants-pinus-bungeana-4f1a202f9100-800.webp",
+          "width": 800,
+          "height": 1067,
+          "bytes": 170344
+        },
+        {
+          "src": "/images/optimized/plants-pinus-bungeana-4f1a202f9100-1284.webp",
+          "width": 1284,
+          "height": 1712,
+          "bytes": 317642
+        }
+      ]
+    },
+    "/images/plant-magnolia-macrophylla.jpg": {
+      "width": 960,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-magnolia-macrophylla-b6d4d6729b3c-400.webp",
+          "width": 400,
+          "height": 533,
+          "bytes": 83484
+        },
+        {
+          "src": "/images/optimized/plants-magnolia-macrophylla-b6d4d6729b3c-800.webp",
+          "width": 800,
+          "height": 1067,
+          "bytes": 305576
+        },
+        {
+          "src": "/images/optimized/plants-magnolia-macrophylla-b6d4d6729b3c-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 433232
+        }
+      ]
+    },
+    "/images/plant-pinus-densiflora.jpg": {
+      "width": 2848,
+      "height": 4272,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pinus-densiflora-f143d170c84f-400.webp",
+          "width": 400,
+          "height": 600,
+          "bytes": 66758
+        },
+        {
+          "src": "/images/optimized/plants-pinus-densiflora-f143d170c84f-800.webp",
+          "width": 800,
+          "height": 1200,
+          "bytes": 214660
+        },
+        {
+          "src": "/images/optimized/plants-pinus-densiflora-f143d170c84f-1400.webp",
+          "width": 1400,
+          "height": 2100,
+          "bytes": 515380
+        }
+      ]
+    },
+    "/images/plant-nyssa-sylvatica.jpg": {
+      "width": 960,
+      "height": 960,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-nyssa-sylvatica-957c5017bedb-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 36414
+        },
+        {
+          "src": "/images/optimized/plants-nyssa-sylvatica-957c5017bedb-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 131154
+        },
+        {
+          "src": "/images/optimized/plants-nyssa-sylvatica-957c5017bedb-960.webp",
+          "width": 960,
+          "height": 960,
+          "bytes": 191938
+        }
+      ]
+    },
+    "/images/plant-paulownia-fortunei.jpg": {
+      "width": 960,
+      "height": 720,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-paulownia-fortunei-a0ae53b4e6e7-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 54412
+        },
+        {
+          "src": "/images/optimized/plants-paulownia-fortunei-a0ae53b4e6e7-800.webp",
+          "width": 800,
+          "height": 600,
+          "bytes": 190236
+        },
+        {
+          "src": "/images/optimized/plants-paulownia-fortunei-a0ae53b4e6e7-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 261534
+        }
+      ]
+    },
+    "/images/plant-malus-sikkimensis.jpg": {
+      "width": 960,
+      "height": 1440,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-malus-sikkimensis-c81c6537c86a-400.webp",
+          "width": 400,
+          "height": 600,
+          "bytes": 51946
+        },
+        {
+          "src": "/images/optimized/plants-malus-sikkimensis-c81c6537c86a-800.webp",
+          "width": 800,
+          "height": 1200,
+          "bytes": 138352
+        },
+        {
+          "src": "/images/optimized/plants-malus-sikkimensis-c81c6537c86a-960.webp",
+          "width": 960,
+          "height": 1440,
+          "bytes": 184042
+        }
+      ]
+    },
+    "/images/plant-pterocarya-stenoptera.jpg": {
+      "width": 500,
+      "height": 375,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pterocarya-stenoptera-fa54e26803df-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 56200
+        },
+        {
+          "src": "/images/optimized/plants-pterocarya-stenoptera-fa54e26803df-500.webp",
+          "width": 500,
+          "height": 375,
+          "bytes": 85216
+        }
+      ]
+    },
+    "/images/plant-pinus-thunbergii.jpg": {
+      "width": 2046,
+      "height": 1364,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-pinus-thunbergii-10460d567fbb-400.webp",
+          "width": 400,
+          "height": 267,
+          "bytes": 21506
+        },
+        {
+          "src": "/images/optimized/plants-pinus-thunbergii-10460d567fbb-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 84206
+        },
+        {
+          "src": "/images/optimized/plants-pinus-thunbergii-10460d567fbb-1400.webp",
+          "width": 1400,
+          "height": 933,
+          "bytes": 221804
+        }
+      ]
+    },
+    "/images/plant-arbutus-unedo.jpg": {
+      "width": 1280,
+      "height": 853,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-arbutus-unedo-0bd8c65d1ec6-400.webp",
+          "width": 400,
+          "height": 266,
+          "bytes": 50552
+        },
+        {
+          "src": "/images/optimized/plants-arbutus-unedo-0bd8c65d1ec6-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 167720
+        },
+        {
+          "src": "/images/optimized/plants-arbutus-unedo-0bd8c65d1ec6-1280.webp",
+          "width": 1280,
+          "height": 853,
+          "bytes": 358724
+        }
+      ]
+    },
+    "/images/plant-acer-mandshuricum.jpg": {
+      "width": 1280,
+      "height": 853,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-acer-mandshuricum-00e36ce0f1f4-400.webp",
+          "width": 400,
+          "height": 266,
+          "bytes": 15594
+        },
+        {
+          "src": "/images/optimized/plants-acer-mandshuricum-00e36ce0f1f4-800.webp",
+          "width": 800,
+          "height": 533,
+          "bytes": 39464
+        },
+        {
+          "src": "/images/optimized/plants-acer-mandshuricum-00e36ce0f1f4-1280.webp",
+          "width": 1280,
+          "height": 853,
+          "bytes": 77716
+        }
+      ]
+    },
+    "/images/plant-magnolia-stellata.jpg": {
+      "width": 960,
+      "height": 814,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-magnolia-stellata-chrysanthemiflora-d1a4e3e63b44-400.webp",
+          "width": 400,
+          "height": 339,
+          "bytes": 32744
+        },
+        {
+          "src": "/images/optimized/plants-magnolia-stellata-chrysanthemiflora-d1a4e3e63b44-800.webp",
+          "width": 800,
+          "height": 678,
+          "bytes": 84030
+        },
+        {
+          "src": "/images/optimized/plants-magnolia-stellata-chrysanthemiflora-d1a4e3e63b44-960.webp",
+          "width": 960,
+          "height": 814,
+          "bytes": 109944
+        }
+      ]
+    },
+    "/images/plant-quercus-kelloggii.jpg": {
+      "width": 500,
+      "height": 375,
+      "variants": [
+        {
+          "src": "/images/optimized/plants-quercus-kelloggii-cef95308c0ba-400.webp",
+          "width": 400,
+          "height": 300,
+          "bytes": 51656
+        },
+        {
+          "src": "/images/optimized/plants-quercus-kelloggii-cef95308c0ba-500.webp",
+          "width": 500,
+          "height": 375,
+          "bytes": 83508
+        }
+      ]
+    }
+  },
+  "social": {
+    "portraits/petra-kvitova": {
+      "src": "/images/social/portraits-petra-kvitova-8e0cc332fb18.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/petra-kvitova.jpg"
+    },
+    "portraits/vaclav-havel": {
+      "src": "/images/social/portraits-vaclav-havel-4d2911a4dd93.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vaclav-havel.jpg"
+    },
+    "portraits/bara-kodetova": {
+      "src": "/images/social/portraits-bara-kodetova-c298f04b705e.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/bara-kodetova.jpg"
+    },
+    "portraits/alice-masarykova": {
+      "src": "/images/social/portraits-alice-masarykova-d9a11daa867b.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/alice-masarykova.jpg"
+    },
+    "portraits/meda-mladkova": {
+      "src": "/images/social/portraits-meda-mladkova-1e8e2b567f2a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/meda-mladkova.jpg"
+    },
+    "portraits/miroslav-ondricek": {
+      "src": "/images/social/portraits-miroslav-ondricek-1d0f67aee51a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/miroslav-ondricek.jpg"
+    },
+    "portraits/sona-cervena": {
+      "src": "/images/social/portraits-sona-cervena-159c57df3466.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/sona-cervena.jpg"
+    },
+    "portraits/chantal-poullain": {
+      "src": "/images/social/portraits-chantal-poullain-24292a3cd136.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/chantal-poullain.jpg"
+    },
+    "portraits/jiri-belohlavek": {
+      "src": "/images/social/portraits-jiri-belohlavek-671f97e82d9c.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jiri-belohlavek.jpg"
+    },
+    "portraits/andrew-j-feustel": {
+      "src": "/images/social/portraits-andrew-j-feustel-6f128185bf06.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/andrew-j-feustel.jpg"
+    },
+    "portraits/madeleine-albrightova": {
+      "src": "/images/social/portraits-madeleine-albrightova-5a3e443c037b.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/madeleine-albrightova.jpg"
+    },
+    "portraits/stefan-margita": {
+      "src": "/images/social/portraits-stefan-margita-6168e0779df9.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/stefan-margita.jpg"
+    },
+    "portraits/jan-zelezny": {
+      "src": "/images/social/portraits-jan-zelezny-40e78857ad80.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jan-zelezny.jpg"
+    },
+    "portraits/antonin-panenka": {
+      "src": "/images/social/portraits-antonin-panenka-9850de067d5c.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/antonin-panenka.jpg"
+    },
+    "portraits/vladimir-jiranek": {
+      "src": "/images/social/portraits-vladimir-jiranek-17b98bd969b1.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vladimir-jiranek.jpg"
+    },
+    "portraits/gabriela-koukalova": {
+      "src": "/images/social/portraits-gabriela-koukalova-3d132ae5bbe5.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/gabriela-koukalova.jpg"
+    },
+    "portraits/mathilda-nostitzova": {
+      "src": "/images/social/portraits-mathilda-nostitzova-48edea8b8980.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/mathilda-nostitzova.jpg"
+    },
+    "portraits/marie-vodickova": {
+      "src": "/images/social/portraits-marie-vodickova-7da20804e3e2.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/marie-vodickova.jpg"
+    },
+    "portraits/radek-jaros": {
+      "src": "/images/social/portraits-radek-jaros-60d8a6a93dc7.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/radek-jaros.jpg"
+    },
+    "portraits/nicholas-winton": {
+      "src": "/images/social/portraits-nicholas-winton-eae0a8457c2d.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/nicholas-winton.jpg"
+    },
+    "portraits/theodor-pistek": {
+      "src": "/images/social/portraits-theodor-pistek-4c8fc14fa31f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/theodor-pistek.jpg"
+    },
+    "portraits/adriana-krnacova": {
+      "src": "/images/social/portraits-adriana-krnacova-a526d082b236.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/adriana-krnacova.jpg"
+    },
+    "portraits/venceslava-hrdlickova": {
+      "src": "/images/social/portraits-venceslava-hrdlickova-abfc2bd2e126.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/venceslava-hrdlickova.jpg"
+    },
+    "portraits/petr-sis": {
+      "src": "/images/social/portraits-petr-sis-99567ca0e7ed.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/petr-sis.jpg"
+    },
+    "portraits/miroslav-zikmund": {
+      "src": "/images/social/portraits-miroslav-zikmund-bd139ec96a6b.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/miroslav-zikmund.jpg"
+    },
+    "portraits/14-dalajlama": {
+      "src": "/images/social/portraits-14-dalajlama-93db5c77a562.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/14-dalajlama.jpg"
+    },
+    "portraits/tomas-garrigue-masaryk": {
+      "src": "/images/social/portraits-tomas-garrigue-masaryk-50e5ae719850.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/tomas-garrigue-masaryk.png"
+    },
+    "portraits/jiri-friml": {
+      "src": "/images/social/portraits-jiri-friml-4e13bf3961be.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jiri-friml.png"
+    },
+    "portraits/martin-doktor": {
+      "src": "/images/social/portraits-martin-doktor-0b5ff46c574a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/martin-doktor.jpg"
+    },
+    "portraits/dana-zatopkova": {
+      "src": "/images/social/portraits-dana-zatopkova-799f81c1181e.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/dana-zatopkova.jpg"
+    },
+    "portraits/kveta-jeriova-peckova": {
+      "src": "/images/social/portraits-kveta-jeriova-peckova-73c15cb79e71.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/kveta-jeriova-peckova.jpg"
+    },
+    "portraits/pavel-sporcl": {
+      "src": "/images/social/portraits-pavel-sporcl-ad134849db87.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/pavel-sporcl.jpg"
+    },
+    "portraits/petr-fejk": {
+      "src": "/images/social/portraits-petr-fejk-62044edc0a82.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/petr-fejk.jpg"
+    },
+    "portraits/manolo-blahnik": {
+      "src": "/images/social/portraits-manolo-blahnik-472a17c19610.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/manolo-blahnik.jpg"
+    },
+    "portraits/dagmar-peckova": {
+      "src": "/images/social/portraits-dagmar-peckova-4f1d9ee03615.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/dagmar-peckova.jpg"
+    },
+    "portraits/david-drahoninsky": {
+      "src": "/images/social/portraits-david-drahoninsky-fab5d8db7094.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/david-drahoninsky.jpg"
+    },
+    "portraits/ludvik-vaculik": {
+      "src": "/images/social/portraits-ludvik-vaculik-1ffbc0b1b235.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/ludvik-vaculik.jpg"
+    },
+    "portraits/david-ondricek": {
+      "src": "/images/social/portraits-david-ondricek-244d06bbdc55.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/david-ondricek.jpg"
+    },
+    "portraits/pierre-richard": {
+      "src": "/images/social/portraits-pierre-richard-92da43d48752.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/pierre-richard.jpg"
+    },
+    "portraits/magdalena-kozena": {
+      "src": "/images/social/portraits-magdalena-kozena-0e84ca84356f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/magdalena-kozena.jpg"
+    },
+    "portraits/eliska-buckova": {
+      "src": "/images/social/portraits-eliska-buckova-a556d2dcc6b8.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/eliska-buckova.jpg"
+    },
+    "portraits/bohuslav-svoboda": {
+      "src": "/images/social/portraits-bohuslav-svoboda-167a7e34f303.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/bohuslav-svoboda.jpg"
+    },
+    "portraits/jiri-hanzelka": {
+      "src": "/images/social/portraits-jiri-hanzelka-92b2bf406c69.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jiri-hanzelka.jpg"
+    },
+    "portraits/vaclav-kuchynka": {
+      "src": "/images/social/portraits-vaclav-kuchynka-be8271030f8a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vaclav-kuchynka.jpg"
+    },
+    "portraits/marek-benes": {
+      "src": "/images/social/portraits-marek-benes-964ffdec37d1.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/marek-benes.jpg"
+    },
+    "portraits/alfons-mucha": {
+      "src": "/images/social/portraits-alfons-mucha-de10eae29501.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/alfons-mucha.jpg"
+    },
+    "portraits/karel-gott": {
+      "src": "/images/social/portraits-karel-gott-33ea29a82903.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/karel-gott.jpg"
+    },
+    "portraits/vojtech-jasny": {
+      "src": "/images/social/portraits-vojtech-jasny-a24385b63fff.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vojtech-jasny.jpg"
+    },
+    "portraits/jaroslav-sterba": {
+      "src": "/images/social/portraits-jaroslav-sterba-40ab70db8e08.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jaroslav-sterba.png"
+    },
+    "portraits/vaclav-cilek": {
+      "src": "/images/social/portraits-vaclav-cilek-5db11288adbe.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vaclav-cilek.jpg"
+    },
+    "portraits/daria-klimentova": {
+      "src": "/images/social/portraits-daria-klimentova-e11c27dd9540.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/daria-klimentova.jpg"
+    },
+    "portraits/vera-caslavska": {
+      "src": "/images/social/portraits-vera-caslavska-1f6eebc1ab3a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vera-caslavska.jpg"
+    },
+    "portraits/vaclav-postranecky": {
+      "src": "/images/social/portraits-vaclav-postranecky-ac0346ae4825.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vaclav-postranecky.jpg"
+    },
+    "portraits/jiri-jezek": {
+      "src": "/images/social/portraits-jiri-jezek-1e5aa4183a00.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jiri-jezek.jpg"
+    },
+    "portraits/linda-wichterlova": {
+      "src": "/images/social/portraits-linda-wichterlova-7e98a6e55f8d.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/linda-wichterlova.jpg"
+    },
+    "portraits/zdenek-miler": {
+      "src": "/images/social/portraits-zdenek-miler-f2c1aad746f9.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/zdenek-miler.jpg"
+    },
+    "portraits/petr-pavel": {
+      "src": "/images/social/portraits-petr-pavel-e875a2faa934.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/petr-pavel.jpg"
+    },
+    "portraits/josef-koutecky": {
+      "src": "/images/social/portraits-josef-koutecky-9f56772b244a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/josef-koutecky.jpg"
+    },
+    "portraits/josef-masopust": {
+      "src": "/images/social/portraits-josef-masopust-eb74ac9857a8.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/josef-masopust.jpg"
+    },
+    "portraits/jirina-jiraskova": {
+      "src": "/images/social/portraits-jirina-jiraskova-4ec107023a27.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jirina-jiraskova.jpg"
+    },
+    "portraits/vendula-svobodova": {
+      "src": "/images/social/portraits-vendula-svobodova-2a69e50a39b4.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vendula-svobodova.jpg"
+    },
+    "portraits/tatana-gregor-kucharova": {
+      "src": "/images/social/portraits-tatana-gregor-kucharova-873931edd266.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/tatana-gregor-kucharova.jpg"
+    },
+    "portraits/stepanka-duchkova": {
+      "src": "/images/social/portraits-stepanka-duchkova-5032e8788b0f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/stepanka-duchkova.jpg"
+    },
+    "portraits/jiri-suchy": {
+      "src": "/images/social/portraits-jiri-suchy-7979bacf0cba.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jiri-suchy.jpg"
+    },
+    "portraits/iva-janzurova": {
+      "src": "/images/social/portraits-iva-janzurova-dbd5585ba1c0.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/iva-janzurova.jpg"
+    },
+    "portraits/tomas-hudecek": {
+      "src": "/images/social/portraits-tomas-hudecek-af9629a46d34.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/tomas-hudecek.jpg"
+    },
+    "portraits/zdenek-sverak": {
+      "src": "/images/social/portraits-zdenek-sverak-30c6ac9cc22b.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/zdenek-sverak.jpg"
+    },
+    "portraits/pavel-pafko": {
+      "src": "/images/social/portraits-pavel-pafko-2f1d05ddb381.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/pavel-pafko.jpg"
+    },
+    "portraits/antonin-kratochvil": {
+      "src": "/images/social/portraits-antonin-kratochvil-2dbae4942064.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/antonin-kratochvil.jpg"
+    },
+    "portraits/jan-hrebejk": {
+      "src": "/images/social/portraits-jan-hrebejk-0330dc9ec5ff.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jan-hrebejk.jpg"
+    },
+    "portraits/jirina-bohdalova": {
+      "src": "/images/social/portraits-jirina-bohdalova-95691e6f8efa.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jirina-bohdalova.jpg"
+    },
+    "portraits/jiri-anderle": {
+      "src": "/images/social/portraits-jiri-anderle-25d9a7e81165.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jiri-anderle.jpg"
+    },
+    "portraits/otakar-vavra": {
+      "src": "/images/social/portraits-otakar-vavra-abce18bf51c8.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/otakar-vavra.jpg"
+    },
+    "portraits/eva-jiricna": {
+      "src": "/images/social/portraits-eva-jiricna-23e08d7a85ad.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/eva-jiricna.jpg"
+    },
+    "portraits/helena-illnerova": {
+      "src": "/images/social/portraits-helena-illnerova-19a1c8fc2403.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/helena-illnerova.jpg"
+    },
+    "portraits/anna-geislerova": {
+      "src": "/images/social/portraits-anna-geislerova-4bbe60ef6694.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/anna-geislerova.jpg"
+    },
+    "portraits/lida-rakusanova": {
+      "src": "/images/social/portraits-lida-rakusanova-67a2cca0b171.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/lida-rakusanova.jpg"
+    },
+    "portraits/josef-vana": {
+      "src": "/images/social/portraits-josef-vana-a5f6e05edcdb.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/josef-vana.jpg"
+    },
+    "portraits/jan-pirk": {
+      "src": "/images/social/portraits-jan-pirk-def795862cb7.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jan-pirk.jpg"
+    },
+    "portraits/tomas-j-bata": {
+      "src": "/images/social/portraits-tomas-j-bata-f5334e3c7ad8.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/tomas-j-bata.jpg"
+    },
+    "portraits/martina-smukova": {
+      "src": "/images/social/portraits-martina-smukova-2967964887b4.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/martina-smukova.jpg"
+    },
+    "portraits/david-smoljak": {
+      "src": "/images/social/portraits-david-smoljak-9da4822af94f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/david-smoljak.jpg"
+    },
+    "portraits/helena-stachova": {
+      "src": "/images/social/portraits-helena-stachova-2cf618571412.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/helena-stachova.jpg"
+    },
+    "portraits/martin-hilsky": {
+      "src": "/images/social/portraits-martin-hilsky-0b10788573dc.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/martin-hilsky.jpg"
+    },
+    "portraits/jan-sverak": {
+      "src": "/images/social/portraits-jan-sverak-5b68a85cf1fa.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jan-sverak.jpg"
+    },
+    "portraits/zuzana-baudysova": {
+      "src": "/images/social/portraits-zuzana-baudysova-24a7243344f8.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/zuzana-baudysova.jpg"
+    },
+    "portraits/petr-janda": {
+      "src": "/images/social/portraits-petr-janda-82ae4dc070fb.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/petr-janda.jpg"
+    },
+    "portraits/zuzana-caputova": {
+      "src": "/images/social/portraits-zuzana-caputova-f8b9849d11c0.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/zuzana-caputova.jpg"
+    },
+    "portraits/tomas-bata": {
+      "src": "/images/social/portraits-tomas-bata-cd3c221cb6ac.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/tomas-bata.jpg"
+    },
+    "portraits/karel-loprais": {
+      "src": "/images/social/portraits-karel-loprais-6f2254727a30.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/karel-loprais.jpg"
+    },
+    "portraits/jiri-menzel": {
+      "src": "/images/social/portraits-jiri-menzel-e0c0f307489f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jiri-menzel.jpg"
+    },
+    "portraits/jan-potmesil": {
+      "src": "/images/social/portraits-jan-potmesil-188a3bcbaed7.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jan-potmesil.jpg"
+    },
+    "portraits/milan-samanek": {
+      "src": "/images/social/portraits-milan-samanek-d91437d8ba35.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/milan-samanek.jpg"
+    },
+    "portraits/vladimir-remek": {
+      "src": "/images/social/portraits-vladimir-remek-68021319eacb.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vladimir-remek.jpg"
+    },
+    "portraits/jaroslav-nemecek": {
+      "src": "/images/social/portraits-jaroslav-nemecek-25d112e96d6f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jaroslav-nemecek.jpg"
+    },
+    "portraits/zdenek-hrib": {
+      "src": "/images/social/portraits-zdenek-hrib-13b72c439f0e.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/zdenek-hrib.jpg"
+    },
+    "portraits/richard-konkolski": {
+      "src": "/images/social/portraits-richard-konkolski-2bb5fd1488c0.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/richard-konkolski.jpg"
+    },
+    "portraits/dagmar-havlova": {
+      "src": "/images/social/portraits-dagmar-havlova-97e4df35954f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/dagmar-havlova.jpg"
+    },
+    "portraits/lucie-bila": {
+      "src": "/images/social/portraits-lucie-bila-070c06e48e73.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/lucie-bila.jpg"
+    },
+    "portraits/bohdan-pomahac": {
+      "src": "/images/social/portraits-bohdan-pomahac-2ee594e6a00b.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/bohdan-pomahac.png"
+    },
+    "portraits/ivan-klima": {
+      "src": "/images/social/portraits-ivan-klima-2d73632479c5.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/ivan-klima.jpg"
+    },
+    "portraits/jan-masaryk": {
+      "src": "/images/social/portraits-jan-masaryk-4ff1762a1241.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jan-masaryk.jpg"
+    },
+    "portraits/antonin-holy": {
+      "src": "/images/social/portraits-antonin-holy-ab5c2fa8460c.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/antonin-holy.jpg"
+    },
+    "portraits/libor-pesek": {
+      "src": "/images/social/portraits-libor-pesek-34f21b46c64d.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/libor-pesek.jpg"
+    },
+    "portraits/petr-brukner": {
+      "src": "/images/social/portraits-petr-brukner-67686da6702d.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/petr-brukner.jpg"
+    },
+    "portraits/pavel-bem": {
+      "src": "/images/social/portraits-pavel-bem-f95f63633a17.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/pavel-bem.jpg"
+    },
+    "portraits/helena-trestikova": {
+      "src": "/images/social/portraits-helena-trestikova-508ef57fb0ee.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/helena-trestikova.jpg"
+    },
+    "portraits/otto-wichterle": {
+      "src": "/images/social/portraits-otto-wichterle-acd2aa47368d.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/otto-wichterle.jpg"
+    },
+    "portraits/tomas-lom": {
+      "src": "/images/social/portraits-tomas-lom-56ab1d925f31.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/tomas-lom.jpg"
+    },
+    "portraits/jiri-kylian": {
+      "src": "/images/social/portraits-jiri-kylian-fa33b8c9af1d.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jiri-kylian.jpg"
+    },
+    "portraits/pavel-nedved": {
+      "src": "/images/social/portraits-pavel-nedved-e90d80e498f0.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/pavel-nedved.jpg"
+    },
+    "portraits/milos-forman": {
+      "src": "/images/social/portraits-milos-forman-63fad601a9ab.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/milos-forman.jpg"
+    },
+    "portraits/jan-hruska": {
+      "src": "/images/social/portraits-jan-hruska-d403ad478ef0.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jan-hruska.jpg"
+    },
+    "portraits/jan-hrabeta": {
+      "src": "/images/social/portraits-jan-hrabeta-e156d3b2c30d.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/jan-hrabeta.jpg"
+    },
+    "portraits/katerina-tepla-sromova": {
+      "src": "/images/social/portraits-katerina-tepla-sromova-fa1176b7dcf0.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/katerina-tepla-sromova.jpg"
+    },
+    "portraits/vaclav-vetvicka": {
+      "src": "/images/social/portraits-vaclav-vetvicka-5c93006b404f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/vaclav-vetvicka.jpg"
+    },
+    "portraits/tereza-kmochova": {
+      "src": "/images/social/portraits-tereza-kmochova-c402f51a311a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/tereza-kmochova.jpg"
+    },
+    "plants/magnolia-kobus": {
+      "src": "/images/social/plants-magnolia-kobus-772ce0af25cc.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/magnolia-kobus.jpg"
+    },
+    "plants/prunus-serrulata-amanogawa": {
+      "src": "/images/social/plants-prunus-serrulata-amanogawa-c28ca7217408.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/prunus-serrulata-amanogawa.jpg"
+    },
+    "plants/tilia-platyphyllos": {
+      "src": "/images/social/plants-tilia-platyphyllos-ca3ad051dc50.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-tilia-platyphyllos.jpg"
+    },
+    "plants/abies-balsamea": {
+      "src": "/images/social/plants-abies-balsamea-a7481596895c.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-abies-balsamea.jpg"
+    },
+    "plants/pinus-mugo-svaty-sebestian-22-wb": {
+      "src": "/images/social/plants-pinus-mugo-svaty-sebestian-22-wb-e33b900c2a27.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-mugo.jpg"
+    },
+    "plants/acer-palmatum": {
+      "src": "/images/social/plants-acer-palmatum-37afb3e1c890.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-acer-palmatum.jpg"
+    },
+    "plants/araucaria-araucana": {
+      "src": "/images/social/plants-araucaria-araucana-9ea5c5115247.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-araucaria-araucana.jpg"
+    },
+    "plants/betula-pendula-vanek": {
+      "src": "/images/social/plants-betula-pendula-vanek-d16db2e66dfb.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-betula-pendula.jpg"
+    },
+    "plants/nothofagus-antarctica": {
+      "src": "/images/social/plants-nothofagus-antarctica-189b75c49737.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-nothofagus-antarctica.jpg"
+    },
+    "plants/malus-baccata": {
+      "src": "/images/social/plants-malus-baccata-5c8a39cb545a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-malus-baccata.jpg"
+    },
+    "plants/pinus-sabiniana": {
+      "src": "/images/social/plants-pinus-sabiniana-7e451b708914.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-sabiniana.jpg"
+    },
+    "plants/dendrobium-anosmum": {
+      "src": "/images/social/plants-dendrobium-anosmum-cac63479964d.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-dendrobium-anosmum.jpg"
+    },
+    "plants/prunus-mume": {
+      "src": "/images/social/plants-prunus-mume-50bb50ce7159.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-prunus-mume.jpg"
+    },
+    "plants/quercus-lobata": {
+      "src": "/images/social/plants-quercus-lobata-e939b586e4cc.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-quercus-lobata.jpg"
+    },
+    "plants/angraecum-sesquipedale": {
+      "src": "/images/social/plants-angraecum-sesquipedale-c0edb5f3bd17.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-angraecum-sesquipedale.jpg"
+    },
+    "plants/pinus-wallichiana": {
+      "src": "/images/social/plants-pinus-wallichiana-b0c8457848d8.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-wallichiana.jpg"
+    },
+    "plants/pinus-arizonica": {
+      "src": "/images/social/plants-pinus-arizonica-83ddb8bd918a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-arizonica.jpg"
+    },
+    "plants/pinus-armandii": {
+      "src": "/images/social/plants-pinus-armandii-88c5949043cc.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-armandii.jpg"
+    },
+    "plants/sophora-microphylla": {
+      "src": "/images/social/plants-sophora-microphylla-5336692ccf65.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-sophora-microphylla.jpg"
+    },
+    "plants/quercus-macrocarpa": {
+      "src": "/images/social/plants-quercus-macrocarpa-9901dd464889.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-quercus-macrocarpa.jpg"
+    },
+    "plants/acer-platanoides-holata": {
+      "src": "/images/social/plants-acer-platanoides-holata-966ab00667cb.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-acer-platanoides.jpg"
+    },
+    "plants/malus-toringoides": {
+      "src": "/images/social/plants-malus-toringoides-01e55611bf1c.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-malus-toringoides.jpg"
+    },
+    "plants/pteroceltis-tatarinowii": {
+      "src": "/images/social/plants-pteroceltis-tatarinowii-7b6ee16aa2c7.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pteroceltis-tatarinowii.jpg"
+    },
+    "plants/pinus-bungeana": {
+      "src": "/images/social/plants-pinus-bungeana-4f1a202f9100.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-bungeana.jpg"
+    },
+    "plants/magnolia-macrophylla": {
+      "src": "/images/social/plants-magnolia-macrophylla-b6d4d6729b3c.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-magnolia-macrophylla.jpg"
+    },
+    "plants/pinus-mugo-hvozdany": {
+      "src": "/images/social/plants-pinus-mugo-hvozdany-e33b900c2a27.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-mugo.jpg"
+    },
+    "plants/pinus-densiflora": {
+      "src": "/images/social/plants-pinus-densiflora-f143d170c84f.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-densiflora.jpg"
+    },
+    "plants/nyssa-sylvatica": {
+      "src": "/images/social/plants-nyssa-sylvatica-957c5017bedb.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-nyssa-sylvatica.jpg"
+    },
+    "plants/paulownia-fortunei": {
+      "src": "/images/social/plants-paulownia-fortunei-a0ae53b4e6e7.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-paulownia-fortunei.jpg"
+    },
+    "plants/malus-sikkimensis": {
+      "src": "/images/social/plants-malus-sikkimensis-c81c6537c86a.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-malus-sikkimensis.jpg"
+    },
+    "plants/pterocarya-stenoptera": {
+      "src": "/images/social/plants-pterocarya-stenoptera-fa54e26803df.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pterocarya-stenoptera.jpg"
+    },
+    "plants/tilia-platyphyllos-aurea": {
+      "src": "/images/social/plants-tilia-platyphyllos-aurea-ca3ad051dc50.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-tilia-platyphyllos.jpg"
+    },
+    "plants/pinus-thunbergii": {
+      "src": "/images/social/plants-pinus-thunbergii-10460d567fbb.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-pinus-thunbergii.jpg"
+    },
+    "plants/arbutus-unedo": {
+      "src": "/images/social/plants-arbutus-unedo-0bd8c65d1ec6.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-arbutus-unedo.jpg"
+    },
+    "plants/acer-mandshuricum": {
+      "src": "/images/social/plants-acer-mandshuricum-00e36ce0f1f4.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-acer-mandshuricum.jpg"
+    },
+    "plants/magnolia-stellata-chrysanthemiflora": {
+      "src": "/images/social/plants-magnolia-stellata-chrysanthemiflora-d1a4e3e63b44.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-magnolia-stellata.jpg"
+    },
+    "plants/quercus-kelloggii": {
+      "src": "/images/social/plants-quercus-kelloggii-cef95308c0ba.jpg",
+      "width": 1200,
+      "height": 630,
+      "type": "image/jpeg",
+      "photo_src": "/images/plant-quercus-kelloggii.jpg"
+    }
+  }
+}

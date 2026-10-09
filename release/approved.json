@@ -1,8 +1,8 @@
 {
-  "release": "seo-structured-data-breadcrumbs-2026-10-09",
+  "release": "seo-responsive-images-social-2026-10-09",
   "approved_on": "2026-10-09",
-  "authorization": "Uživatel výslovně schválil druhý balík a publikaci odpovědí „schavluji skill i publikaci“ po předložení CS/EN náhledů a ověřeného přehledu: propojené JSON-LD grafy, drobečková navigace, canonical adresy a vazby v catalog.json, llms.txt a kontrola SEO v GitHub CI.",
-  "content_source_sha256": "02ceab01aabdb3c64513148380016ca330c0b6fcfaa9f3881db0e7e254e67817",
+  "authorization": "Uživatel výslovně schválil publikaci třetího SEO balíku odpovědí „schvaluji“ po předložení ověřeného náhledu: responzivní WebP fotografie, 154 vlastních sociálních náhledů, obrazová metadata, licence a automatické kontroly.",
+  "content_source_sha256": "2386504b3e60598e268405112c2c951eedafb493f6556088333e929603e82d3d",
   "entries": 127,
   "people": 153,
   "languages": [
