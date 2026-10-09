@@ -1,11 +1,13 @@
 ---
 import {getCollection} from 'astro:content';
 import {url,text} from '../lib/catalog';
-import {plantPhotos} from '../lib/photos';
+import characterPhotos from '../lib/character-photos.json';
 const {lang}=Astro.props;
 const isCS=lang==='cs';
 const categoryId='pohadkove-a-divadelni-postavy';
-const entries=(await getCollection('entries')).filter(e=>e.data.category_id===categoryId).sort((a,b)=>(b.data.year??0)-(a.data.year??0)||(a.data.date&&b.data.date?b.data.date.localeCompare(a.data.date):0)||b.data.number-a.data.number).slice(0,3);
+const selectedIds=['bob-a-bobek-a-vladimir-jiranek','pat-a-mat-a-lubomir-benes','vecernicek'];
+const allEntries=await getCollection('entries');
+const entries=selectedIds.map(id=>allEntries.find(e=>e.data.id===id)).filter(Boolean);
 const plants=await getCollection('plants');
 const characterNames={
  'bob-a-bobek-a-vladimir-jiranek':'Bob a Bobek',
@@ -18,10 +20,10 @@ const characterNames={
  <h2 id="character-highlights-title"><a href={url(lang,'category',categoryId)}>{isCS?'Pohádkové a divadelní postavy':'Fictional and theatrical characters'}</a></h2>
  <div class="catalog-grid">{entries.map(entry=>{
   const d=entry.data, name=characterNames[d.id]??d.name;
-  const plant=plants.find(p=>p.data.id===d.plant_id), photo=plantPhotos[d.plant_id];
+  const plant=plants.find(p=>p.data.id===d.plant_id), photo=characterPhotos[d.id];
   const plantName=plant.data[isCS?'name_cs':'name_en'];
   return <article class="card">
-   <div class="banner"><a href={url(lang,'entries',d.id)} aria-label={name}><img class={photo?'':'illustration'} src={photo?.src??'/images/project-logo.svg'} alt={photo?plantName:''} width="800" height="600" loading="lazy"/></a><span class="year-badge">{d.year??text[lang].unknown}</span></div>
+   <div class="banner"><a href={url(lang,'entries',d.id)} aria-label={name}><img class={photo?'':'illustration'} src={photo?.src??'/images/project-logo.svg'} alt={photo?name:''} width="800" height="600" loading="lazy"/></a><span class="year-badge">{d.year??text[lang].unknown}</span></div>
    <div class="body"><h3><a href={url(lang,'entries',d.id)}>{name}</a></h3><div class="plant"><a href={url(lang,'plants',d.plant_id)}>{plantName}</a><i>{plant.data.scientific_name}{plant.data.cultivar?` ‘${plant.data.cultivar}’`:''}</i></div></div>
   </article>;
  })}</div>

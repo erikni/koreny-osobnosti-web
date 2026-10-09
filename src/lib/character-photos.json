@@ -1,0 +1,23 @@
+{
+  "bob-a-bobek-a-vladimir-jiranek": {
+    "src": "/images/character-bob-a-bobek.png",
+    "source": "https://www.bobabobek.cz/vyuziti-licence-bob-a-bobek/",
+    "rights_status": "permission_pending",
+    "publication_status": "user_requested_publication",
+    "notes": "User confirmed no permission is held, then explicitly approved the local preview and requested publication on 2026-10-09. Permission remains pending; no licence is asserted."
+  },
+  "pat-a-mat-a-lubomir-benes": {
+    "src": "/images/character-pat-a-mat.png",
+    "source": "https://patmat.cz/",
+    "rights_status": "permission_pending",
+    "publication_status": "user_requested_publication",
+    "notes": "User confirmed no permission is held, then explicitly approved the local preview and requested publication on 2026-10-09. Permission remains pending; no licence is asserted."
+  },
+  "vecernicek": {
+    "src": "/images/character-vecernicek.png",
+    "source": "https://edu.ceskatelevize.cz/namet/vecernicek",
+    "rights_status": "permission_pending",
+    "publication_status": "user_requested_publication",
+    "notes": "User confirmed no permission is held, then explicitly approved the local preview and requested publication on 2026-10-09. Permission remains pending; no licence is asserted."
+  }
+}
