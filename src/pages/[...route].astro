@@ -24,7 +24,7 @@ const entryPortraits=entry?(publicPhotos[id]?[id]:entry.data.person_ids.filter(p
 const personSources=person?[...new Set([...(article?.data.source_urls??[]),...person.data.source_urls])]:[];
 const detailPlant=entry?c.plants.find(p=>p.data.id===entry.data.plant_id):null;
 const entryCategory=entry?c.categories.find(p=>p.data.id===entry.data.category_id):null;
-const title=kind==='year'?`${isCS?'Výsadby v roce':'Plantings in'} ${id}`:kind==='category'?category.data[isCS?'name_cs':'name_en']:kind==='entry'?entry.data.name:kind==='plant'?plantLabel(plant.data,lang):kind==='person'?person.data.name:({home:'Kořeny osobností',entries:t.people,plants:t.plants,people:t.participants,about:t.about,visit:t.visit,timeline:isCS?'Roky výsadby':'Planting years',gallery:isCS?'Galerie osobností':'People gallery'}[kind]);
+const title=kind==='year'?`${isCS?'Výsadby v roce':'Plantings in'} ${id}`:kind==='category'?category.data[isCS?'name_cs':'name_en']:kind==='entry'?entry.data.name:kind==='plant'?plantLabel(plant.data,lang):kind==='person'?person.data.name:({home:'Kořeny osobností',entries:t.people,plants:t.plants,people:t.participants,about:t.about,visit:article?.data.title??t.visit,timeline:isCS?'Roky výsadby':'Planting years',gallery:isCS?'Galerie osobností':'People gallery'}[kind]);
 const years=[...new Set(c.entries.map(e=>e.data.year).filter(Boolean))].sort((a,b)=>b-a);
 const home=c.pages.find(p=>p.data.page_id==='home'&&p.data.lang===lang);
 const newestFirst=(a,b)=>(b.data.year??0)-(a.data.year??0)||(a.data.date&&b.data.date?b.data.date.localeCompare(a.data.date):0)||b.data.number-a.data.number;
