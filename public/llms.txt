@@ -2,9 +2,18 @@
 
 A joint project by Darina Miklovičová and Prague Botanical Garden. A Czech and English catalogue of personalities, representatives and plants. Unknown dates are marked explicitly. Sources are listed at the bottom of each detail page.
 
+The honoured personality and the actual planter or family representative may be different people. A plant detail describes the botanical species or cultivar, not necessarily a photograph of the living specimen in the garden. The planting year is not the publication date. `verified_on` records fact-checking, not the date when a page was modified.
+
+`catalog.json` preserves the source records and adds canonical Czech and English `language_urls`, translated `descriptions`, and links between entries, people and plants. Main participants share their planting detail; follow these canonical URLs instead of constructing legacy `/lide/` or `/en/participants/` detail addresses.
+
 - [Czech catalogue](https://www.koreny-osobnosti.cz/osobnosti/)
 - [English catalogue](https://www.koreny-osobnosti.cz/en/people/)
+- [Czech plants](https://www.koreny-osobnosti.cz/rostliny/)
 - [Plants](https://www.koreny-osobnosti.cz/en/plants/)
+- [Czech participants](https://www.koreny-osobnosti.cz/lide/)
 - [Participants](https://www.koreny-osobnosti.cz/en/participants/)
 - [Structured catalogue](https://www.koreny-osobnosti.cz/catalog.json)
+- [Czech planting years](https://www.koreny-osobnosti.cz/roky/)
+- [English planting years](https://www.koreny-osobnosti.cz/en/years/)
+- [Czech project and methodology](https://www.koreny-osobnosti.cz/o-projektu/)
 - [About and methodology](https://www.koreny-osobnosti.cz/en/about/)

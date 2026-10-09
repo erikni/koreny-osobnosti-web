@@ -56,3 +56,11 @@ body{background-image:none}body:before,body:after{z-index:0}body>.wrap,body>main
 
 
 .character-highlights{padding-top:40px;padding-bottom:30px}.character-highlights h2{font-size:32px;margin:0 0 24px}.character-highlights h2 a{text-decoration:none}.character-highlights h2 a:hover{text-decoration:underline}.character-highlights .action{margin-top:24px}
+
+/* Breadcrumbs wrap naturally on mobile and match the JSON-LD hierarchy. */
+.breadcrumbs{display:block;padding:12px 0 0;color:#526b44}
+.breadcrumbs ol{display:flex;flex-wrap:wrap;gap:6px 0;list-style:none;margin:0;padding:0;font-size:14px}
+.breadcrumbs li{display:flex;align-items:baseline;min-width:0;max-width:100%;overflow-wrap:anywhere}
+.breadcrumbs a{text-decoration:underline;text-underline-offset:3px}
+.breadcrumb-separator{padding:0 10px}
+.breadcrumbs [aria-current=page]{color:#22362b}

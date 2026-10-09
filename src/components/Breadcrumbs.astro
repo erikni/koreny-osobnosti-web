@@ -1,0 +1,9 @@
+---
+const {items, lang} = Astro.props;
+---
+{items.length > 0 && <nav class="breadcrumbs" aria-label={lang === 'cs' ? 'Drobečková navigace' : 'Breadcrumbs'}>
+  <ol>{items.map((item, index) => <li>
+    {index > 0 && <span class="breadcrumb-separator" aria-hidden="true">›</span>}
+    {index === items.length - 1 ? <span aria-current="page">{item.name}</span> : <a href={item.path}>{item.name}</a>}
+  </li>)}</ol>
+</nav>}
