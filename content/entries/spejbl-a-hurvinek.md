@@ -1,0 +1,30 @@
+---
+id: spejbl-a-hurvinek
+number: 63
+name: Spejbl a Hurvínek
+sort_name: Spejbl a Hurvínek
+category_id: pohadkove-a-divadelni-postavy
+entity_type: character
+year: 2013
+date: null
+plant_id: tilia-japonica
+planter: Spejbl a Hurvínek / Divadlo Spejbla a Hurvínka
+person_ids:
+- helena-stachova
+historical: ''
+note: ''
+sources:
+- label_cs: Oficiální seznam Botanické zahrady
+  label_en: Official Botanical Garden catalogue
+  url: https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
+- label_cs: Doklad roku výsadby
+  label_en: Evidence for planting year
+  url: https://www.botanicka.cz/media-files/download/pdf/vz-2013-final-web-new-pdf.pdf
+- label_cs: Biografický pramen
+  label_en: Biographical reference
+  url: https://cs.wikipedia.org/wiki/Helena_%C5%A0t%C3%A1chov%C3%A1
+verified_on: '2026-10-09'
+participation: project-entry
+planting_id: spejbl-a-hurvinek
+planter_en: Spejbl and Hurvínek / Spejbl and Hurvínek Theatre
+---

@@ -1,0 +1,10 @@
+# Kořeny osobností
+
+A joint project by Darina Miklovičová and Prague Botanical Garden. A Czech and English catalogue of personalities, representatives and plants. Unknown dates are marked explicitly. Sources are listed at the bottom of each detail page.
+
+- [Czech catalogue](https://www.koreny-osobnosti.cz/cs/osobnosti/)
+- [English catalogue](https://www.koreny-osobnosti.cz/en/people/)
+- [Plants](https://www.koreny-osobnosti.cz/en/plants/)
+- [Participants](https://www.koreny-osobnosti.cz/en/participants/)
+- [Structured catalogue](https://www.koreny-osobnosti.cz/catalog.json)
+- [About and methodology](https://www.koreny-osobnosti.cz/en/about/)

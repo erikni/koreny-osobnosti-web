@@ -1,0 +1,14 @@
+{
+  "release": "initial-2026-10-09",
+  "approved_on": "2026-10-09",
+  "authorization": "Uživatel schválil všechny články a celý web a požádal o publikaci; následně zvolil existující Worker.",
+  "content_source_sha256": "b1235e464e73c8b1cc5d309fb3516421932a35bb80b02364408fb0a12cd245c4",
+  "entries": 127,
+  "people": 153,
+  "languages": [
+    "cs",
+    "en"
+  ],
+  "licensed_portraits": 32,
+  "licensed_plant_photos": 2
+}

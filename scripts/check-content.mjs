@@ -1,0 +1,10 @@
+import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import YAML from 'yaml';
+const files=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(f=>f.isDirectory()?files(path.join(dir,f.name)):f.name.endsWith('.md')?[path.join(dir,f.name)]:[]);
+const load=dir=>files(`content/${dir}`).map(file=>({file,data:YAML.parse(fs.readFileSync(file,'utf8').split('---')[1])}));
+const entries=load('entries'),people=load('people'),plants=load('plants'),categories=load('categories'),articles=load('articles'),bios=load('biographies');
+for(const [name,list] of Object.entries({entries,people,plants,categories,articles,bios}))assert.equal(new Set(list.map(e=>e.data.id)).size,list.length,`${name}: duplicate id`);
+assert.equal(entries.length,127);assert.equal(people.length,153);assert.equal(articles.length,254);assert.equal(bios.length,306);assert.equal(entries.filter(e=>e.data.year===null).length,4);
+for(const {file,data:d} of entries){assert(plants.some(p=>p.data.id===d.plant_id),`${file}: unknown plant`);assert(categories.some(p=>p.data.id===d.category_id),`${file}: unknown category`);for(const pid of d.person_ids)assert(people.some(p=>p.data.id===pid),`${file}: unknown person`);for(const lang of ['cs','en'])assert.equal(articles.filter(a=>a.data.entry_id===d.id&&a.data.lang===lang).length,1,`${file}: translation`);assert(d.sources.length>0,`${file}: sources`);assert(fs.existsSync(`content/plantings/${d.planting_id}.md`),`${file}: planting`)}
+for(const {file,data:d} of people)for(const lang of ['cs','en'])assert.equal(bios.filter(a=>a.data.person_id===d.id&&a.data.lang===lang).length,1,`${file}: biography`);
+const rights=JSON.parse(fs.readFileSync('design/public-photo-licenses.json','utf8'));for(const p of Object.values({...rights.portraits,...rights.plants})){assert.equal(p.rights_status,'licensed');assert(p.license&&p.source&&p.author);assert(fs.existsSync('public'+p.src))}
+console.log(`Validated ${entries.length} entries, ${people.length} people, ${plants.length} plants, both languages, 4 explicitly unknown years and licensed public photographs.`);

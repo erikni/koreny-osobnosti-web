@@ -1,0 +1,10 @@
+---
+id: prunus-serrulata-amanogawa
+scientific_name: "Prunus serrulata"
+cultivar: "Amanogawa"
+name_cs: "třešeň pilovitá"
+name_en: "Japanese flowering cherry"
+plant_type: tree
+source_urls:
+  - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
+---

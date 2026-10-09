@@ -1,0 +1,882 @@
+{
+  "jiri-suchy": {
+    "src": "/images/jiri-suchy.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Such%C3%BD_(2019).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "zuzana-baudysova": {
+    "src": "/images/zuzana-baudysova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Zuzana_Baudy%C5%A1ov%C3%A1_in_2014.jpg",
+    "author": "Martin Vlček, Kancelář Senátu",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "petr-brukner": {
+    "src": "/images/petr-brukner.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Petr_Brukner_(2017).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "stepanka-hilgertova": {
+    "src": "/images/stepanka-hilgertova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0t%C4%9Bp%C3%A1nka_Hilgertov%C3%A1_(2018).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "david-ondricek": {
+    "src": "/images/david-ondricek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:David_Ond%C5%99%C3%AD%C4%8Dek.jpg",
+    "author": "Luckymanfilms",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "iva-janzurova": {
+    "src": "/images/iva-janzurova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Iva_Jan%C5%BEurov%C3%A1_(2023).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "josef-masopust": {
+    "src": "/images/josef-masopust.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Josef_Masopust_official_photo.jpg",
+    "author": "Study1919",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "petr-pavel": {
+    "src": "/images/petr-pavel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Petr_Pavel_(crop).jpg",
+    "author": "Jana Jabůrková, Jiří Turek (J3T)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "vaclav-kuchynka": {
+    "src": "/images/vaclav-kuchynka.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brig.gen.V%C3%A1clav_Kuchynka_(2019).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "ludvik-vaculik": {
+    "src": "/images/ludvik-vaculik.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ludv%C3%ADk_Vacul%C3%ADk,_2010,_cut.jpg",
+    "author": "Mercy from Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "libor-pesek": {
+    "src": "/images/libor-pesek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Libor_Pesek.jpg",
+    "author": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "martina-smukova": {
+    "src": "/images/martina-smukova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Martina_%C5%A0mukov%C3%A1_(2024).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "helena-stachova": {
+    "src": "/images/helena-stachova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Helena_%C5%A0t%C3%A1chov%C3%A1_PA078802.jpg",
+    "author": "Luděk Kovář – ludek@kovar.biz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "karel-gott": {
+    "src": "/images/karel-gott.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Karel_Gott_2018.jpg",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jaroslav-nemecek": {
+    "src": "/images/jaroslav-nemecek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jaroslav_N%C4%9Bme%C4%8Dek_(2).JPG",
+    "author": "Chmee2",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jirina-bohdalova": {
+    "src": "/images/jirina-bohdalova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99ina_Bohdalov%C3%A1_(2022).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "linda-wichterlova": {
+    "src": "/images/linda-wichterlova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Linda_Wichterlov%C3%A1_(2018).jpg",
+    "author": "NoJin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jan-pirk": {
+    "src": "/images/jan-pirk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Prof._MUDr._Jan_Pirk,_DrSc.(2017).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "petr-janda": {
+    "src": "/images/petr-janda.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Petr_janda.jpg",
+    "author": "Bojars",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "bohuslav-svoboda": {
+    "src": "/images/bohuslav-svoboda.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bohuslav_Svoboda_(2022).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "vladimir-remek": {
+    "src": "/images/vladimir-remek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vladim%C3%ADr_Remek_(2018).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "stepanka-duchkova": {
+    "src": "/images/stepanka-duchkova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0t%C4%9Bp%C3%A1nka_Duchkov%C3%A1_2014.JPG",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "petr-fejk": {
+    "src": "/images/petr-fejk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Petr_Fejk_(2022).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "josef-koutecky": {
+    "src": "/images/josef-koutecky.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Prof._MUDr._Josef_Kouteck%C3%BD,_DrSc._(2017).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "vojtech-jasny": {
+    "src": "/images/vojtech-jasny.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vojt%C4%9Bch_Jasn%C3%BD_0007.JPG",
+    "author": "Magig",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "tomas-hudecek": {
+    "src": "/images/tomas-hudecek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Hude%C4%8Dek_prosinec_2013.JPG",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "tomas-j-bata": {
+    "src": "/images/tomas-j-bata.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_-_Ba%C5%A5a.jpg",
+    "author": "Jadran Šetlík",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "david-drahoninsky": {
+    "src": "/images/david-drahoninsky.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:DavidDrahoninsky,_uspechy.jpg",
+    "author": "LidaFik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jan-hrebejk": {
+    "src": "/images/jan-hrebejk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_H%C5%99ebejk.jpg",
+    "author": "PfefferT",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jan-potmesil": {
+    "src": "/images/jan-potmesil.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_Potm%C4%9B%C5%A1il_(2019)_II.jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "karel-loprais": {
+    "src": "/images/karel-loprais.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Karel_Loprais.jpg",
+    "author": "Richenza",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "richard-konkolski": {
+    "src": "/images/richard-konkolski.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Richard_Konkolski_(2024).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "zdenek-hrib": {
+    "src": "/images/zdenek-hrib.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Zden%C4%9Bk_H%C5%99ib_(cropped).jpg",
+    "author": "Piráti",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "pavel-nedved": {
+    "src": "/images/pavel-nedved.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavel_Nedv%C4%9Bd.jpg",
+    "author": "Pavel Lebeda",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "milan-samanek": {
+    "src": "/images/milan-samanek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Prof._MUDr._Milan_%C5%A0am%C3%A1nek,_DrSc._(2018).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "pierre-richard": {
+    "src": "/images/pierre-richard.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pierre_Richard-0800.jpg",
+    "author": "Harald Krichel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "marta-kubisova": {
+    "src": "/images/marta-kubisova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marta_Kubi%C5%A1ov%C3%A1_2016.jpg",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "marek-benes": {
+    "src": "/images/marek-benes.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marek_Bene%C5%A1_(2022)_III.jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "tomas-bata": {
+    "src": "/images/tomas-bata.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomas_Bata.jpg",
+    "author": "bata shoe company",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jan-masaryk": {
+    "src": "/images/jan-masaryk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_Masaryk_.jpg",
+    "author": "Anonymous Unknown author",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jan_Masaryk_.jpg",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jiri-jezek": {
+    "src": "/images/jiri-jezek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Je%C5%BEek_(2018).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "lucie-bila": {
+    "src": "/images/lucie-bila.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lucie_B%C3%ADl%C3%A1_2017.jpg",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jiri-menzel": {
+    "src": "/images/jiri-menzel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Menzel_III_(2017).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "otto-wichterle": {
+    "src": "/images/otto-wichterle.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Prof._Ing._RTDr._Otto_Wichterle.jpg",
+    "author": "Unknown author Unknown author",
+    "license": "CC BY-SA 3.0 cz",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/cz/deed.en",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "bohdan-pomahac": {
+    "src": "/images/bohdan-pomahac.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Bohdan_Pomahac.png",
+    "author": "Michal Maňas",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "ester-ledecka": {
+    "src": "/images/ester-ledecka.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Ester_Ledeck%C3%A1_-_Show_Jana_Krause_(25._4._2018).png",
+    "author": "Show Jana Krause , FTV Prima",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "martin-hilsky": {
+    "src": "/images/martin-hilsky.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Martin_Hilsk%C3%BD_(2019)_III.jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "antonin-kratochvil": {
+    "src": "/images/antonin-kratochvil.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Anton%C3%ADn_Kratochv%C3%ADl_(2019).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "alfons-mucha": {
+    "src": "/images/alfons-mucha.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_LOC_3c05828u_(cropped).jpg",
+    "author": "George R. Lawrence Co., Chicago.",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_LOC_3c05828u_(cropped).jpg",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jirina-jiraskova": {
+    "src": "/images/jirina-jiraskova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jirina_jiraskova.jpg",
+    "author": "No machine-readable author provided. Egg assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "antonin-holy": {
+    "src": "/images/antonin-holy.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Anton%C3%ADn_Hol%C3%BD_4_5_15_Prof_Holy_pro_deClercq_Pruhonice_foto_Stanislava_Kyselov%C3%A1,_AV_%C4%8CR_(cropped).jpg",
+    "author": "Akademie věd České republiky / Czech Academy of Science (photo by Stanislava Kyselová)",
+    "license": "CC BY-SA 3.0 cz",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/cz/deed.en",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "david-smoljak": {
+    "src": "/images/david-smoljak.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:David_Smoljak.jpg",
+    "author": "Milan Říha",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "katerina-neumannova": {
+    "src": "/images/katerina-neumannova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:20190225_Seefeld_3339_Katerina_Neumannova_(cropped).jpg",
+    "author": "Ailura",
+    "license": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "zdenek-miler": {
+    "src": "/images/zdenek-miler.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kladno,_Bendlova3.jpg",
+    "author": "Zelenymuzik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "barbora-spotakova": {
+    "src": "/images/barbora-spotakova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbora_%C5%A0pot%C3%A1kov%C3%A1.jpg",
+    "author": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "vaclav-cilek": {
+    "src": "/images/vaclav-cilek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:V%C3%A1clav_C%C3%ADlek_2024.jpg",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "zdenek-sverak": {
+    "src": "/images/zdenek-sverak.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Zden%C4%9Bk_Sv%C4%9Br%C3%A1k_(2016).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "eva-jiricna": {
+    "src": "/images/eva-jiricna.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Eva_Ji%C5%99i%C4%8Dn%C3%A1_(2019).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jaroslav-sterba": {
+    "src": "/images/jaroslav-sterba.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Jaroslav_%C5%A0t%C4%9Brba.png",
+    "author": "Lomikarus",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "tatana-gregor-kucharova": {
+    "src": "/images/tatana-gregor-kucharova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ta%C5%A5%C3%A1na_Gregor_Brzobohat%C3%A1_(2018).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jiri-kylian": {
+    "src": "/images/jiri-kylian.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Kyli%C3%A1n_2020.jpg",
+    "author": "KYLIAN PRODUCTIONS BV",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "zuzana-caputova": {
+    "src": "/images/zuzana-caputova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%97%D1%83%D0%B7%D0%B0%D0%BD%D0%B0_%D0%A7%D0%B0%D0%BF%D1%83%D1%82%D0%BE%D0%B2%D0%B0_(02-11-2021).jpg",
+    "author": "Пресс-служба Президента Украины",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "emil-zatopek": {
+    "src": "/images/emil-zatopek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fotothek_df_roe-neg_0006305_003_Emil_Z%C3%A1topek-2.jpg",
+    "author": "Fotothek_df_roe-neg_0006305_003_Emil_Zátopek.jpg : Roger Rössing derivative work: MachoCarioca",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "tomas-lom": {
+    "src": "/images/tomas-lom.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RNDr._Tom%C3%A1%C5%A1_Lom_-_p%C5%99%C3%ADslu%C5%A1n%C3%ADk_311._bombardovac%C3%AD_perut%C4%9B_RAF.jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "pavel-bem": {
+    "src": "/images/pavel-bem.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Praha,_Nov%C3%A1_radnice,_zased%C3%A1n%C3%AD_zastupitelstva,_Pavel_B%C3%A9m.jpg",
+    "author": "I would appreciate being notified if you use my work outside Wikimedia.\nMore of my work can be found in my personal gallery .",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Praha,_Nov%C3%A1_radnice,_zased%C3%A1n%C3%AD_zastupitelstva,_Pavel_B%C3%A9m.jpg",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jan-sverak": {
+    "src": "/images/jan-sverak.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_Sverak.jpg",
+    "author": "che",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "dagmar-peckova": {
+    "src": "/images/dagmar-peckova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dagmar_Peckov%C3%A1_2014.JPG",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "anna-geislerova": {
+    "src": "/images/anna-geislerova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Anna_Geislerov%C3%A1_(2021)_I.jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "dagmar-havlova": {
+    "src": "/images/dagmar-havlova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dagmar_Havlov%C3%A1_(2013)_III.jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "otakar-vavra": {
+    "src": "/images/otakar-vavra.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Otakar_V%C3%A1vra.jpg",
+    "author": "Otakar vavra.jpg : Marcony12 derivative work: Mathuzalem",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Otakar_V%C3%A1vra.jpg",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "daria-klimentova": {
+    "src": "/images/daria-klimentova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Daria_Klimentov%C3%A1_-_Show_Jana_Krause.jpg",
+    "author": "Show Jana Krause, FTV Prima",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "lukas-krpalek": {
+    "src": "/images/lukas-krpalek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Luk%C3%A1%C5%A1_Krp%C3%A1lek_-_Rio_2016_(cropped).jpg",
+    "author": "Fernando Frazão/Agência Brasil",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "eliska-buckova": {
+    "src": "/images/eliska-buckova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Eli%C5%A1ka_Bu%C4%8Dkov%C3%A1_(2023)_III.jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "josef-vana": {
+    "src": "/images/josef-vana.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Josef_vana.jpg",
+    "author": "Lu2nek",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Josef_vana.jpg",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jiri-hanzelka": {
+    "src": "/images/jiri-hanzelka.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jiri_Hanzelka_(1920_2003).jpg",
+    "author": "Author of this photo is unknown person.",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jiri_Hanzelka_(1920_2003).jpg",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "helena-trestikova": {
+    "src": "/images/helena-trestikova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Helena_T%C5%99e%C5%A1t%C3%ADkov%C3%A1_(2018).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "vendula-svobodova": {
+    "src": "/images/vendula-svobodova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vendula_Pizingerov%C3%A1_(2017).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "jiri-anderle": {
+    "src": "/images/jiri-anderle.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Anderle_(2013).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "pavel-pafko": {
+    "src": "/images/pavel-pafko.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Prof._MUDr._Pavel_Pafko,_DrSc._(2017).jpg",
+    "author": "Jindřich Nosek (NoJin)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "lida-rakusanova": {
+    "src": "/images/lida-rakusanova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%ADda_Raku%C5%A1anov%C3%A1.jpg",
+    "author": "Josef Rakušan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "helena-illnerova": {
+    "src": "/images/helena-illnerova.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Helena_Illnerova_066_foto_Stanislava_Kyselov%C3%A1,_AV_%C4%8CR.jpg",
+    "author": "Akademie věd České republiky / Czech Academy of Science (photo by Stanislava Kyselová)",
+    "license": "CC BY-SA 3.0 cz",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/cz/deed.en",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "magdalena-kozena": {
+    "src": "/images/magdalena-kozena.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Praha,_kostel_U_J%C3%A1kobova_%C5%BEeb%C5%99%C3%ADku,_n%C3%A1cvik_vystoupen%C3%AD_Magdaleny_Ko%C5%BEen%C3%A9_(22).jpg",
+    "author": "Jan Polák",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "ivan-klima": {
+    "src": "/images/ivan-klima.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ivan_Kl%C3%ADma_2015.JPG",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "vaclav-postranecky": {
+    "src": "/images/vaclav-postranecky.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:V%C3%A1clav_Postr%C3%A1neck%C3%BD_2013.JPG",
+    "author": "David Sedlecký",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "petr-cech": {
+    "src": "/images/petr-cech.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Arsenal_players_training_before_2019_UEFA_Europa_League_final_07_(cropped).jpg",
+    "author": "Amir Hosseini",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "adam-ondra": {
+    "src": "/images/adam-ondra.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:20180227-LS-0055_by_Lukasz_Sokol.jpg",
+    "author": "AO Production",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "vera-caslavska": {
+    "src": "/images/vera-caslavska.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vera_Caslavska.JPG",
+    "author": "Nizozemský archiv",
+    "license": "CC BY-SA 3.0 nl",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  },
+  "milos-forman": {
+    "src": "/images/milos-forman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Milos_Forman.jpg",
+    "author": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "rights_status": "licensed",
+    "publication_status": "ready",
+    "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+  }
+}

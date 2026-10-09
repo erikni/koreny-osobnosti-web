@@ -1,0 +1,16 @@
+---
+id: dagmar-havlova
+name: Dagmar Havlová
+category_id: herci-a-herecky
+entry_numbers:
+- 58
+source_urls:
+- https://cs.wikipedia.org/wiki/Dagmar_Havlov%C3%A1
+- https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
+biography_verified: true
+verified_on: '2026-10-09'
+sort_name: Havlová, Dagmar Havlová
+---
+
+
+Česká herečka a filantropka, někdejší první dáma České republiky.
