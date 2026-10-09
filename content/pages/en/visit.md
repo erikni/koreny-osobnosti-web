@@ -37,7 +37,7 @@ Search for their name in the [catalogue](/en/people/). For example, [Petra Kvito
 
 ### Can families explore the project with children?
 
-To choose a story with children, start with [Fictional and theatrical characters](/en/categories/pohadkove-a-divadelni-postavy/). These entries distinguish the character from the real planting participants.
+To choose a story with children, start with [Fictional and theatrical characters](/en/character/). These entries distinguish the character from the real planting participants.
 
 ### Does a name beside a plant mean that person planted it themselves?
 

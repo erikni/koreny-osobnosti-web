@@ -103,4 +103,18 @@ for (const key of ['entries', 'people', 'plants']) {
     if (record.plant_language_urls) for (const target of Object.values(record.plant_language_urls)) assert(canonicalUrls.has(target));
   }
 }
+// Removing the name from a primary detail URL must lead to its category page.
+const categoryById = new Map(catalogue.categories.map(c=>[c.id,c]));
+const redirectRules = fs.readFileSync('public/_redirects','utf8').split('\n');
+for (const entry of catalogue.entries) for (const lang of ['cs','en']) {
+  const detail = new URL(entry.language_urls[lang]);
+  const parent = detail.href.replace(/[^/]+\/$/,'');
+  assert.equal(categoryById.get(entry.category_id).language_urls[lang],parent, `${entry.id}: category is not detail parent`);
+  assert(canonicalUrls.has(parent), `${entry.id}: parent missing from sitemap`);
+}
+for (const category of catalogue.categories) for (const lang of ['cs','en']) {
+  const target = new URL(category.language_urls[lang]).pathname;
+  const old = `${lang==='cs'?'/typy/':'/en/categories/'}${category.id}/`;
+  assert(redirectRules.includes(`${old} ${target} 301`), `${old}: missing permanent redirect`);
+}
 console.log(`Validated ${urls.length} page graphs, ${trails} breadcrumb trails, ${listLinks} visible list links and canonical bilingual catalogue relationships.`);

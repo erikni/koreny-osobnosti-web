@@ -1,0 +1,90 @@
+{
+  "lekari": {
+    "cs": "lekar",
+    "en": "doctor"
+  },
+  "hudebnici-a-pevci": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "sportovci": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "pohadkove-a-divadelni-postavy": {
+    "cs": "postava",
+    "en": "character"
+  },
+  "mecenasi-a-humanitarni-osobnosti": {
+    "cs": "mecenas",
+    "en": "philanthropist"
+  },
+  "nadace-a-spolky": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "vytvarnici-fotografove-a-navrhari": {
+    "cs": "vytvarnik",
+    "en": "artist"
+  },
+  "politici-a-diplomate": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "vedci-a-popularizatori-vedy": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "cestovatele": {
+    "cs": "cestovatel",
+    "en": "traveller"
+  },
+  "reziseri-a-kameramani": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "herci-a-herecky": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "duchovni": {
+    "cs": "duchovni",
+    "en": "spiritual-leader"
+  },
+  "spisovatele-a-prekladatele": {
+    "cs": "spisovatel",
+    "en": "writer"
+  },
+  "kosmonauti": {
+    "cs": "kosmonaut",
+    "en": "astronaut"
+  },
+  "reditele-kulturnich-instituci": {
+    "cs": "reditel",
+    "en": "director"
+  },
+  "podnikatele": {
+    "cs": "podnikatel",
+    "en": "entrepreneur"
+  },
+  "architekti": {
+    "cs": "architekt",
+    "en": "architect"
+  },
+  "modelky": {
+    "cs": "modelka",
+    "en": "model"
+  },
+  "tanecnici-a-choreografove": {
+    "cs": "tanecnik",
+    "en": "dancer"
+  },
+  "valecni-veterani": {
+    "cs": "veteran",
+    "en": "veteran"
+  },
+  "novinari": {
+    "cs": "novinar",
+    "en": "journalist"
+  }
+}

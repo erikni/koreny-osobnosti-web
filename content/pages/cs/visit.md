@@ -37,7 +37,7 @@ Vyhledejte její jméno v [katalogu osobností](/osobnosti/). Například detail
 
 ### Hodí se projekt i pro procházku s dětmi?
 
-Pro výběr příběhu s dětmi můžete začít v kategorii [Pohádkové a divadelní postavy](/typy/pohadkove-a-divadelni-postavy/). U těchto položek rozlišujeme postavu a skutečné účastníky výsadby.
+Pro výběr příběhu s dětmi můžete začít v kategorii [Pohádkové a divadelní postavy](/postava/). U těchto položek rozlišujeme postavu a skutečné účastníky výsadby.
 
 ### Znamená jméno u rostliny, že ji osobnost sama zasadila?
 

@@ -1,8 +1,8 @@
 {
-  "release": "seo-visitor-guide-2026-10-09",
+  "release": "seo-canonical-type-categories-2026-10-09",
   "approved_on": "2026-10-09",
-  "authorization": "Uživatel výslovně schválil publikaci sedmého SEO balíku odpovědí „schvaluji“ po předložení českého a anglického mobilního náhledu: průvodce Stezkou osobností, plánování návštěvy, oficiální mapy, vstupy, otevírací doba a vstupné, čtyři praktické otázky a odpovídající metadata.",
-  "content_source_sha256": "64ea55cc55aef8f05625599c0bcf4d7719af1b451fca5ddd5c819bd108d9f153",
+  "authorization": "Uživatel schválil publikaci odpovědí „accept“ po předložení ověřeného náhledu: přímý obsah přehledu na /politik/ a odpovídajících krátkých adresách všech 22 hlavních kategorií v obou jazycích, 301 ze starých adres, aktualizované interní odkazy a canonical metadata. Samostatné typy bez hlavní kategorie vedou na přehled účastníků.",
+  "content_source_sha256": "5b68b575948f7b9f4951e47d9ace22836a2adaa672e186cb6da4e680dfcd3c42",
   "entries": 127,
   "people": 153,
   "languages": [
