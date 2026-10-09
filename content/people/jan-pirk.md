@@ -4,7 +4,9 @@ name: Jan Pirk
 category_id: lekari
 entry_numbers:
 - 79
+official_website: https://janpirk.cz
 source_urls:
+- https://janpirk.cz
 - https://cs.wikipedia.org/wiki/Jan_Pirk
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

@@ -4,7 +4,9 @@ name: Taťána Gregor Kuchařová
 category_id: modelky
 entry_numbers:
 - 16
+official_website: https://www.tatanakucharova.cz/
 source_urls:
+- https://www.tatanakucharova.cz/
 - https://cs.wikipedia.org/wiki/Ta%C5%A5%C3%A1na_Kucha%C5%99ov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

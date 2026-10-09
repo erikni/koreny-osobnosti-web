@@ -4,7 +4,9 @@ name: Jiří Bělohlávek
 category_id: hudebnici-a-pevci
 entry_numbers:
 - 43
+official_website: https://jiribelohlavek.com/
 source_urls:
+- https://jiribelohlavek.com/
 - https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_B%C4%9Blohl%C3%A1vek
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

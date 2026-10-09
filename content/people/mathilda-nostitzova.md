@@ -4,7 +4,9 @@ name: Mathilda Nostitzová
 category_id: mecenasi-a-humanitarni-osobnosti
 entry_numbers:
 - 21
+official_website: https://www.mathilda.cz/
 source_urls:
+- https://www.mathilda.cz/
 - https://cs.wikipedia.org/wiki/Mathilda_Nostitzov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

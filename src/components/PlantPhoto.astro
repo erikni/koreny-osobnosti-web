@@ -1,0 +1,10 @@
+---
+const {plant,photo,lang,href}=Astro.props;
+const isCS=lang==='cs';
+const speciesOnly=photo.illustration_scope==='species';
+const alt=speciesOnly?plant.scientific_name:plant[isCS?'name_cs':'name_en'];
+---
+<figure class="article-photo plant-illustration">
+ {href?<a href={href}><img class="public-image" src={photo.src} width="800" height="600" loading="lazy" alt={alt}/></a>:<img class="public-image" src={photo.src} width="800" height="600" loading="lazy" alt={alt}/>}
+ <figcaption>{isCS?'Ilustrační fotografie':'Illustrative photograph'}{speciesOnly&&<> {isCS?'druhu':'of the species'} <i>{plant.scientific_name}</i></>}. {speciesOnly&&plant.cultivar&&<>{isCS?'Nejde o doklad kultivaru':'This does not document the cultivar'} ‘{plant.cultivar}’. </>}{isCS?'Nejde o snímek konkrétní výsadby v zahradě.':'Not a photograph of this particular planting in the garden.'}</figcaption>
+</figure>

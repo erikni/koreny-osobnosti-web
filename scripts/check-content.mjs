@@ -43,3 +43,12 @@ const personRoutes=JSON.parse(fs.readFileSync('src/lib/person-routes.json','utf8
 assert.equal(Object.keys(personRoutes).length,people.length,'Participant route coverage');
 for(const {data:d} of people){const route=personRoutes[d.id];assert.equal(route.merged,entries.some(e=>e.data.id===d.id));for(const lang of ['cs','en'])assert(/^[a-z][a-z-]*$/.test(route[lang]));for(const [old,lang] of [[`/lide/${d.id}/`,'cs'],[`/cs/lide/${d.id}/`,'cs'],[`/en/participants/${d.id}/`,'en']])assert(redirectRules.includes(`${old} ${lang==='cs'?'':'/en'}/${route[lang]}/${d.id}/ 301`),`${d.id}: biography redirect`)}
 console.log('Validated consolidated biography routes and redirects.');
+for(const {file,data:d} of people)if(d.official_website){
+ // The historical official Pavel Nedvěd site is available only over HTTP.
+ assert(d.official_website==='http://www.pavelnedved.cz/home/'||new URL(d.official_website).protocol==='https:',`${file}: official website must use HTTPS or the verified historical Nedvěd URL`);
+ assert(d.source_urls.includes(d.official_website),`${file}: official website missing from sources`);
+ for(const {file:bioFile,data:bio} of bios.filter(b=>b.data.person_id===d.id))assert(bio.source_urls.includes(d.official_website),`${bioFile}: official website missing from translated sources`);
+}
+for(const [pid,photo] of Object.entries(rights.portraits))assert.equal(photo.name,people.find(p=>p.data.id===pid)?.data.name,`${pid}: portrait identity`);
+assert.equal(fs.readFileSync('src/lib/photos.ts','utf8'),'export const publicPhotos = '+JSON.stringify(rights.portraits,null,2)+';\nexport const plantPhotos = '+JSON.stringify(rights.plants,null,2)+';\n','Public photo definitions must match the licence manifest');
+console.log(`Validated ${Object.keys(rights.portraits).length} portrait identities, photo manifest and ${people.filter(p=>p.data.official_website).length} official websites in both languages.`);

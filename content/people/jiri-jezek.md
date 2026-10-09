@@ -4,7 +4,9 @@ name: Jiří Ježek
 category_id: sportovci
 entry_numbers:
 - 87
+official_website: https://www.jirijezek.cz/
 source_urls:
+- https://www.jirijezek.cz/
 - https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Je%C5%BEek_%28cyklista%29
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

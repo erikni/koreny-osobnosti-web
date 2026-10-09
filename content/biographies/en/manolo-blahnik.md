@@ -5,6 +5,7 @@ lang: en
 title: Manolo Blahník
 status: ready
 source_urls:
+- https://www.manoloblahnik.com/int/home
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 ---
 

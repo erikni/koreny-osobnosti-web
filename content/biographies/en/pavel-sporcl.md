@@ -5,6 +5,7 @@ lang: en
 title: Pavel Šporcl
 status: ready
 source_urls:
+- https://www.pavelsporcl.cz
 - https://en.wikipedia.org/wiki/Pavel_%C5%A0porcl
 - https://cs.wikipedia.org/wiki/Pavel_%C5%A0porcl
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

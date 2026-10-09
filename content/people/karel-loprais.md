@@ -4,7 +4,10 @@ name: Karel Loprais
 category_id: sportovci
 entry_numbers:
 - 93
+official_website: https://dakar.loprais.cz/karel-loprais
 source_urls:
+- https://dakar.loprais.cz/karel-loprais
+- https://www.loprais.cz
 - https://cs.wikipedia.org/wiki/Karel_Loprais
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

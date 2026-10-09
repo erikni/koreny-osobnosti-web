@@ -21,3 +21,38 @@ body{background-image:none}body:before,body:after{z-index:0}body>.wrap,body>main
 
 .personality-type{margin-top:-0.5rem;margin-bottom:1.5rem;color:#526b44;text-transform:lowercase}.personality-type a{text-decoration:none}.detail-block{padding:clamp(20px,4vw,36px);border-radius:24px;margin:28px 0}.detail-block h2{margin-top:0;font-size:30px}.plant-block{background:#e2edda;border:1px solid #c9dbbd}.person-block{background:#fffdf6;border:1px solid #e4e6d7}.detail-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:0 0 22px;max-width:880px}.detail-facts dt{font-size:14px;color:#526b44}.detail-facts dd{margin:5px 0 0;font-weight:600;overflow-wrap:anywhere}.participants-fact{grid-column:1/-1}.plant-block .plant-facts{margin-bottom:24px}.plant-block .plant-facts div{background:#f7faf2}.detail-block .article-body p:first-child{margin-top:0}@media(max-width:600px){.detail-facts{grid-template-columns:1fr}.detail-block h2{font-size:26px}}
 .biography-highlights{grid-column:1/-1}.biography-highlights ul{margin:6px 0 0;padding-left:20px}.biography-highlights li{margin:8px 0;font-weight:500;line-height:1.6}
+
+.entry-portraits.multiple{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:1.5rem;align-items:start}.entry-portraits.multiple .article-photo{width:100%;margin-inline:0}
+
+
+/* Fit complete photographs within their frame without stretching or cropping. */
+.article-photo img.public-image{
+ width:auto;height:auto;max-width:min(100%,880px);max-height:560px;
+ object-fit:contain;object-position:center;margin-inline:auto;border-radius:22px;
+ background:transparent;
+}
+.banner a,.tree-image{display:flex;align-items:center;justify-content:center}
+.banner img:not(.illustration),.tree-image img:not(.illustration){
+ position:static;width:auto;height:auto;max-width:100%;max-height:100%;
+ object-fit:contain;object-position:center;border-radius:20px;
+}
+.catalog-grid .banner img:not(.illustration){object-position:center}
+.hero-photo{display:flex;align-items:center;justify-content:center;border-radius:28px;overflow:visible}
+.hero-photo img:not(.illustration){
+ width:auto;height:auto;max-width:100%;max-height:100%;
+ object-fit:contain;object-position:center;border-radius:28px;
+}
+.memory-photo img{display:block;width:auto;height:auto;max-width:100%;max-height:115px;object-fit:contain;border-radius:12px;margin-inline:auto}
+@media(max-width:760px){.memory-photo img{max-height:95px}}
+
+.tree-image>a{display:flex;align-items:center;justify-content:center;width:100%;height:100%}.plant-illustration>a{display:block}.photo-credit{overflow-wrap:anywhere}
+
+/* Two independently alphabetized category groups; icons sit above their labels. */
+.footer-category-groups{display:grid;gap:20px}
+.footer-link-list.category-icons{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px}
+.footer-link-list.category-icons .category-with-icon{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:10px;text-align:center;border-radius:14px;padding:16px 10px;line-height:1.4}
+.category-icon{width:32px;height:32px;flex:0 0 32px;color:#28563b}
+@media(max-width:760px){.category-icon{display:none}.footer-link-list.category-icons{display:flex;flex-wrap:wrap;gap:9px 12px}.footer-link-list.category-icons .category-with-icon{display:inline-block;border-radius:20px;padding:5px 12px;text-align:left;line-height:inherit}.footer-category-groups{gap:14px}}
+
+
+.character-highlights{padding-top:40px;padding-bottom:30px}.character-highlights h2{font-size:32px;margin:0 0 24px}.character-highlights h2 a{text-decoration:none}.character-highlights h2 a:hover{text-decoration:underline}.character-highlights .action{margin-top:24px}

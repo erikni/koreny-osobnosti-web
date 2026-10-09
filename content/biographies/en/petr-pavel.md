@@ -5,6 +5,7 @@ lang: en
 title: Petr Pavel
 status: ready
 source_urls:
+- https://www.hrad.cz/cs/prezident-cr/soucasny-prezident-cr
 - https://en.wikipedia.org/wiki/Petr_Pavel
 - https://cs.wikipedia.org/wiki/Petr_Pavel
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

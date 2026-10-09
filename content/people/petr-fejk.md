@@ -4,7 +4,9 @@ name: Petr Fejk
 category_id: reditele-kulturnich-instituci
 entry_numbers:
 - 9
+official_website: https://www.petrfejk.cz
 source_urls:
+- https://www.petrfejk.cz
 - https://cs.wikipedia.org/wiki/Petr_Fejk
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

@@ -4,7 +4,9 @@ name: 14. dalajlama
 category_id: duchovni
 entry_numbers:
 - 72
+official_website: https://www.dalaiLama.com/
 source_urls:
+- https://www.dalaiLama.com/
 - https://cs.wikipedia.org/wiki/T%C3%A4ndzin_Gjamccho
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

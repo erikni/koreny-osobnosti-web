@@ -4,7 +4,9 @@ name: Pierre Richard
 category_id: herci-a-herecky
 entry_numbers:
 - 86
+official_website: https://www.pierre-richard.fr/
 source_urls:
+- https://www.pierre-richard.fr/
 - https://cs.wikipedia.org/wiki/Pierre_Richard
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

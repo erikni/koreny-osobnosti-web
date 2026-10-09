@@ -4,7 +4,9 @@ name: Radek Jaroš
 category_id: sportovci
 entry_numbers:
 - 119
+official_website: https://www.radekjaros.cz
 source_urls:
+- https://www.radekjaros.cz
 - https://cs.wikipedia.org/wiki/Radek_Jaro%C5%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

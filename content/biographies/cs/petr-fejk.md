@@ -5,6 +5,7 @@ lang: cs
 title: Petr Fejk
 status: ready
 source_urls:
+- https://www.petrfejk.cz
 - https://cs.wikipedia.org/wiki/Petr_Fejk
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/Petr_Fejk

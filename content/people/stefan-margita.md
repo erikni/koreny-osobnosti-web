@@ -4,7 +4,9 @@ name: Štefan Margita
 category_id: hudebnici-a-pevci
 entry_numbers:
 - 53
+official_website: https://www.stefanmargita.com
 source_urls:
+- https://www.stefanmargita.com
 - https://cs.wikipedia.org/wiki/%C5%A0tefan_Margita
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

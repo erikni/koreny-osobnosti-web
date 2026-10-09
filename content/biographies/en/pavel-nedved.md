@@ -5,6 +5,7 @@ lang: en
 title: Pavel Nedvěd
 status: ready
 source_urls:
+- http://www.pavelnedved.cz/home/
 - https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd
 - https://cs.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

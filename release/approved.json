@@ -1,16 +1,16 @@
 {
-  "release": "details-and-routes-2026-10-09",
+  "release": "homepage-characters-footer-2026-10-09",
   "approved_on": "2026-10-09",
-  "authorization": "Uživatel po náhledu schválil všechny změny a výslovně požádal o publikaci; požadované opakující se věty o propojení osobnosti s položkou projektu byly odstraněny.",
-  "content_source_sha256": "32f6850f08cf02dcfe27ddc0b0c2fc07727ed1956cd173a8eba5cb9c5bbe4513",
+  "authorization": "Uživatel zprávou „schvaluji“ schválil aktuální místní náhled: výběr osobností na HP, novou sekci pohádkových a divadelních postav a patičku s šesti ikonami, odděleným abecedním řazením a skrytím ikon na mobilu. Vydání zachovává obsah a licencované fotografie z tohoto náhledu.",
+  "content_source_sha256": "49e7c77195cec163977b711e91aee29c56b4593aefd01c673e0af70893642512",
   "entries": 127,
   "people": 153,
   "languages": [
     "cs",
     "en"
   ],
-  "licensed_portraits": 32,
-  "licensed_plant_photos": 2,
+  "licensed_portraits": 131,
+  "licensed_plant_photos": 37,
   "checksum_scope": "content, src, public, scripts, astro.config.mjs; sorted paths and bytes separated by NUL",
   "plant_profiles": 216
 }

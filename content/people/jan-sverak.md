@@ -4,7 +4,9 @@ name: Jan Svěrák
 category_id: reziseri-a-kameramani
 entry_numbers:
 - 23
+official_website: https://www.sverak.cz
 source_urls:
+- https://www.sverak.cz
 - https://cs.wikipedia.org/wiki/Jan_Sv%C4%9Br%C3%A1k
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

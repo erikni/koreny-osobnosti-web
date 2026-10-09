@@ -5,6 +5,8 @@ lang: en
 title: Adam Ondra
 status: ready
 source_urls:
+- https://www.adamondra.com/cz/
+- https://www.adamondra.com/
 - https://en.wikipedia.org/wiki/Adam_Ondra
 - https://cs.wikipedia.org/wiki/Adam_Ondra
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

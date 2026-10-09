@@ -4,7 +4,9 @@ name: Nicholas Winton
 category_id: mecenasi-a-humanitarni-osobnosti
 entry_numbers:
 - 68
+official_website: https://www.nicholaswinton.com/
 source_urls:
+- https://www.nicholaswinton.com/
 - https://cs.wikipedia.org/wiki/Nicholas_Winton
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

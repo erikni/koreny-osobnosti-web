@@ -5,6 +5,7 @@ lang: en
 title: Miloš Forman
 status: ready
 source_urls:
+- https://milosforman.com
 - https://en.wikipedia.org/wiki/Milo%C5%A1_Forman
 - https://cs.wikipedia.org/wiki/Milo%C5%A1_Forman
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

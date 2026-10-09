@@ -4,7 +4,9 @@ name: Pavel Šporcl
 category_id: hudebnici-a-pevci
 entry_numbers:
 - 5
+official_website: https://www.pavelsporcl.cz
 source_urls:
+- https://www.pavelsporcl.cz
 - https://cs.wikipedia.org/wiki/Pavel_%C5%A0porcl
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

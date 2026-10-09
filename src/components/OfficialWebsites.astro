@@ -1,0 +1,5 @@
+---
+const {people,lang}=Astro.props;
+const sites=people.filter(p=>p?.data.official_website);
+---
+{sites.length>0&&<ul class="source-list">{sites.map(p=><li><a href={p.data.official_website}>{lang==='cs'?'Oficiální web':'Official website'} · {p.data.name}</a></li>)}</ul>}

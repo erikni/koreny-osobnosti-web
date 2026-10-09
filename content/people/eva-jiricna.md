@@ -4,7 +4,9 @@ name: Eva Jiřičná
 category_id: architekti
 entry_numbers:
 - 35
+official_website: https://www.aidesign.cz/
 source_urls:
+- https://www.aidesign.cz/
 - https://cs.wikipedia.org/wiki/Eva_Ji%C5%99i%C4%8Dn%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

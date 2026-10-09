@@ -5,6 +5,7 @@ lang: en
 title: Josef Váňa
 status: ready
 source_urls:
+- https://www.instagram.com/josefvanaofficial/?hl=cs
 - https://en.wikipedia.org/wiki/Josef_V%C3%A1%C5%88a
 - https://cs.wikipedia.org/wiki/Josef_V%C3%A1%C5%88a
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

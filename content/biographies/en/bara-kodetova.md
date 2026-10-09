@@ -5,6 +5,7 @@ lang: en
 title: Bára Kodetová
 status: ready
 source_urls:
+- https://www.barakodetova.cz/
 - https://en.wikipedia.org/wiki/Barbora_Kodetov%C3%A1
 - https://cs.wikipedia.org/wiki/Barbora_Kodetov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

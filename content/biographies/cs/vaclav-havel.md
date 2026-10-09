@@ -5,6 +5,7 @@ lang: cs
 title: Václav Havel
 status: ready
 source_urls:
+- https://www.vaclavhavel.cz
 - https://cs.wikipedia.org/wiki/V%C3%A1clav_Havel
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/V%C3%A1clav_Havel

@@ -4,7 +4,9 @@ name: Lukáš Krpálek
 category_id: sportovci
 entry_numbers:
 - 105
+official_website: https://www.lukaskrpalek.cz/
 source_urls:
+- https://www.lukaskrpalek.cz/
 - https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Krp%C3%A1lek
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

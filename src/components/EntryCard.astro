@@ -1,8 +1,8 @@
 ---
 import {text,url} from '../lib/catalog';
 import {publicPhotos} from '../lib/photos';
-const {entry,plant,category,lang}=Astro.props;const d=entry.data,t=text[lang];const photo=publicPhotos[d.id];
+const {entry,plant,category,lang}=Astro.props;const d=entry.data,t=text[lang];const photoId=publicPhotos[d.id]?d.id:d.person_ids.find(pid=>publicPhotos[pid]);const photo=publicPhotos[photoId];
 const name=lang==='cs'?plant.data.name_cs:plant.data.name_en;
 ---
 <article class="card" data-name={`${d.name} ${name} ${plant.data.scientific_name}`.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()} data-category={d.category_id} data-year={d.year??'unknown'} data-plant={d.plant_id}>
-<div class="banner"><a href={url(lang,'entries',d.id)} aria-label={d.name}><img class={photo?'':'illustration'} src={photo?.src??'/images/project-logo.svg'} width="800" height="600" loading="lazy" alt={photo?d.name:''}/></a><span class="year-badge">{d.year??t.unknown}</span></div><div class="body"><span class="tag">{category.data[lang==='cs'?'name_cs':'name_en']}</span><h3><a href={url(lang,'entries',d.id)} style="text-decoration:none">{d.name}</a></h3><div class="plant">{name}<i>{plant.data.scientific_name}{plant.data.cultivar?` '${plant.data.cultivar}'`:''}</i></div><a class="profile-link" href={url(lang,'entries',d.id)}>{t.more}</a></div></article>
+<div class="banner"><a href={url(lang,'entries',d.id)} aria-label={d.name}><img class={photo?'':'illustration'} src={photo?.src??'/images/project-logo.svg'} width="800" height="600" loading="lazy" alt={photo?photo.name:''}/></a><span class="year-badge">{d.year??t.unknown}</span></div><div class="body"><span class="tag">{category.data[lang==='cs'?'name_cs':'name_en']}</span><h3><a href={url(lang,'entries',d.id)} style="text-decoration:none">{d.name}</a></h3><div class="plant">{name}<i>{plant.data.scientific_name}{plant.data.cultivar?` '${plant.data.cultivar}'`:''}</i></div><a class="profile-link" href={url(lang,'entries',d.id)}>{t.more}</a></div></article>

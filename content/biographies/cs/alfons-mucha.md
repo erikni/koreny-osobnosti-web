@@ -5,6 +5,7 @@ lang: cs
 title: Alfons Mucha
 status: ready
 source_urls:
+- https://www.muchafoundation.org/
 - https://cs.wikipedia.org/wiki/Alfons_Mucha
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/Alfons_Mucha

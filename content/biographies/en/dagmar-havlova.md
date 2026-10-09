@@ -5,6 +5,7 @@ lang: en
 title: Dagmar Havlová
 status: ready
 source_urls:
+- https://www.havlova-veskrnova.com/
 - https://en.wikipedia.org/wiki/Dagmar_Havlov%C3%A1
 - https://cs.wikipedia.org/wiki/Dagmar_Havlov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

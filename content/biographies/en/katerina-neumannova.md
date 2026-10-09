@@ -5,6 +5,7 @@ lang: en
 title: Kateřina Neumannová
 status: ready
 source_urls:
+- https://neumannova.cz/
 - https://en.wikipedia.org/wiki/Kate%C5%99ina_Neumannov%C3%A1
 - https://cs.wikipedia.org/wiki/Kate%C5%99ina_Neumannov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

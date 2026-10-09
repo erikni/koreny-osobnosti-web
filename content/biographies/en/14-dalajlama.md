@@ -5,6 +5,7 @@ lang: en
 title: 14. dalajlama
 status: ready
 source_urls:
+- https://www.dalaiLama.com/
 - https://en.wikipedia.org/wiki/14th_Dalai_Lama
 - https://cs.wikipedia.org/wiki/T%C3%A4ndzin_Gjamccho
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

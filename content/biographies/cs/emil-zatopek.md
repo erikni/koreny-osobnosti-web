@@ -5,6 +5,7 @@ lang: cs
 title: Emil Zátopek
 status: ready
 source_urls:
+- https://www.zatopek100.cz/
 - https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek

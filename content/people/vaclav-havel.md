@@ -4,7 +4,9 @@ name: Václav Havel
 category_id: politici-a-diplomate
 entry_numbers:
 - 8
+official_website: https://www.vaclavhavel.cz
 source_urls:
+- https://www.vaclavhavel.cz
 - https://cs.wikipedia.org/wiki/V%C3%A1clav_Havel
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

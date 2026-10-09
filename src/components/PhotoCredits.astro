@@ -1,0 +1,9 @@
+---
+const {photo,name,lang}=Astro.props;
+const isCS=lang==='cs';
+const hostname=new URL(photo.source).hostname.replace(/^www\./,'');
+const sourceName=hostname==='commons.wikimedia.org'?'Wikimedia Commons / Wikipedia':hostname==='osobnosti.cz'?'Osobnosti.cz':hostname;
+const author=photo.author_unknown?(isCS?'ve zdroji neuveden':'not stated by the source'):photo.author;
+const licence=photo[isCS?'license_cs':'license_en']??photo.license;
+---
+<p class="photo-credit">{isCS?'Zdroj fotografie':'Photo source'}: <a href={photo.source}>{sourceName}</a>{name&&<> · {name}</>} · {isCS?'Autor':'Author'}: {author} · <a href={photo.licenseUrl}>{licence}</a></p>

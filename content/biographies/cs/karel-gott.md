@@ -5,6 +5,7 @@ lang: cs
 title: Karel Gott
 status: ready
 source_urls:
+- https://www.karelgott.com
 - https://cs.wikipedia.org/wiki/Karel_Gott
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/Karel_Gott

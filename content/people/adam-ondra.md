@@ -4,7 +4,10 @@ name: Adam Ondra
 category_id: sportovci
 entry_numbers:
 - 96
+official_website: https://www.adamondra.com/cz/
 source_urls:
+- https://www.adamondra.com/cz/
+- https://www.adamondra.com/
 - https://cs.wikipedia.org/wiki/Adam_Ondra
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

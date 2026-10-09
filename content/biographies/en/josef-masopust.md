@@ -5,6 +5,7 @@ lang: en
 title: Josef Masopust
 status: ready
 source_urls:
+- https://edu.ceskatelevize.cz/porad/skromny-velikan-josef-masopust
 - https://en.wikipedia.org/wiki/Josef_Masopust
 - https://cs.wikipedia.org/wiki/Josef_Masopust
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

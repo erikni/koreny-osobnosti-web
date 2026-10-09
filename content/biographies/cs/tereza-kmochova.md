@@ -5,6 +5,7 @@ lang: cs
 title: Tereza Kmochová
 status: ready
 source_urls:
+- https://www.instagram.com/terikmochova/
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 ---
 

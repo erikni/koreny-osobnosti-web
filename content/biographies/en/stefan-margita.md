@@ -5,6 +5,7 @@ lang: en
 title: Štefan Margita
 status: ready
 source_urls:
+- https://www.stefanmargita.com
 - https://en.wikipedia.org/wiki/%C5%A0tefan_Margita
 - https://cs.wikipedia.org/wiki/%C5%A0tefan_Margita
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

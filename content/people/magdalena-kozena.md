@@ -4,7 +4,9 @@ name: Magdalena Kožená
 category_id: hudebnici-a-pevci
 entry_numbers:
 - 59
+official_website: https://www.kozena.cz/
 source_urls:
+- https://www.kozena.cz/
 - https://cs.wikipedia.org/wiki/Magdalena_Ko%C5%BEen%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

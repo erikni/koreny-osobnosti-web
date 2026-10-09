@@ -5,6 +5,7 @@ lang: cs
 title: Eva Pavlová
 status: ready
 source_urls:
+- https://www.hrad.cz/cs/prezident-cr/soucasny-prezident-cr/manzelka-prezidenta-ceske-republiky-1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 ---
 

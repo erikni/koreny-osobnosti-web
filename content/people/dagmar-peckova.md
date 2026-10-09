@@ -4,7 +4,9 @@ name: Dagmar Pecková
 category_id: hudebnici-a-pevci
 entry_numbers:
 - 42
+official_website: https://www.dagmarpeckova.com/
 source_urls:
+- https://www.dagmarpeckova.com/
 - https://cs.wikipedia.org/wiki/Dagmar_Peckov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

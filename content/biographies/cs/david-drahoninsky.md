@@ -5,6 +5,7 @@ lang: cs
 title: David Drahonínský
 status: ready
 source_urls:
+- https://www.daviddrahoninsky.cz/
 - https://cs.wikipedia.org/wiki/David_Drahon%C3%ADnsk%C3%BD
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/David_Drahon%C3%ADnsk%C3%BD

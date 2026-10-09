@@ -5,6 +5,8 @@ lang: cs
 title: Karel Loprais
 status: ready
 source_urls:
+- https://dakar.loprais.cz/karel-loprais
+- https://www.loprais.cz
 - https://cs.wikipedia.org/wiki/Karel_Loprais
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/Karel_Loprais

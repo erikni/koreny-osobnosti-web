@@ -5,6 +5,7 @@ lang: cs
 title: Jiří Kylián
 status: ready
 source_urls:
+- https://www.jirikylian.com/
 - https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Kyli%C3%A1n
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Kyli%C3%A1n

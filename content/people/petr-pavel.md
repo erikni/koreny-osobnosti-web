@@ -4,7 +4,9 @@ name: Petr Pavel
 category_id: politici-a-diplomate
 entry_numbers:
 - 122
+official_website: https://www.hrad.cz/cs/prezident-cr/soucasny-prezident-cr
 source_urls:
+- https://www.hrad.cz/cs/prezident-cr/soucasny-prezident-cr
 - https://cs.wikipedia.org/wiki/Petr_Pavel
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

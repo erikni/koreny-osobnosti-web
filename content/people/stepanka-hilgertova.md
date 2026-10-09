@@ -4,7 +4,10 @@ name: Štěpánka Hilgertová
 category_id: sportovci
 entry_numbers:
 - 47
+official_website: https://www.hilgertova.eu/
 source_urls:
+- https://www.hilgertova.eu/
+- https://www.hilgertova.eu
 - https://cs.wikipedia.org/wiki/%C5%A0t%C4%9Bp%C3%A1nka_Hilgertov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

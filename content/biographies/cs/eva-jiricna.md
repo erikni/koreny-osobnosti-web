@@ -5,6 +5,7 @@ lang: cs
 title: Eva Jiřičná
 status: ready
 source_urls:
+- https://www.aidesign.cz/
 - https://cs.wikipedia.org/wiki/Eva_Ji%C5%99i%C4%8Dn%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/Eva_Ji%C5%99i%C4%8Dn%C3%A1

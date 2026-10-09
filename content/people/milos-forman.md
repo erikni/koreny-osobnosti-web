@@ -4,7 +4,9 @@ name: Miloš Forman
 category_id: reziseri-a-kameramani
 entry_numbers:
 - 37
+official_website: https://milosforman.com
 source_urls:
+- https://milosforman.com
 - https://cs.wikipedia.org/wiki/Milo%C5%A1_Forman
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

@@ -5,6 +5,7 @@ lang: en
 title: Richard Konkolski
 status: ready
 source_urls:
+- https://www.konkolski.com
 - https://en.wikipedia.org/wiki/Richard_Konkolski
 - https://cs.wikipedia.org/wiki/Richard_Konkolski
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

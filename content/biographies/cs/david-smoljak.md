@@ -5,6 +5,7 @@ lang: cs
 title: David Smoljak
 status: ready
 source_urls:
+- https://www.davidsmoljak.cz
 - https://cs.wikipedia.org/wiki/David_Smoljak
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/David_Smoljak

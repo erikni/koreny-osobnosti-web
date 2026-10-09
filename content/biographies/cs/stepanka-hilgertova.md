@@ -5,6 +5,8 @@ lang: cs
 title: Štěpánka Hilgertová
 status: ready
 source_urls:
+- https://www.hilgertova.eu/
+- https://www.hilgertova.eu
 - https://cs.wikipedia.org/wiki/%C5%A0t%C4%9Bp%C3%A1nka_Hilgertov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/%C5%A0t%C4%9Bp%C3%A1nka_Hilgertov%C3%A1

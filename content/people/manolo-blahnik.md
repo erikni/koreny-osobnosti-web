@@ -4,7 +4,9 @@ name: Manolo Blahník
 category_id: vytvarnici-fotografove-a-navrhari
 entry_numbers:
 - 76
+official_website: https://www.manoloblahnik.com/int/home
 source_urls:
+- https://www.manoloblahnik.com/int/home
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true
 verified_on: '2026-10-09'

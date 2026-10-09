@@ -8,7 +8,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Unmodified original file; presentation may crop via CSS."
+      "changes": "Unmodified original file; presentation may crop via CSS.",
+      "name": "Petra Kvitová"
     },
     "vaclav-havel": {
       "src": "/images/vaclav-havel.jpg",
@@ -18,7 +19,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Unmodified original file; presentation may crop via CSS."
+      "changes": "Unmodified original file; presentation may crop via CSS.",
+      "name": "Václav Havel"
     },
     "bara-kodetova": {
       "src": "/images/bara-kodetova.jpg",
@@ -28,7 +30,8 @@
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Bára Kodetová"
     },
     "alice-masarykova": {
       "src": "/images/alice-masarykova.jpg",
@@ -38,7 +41,8 @@
       "licenseUrl": "https://commons.wikimedia.org/wiki/File:Masarykova-Photo.jpg",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Alice Masaryková"
     },
     "meda-mladkova": {
       "src": "/images/meda-mladkova.jpg",
@@ -48,7 +52,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Meda Mládková"
     },
     "miroslav-ondricek": {
       "src": "/images/miroslav-ondricek.jpg",
@@ -58,7 +63,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Miroslav Ondříček"
     },
     "sona-cervena": {
       "src": "/images/sona-cervena.jpg",
@@ -68,7 +74,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Soňa Červená"
     },
     "chantal-poullain": {
       "src": "/images/chantal-poullain.jpg",
@@ -78,7 +85,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Chantal Poullain"
     },
     "jiri-belohlavek": {
       "src": "/images/jiri-belohlavek.jpg",
@@ -88,7 +96,8 @@
       "licenseUrl": "https://commons.wikimedia.org/wiki/File:JiriBelohlavek.jpg",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Jiří Bělohlávek"
     },
     "andrew-j-feustel": {
       "src": "/images/andrew-j-feustel.jpg",
@@ -98,7 +107,8 @@
       "licenseUrl": "https://commons.wikimedia.org/wiki/File:Andrewfeustelv2.jpg",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Andrew J. Feustel"
     },
     "madeleine-albrightova": {
       "src": "/images/madeleine-albrightova.jpg",
@@ -108,7 +118,8 @@
       "licenseUrl": "https://commons.wikimedia.org/wiki/File:Secalbright.jpg",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Madeleine Albrightová"
     },
     "stefan-margita": {
       "src": "/images/stefan-margita.jpg",
@@ -118,7 +129,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Štefan Margita"
     },
     "jan-zelezny": {
       "src": "/images/jan-zelezny.jpg",
@@ -128,7 +140,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Jan Železný"
     },
     "antonin-panenka": {
       "src": "/images/antonin-panenka.jpg",
@@ -138,7 +151,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Antonín Panenka"
     },
     "vladimir-jiranek": {
       "src": "/images/vladimir-jiranek.jpg",
@@ -148,7 +162,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Vladimír Jiránek"
     },
     "gabriela-koukalova": {
       "src": "/images/gabriela-koukalova.jpg",
@@ -158,7 +173,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Gabriela Koukalová"
     },
     "mathilda-nostitzova": {
       "src": "/images/mathilda-nostitzova.jpg",
@@ -168,7 +184,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Mathilda Nostitzová"
     },
     "marie-vodickova": {
       "src": "/images/marie-vodickova.jpg",
@@ -178,7 +195,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Marie Vodičková"
     },
     "radek-jaros": {
       "src": "/images/radek-jaros.jpg",
@@ -188,7 +206,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Radek Jaroš"
     },
     "nicholas-winton": {
       "src": "/images/nicholas-winton.jpg",
@@ -198,7 +217,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Nicholas Winton"
     },
     "theodor-pistek": {
       "src": "/images/theodor-pistek.jpg",
@@ -208,7 +228,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Theodor Pištěk"
     },
     "adriana-krnacova": {
       "src": "/images/adriana-krnacova.jpg",
@@ -218,7 +239,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Adriana Krnáčová"
     },
     "venceslava-hrdlickova": {
       "src": "/images/venceslava-hrdlickova.jpg",
@@ -228,7 +250,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Věnceslava Hrdličková"
     },
     "petr-sis": {
       "src": "/images/petr-sis.jpg",
@@ -238,7 +261,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Petr Sís"
     },
     "miroslav-zikmund": {
       "src": "/images/miroslav-zikmund.jpg",
@@ -248,7 +272,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Miroslav Zikmund"
     },
     "14-dalajlama": {
       "src": "/images/14-dalajlama.jpg",
@@ -258,7 +283,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "14. dalajlama"
     },
     "tomas-garrigue-masaryk": {
       "src": "/images/tomas-garrigue-masaryk.png",
@@ -268,7 +294,8 @@
       "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Tomáš Garrigue Masaryk"
     },
     "jiri-friml": {
       "src": "/images/jiri-friml.png",
@@ -278,7 +305,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Jiří Friml"
     },
     "martin-doktor": {
       "src": "/images/martin-doktor.jpg",
@@ -288,7 +316,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Martin Doktor"
     },
     "dana-zatopkova": {
       "src": "/images/dana-zatopkova.jpg",
@@ -298,7 +327,8 @@
       "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dana_Z%C3%A1topkov%C3%A1_1952.jpg",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Dana Zátopková"
     },
     "kveta-jeriova-peckova": {
       "src": "/images/kveta-jeriova-peckova.jpg",
@@ -308,7 +338,8 @@
       "licenseUrl": "https://commons.wikimedia.org/wiki/File:Kveta_jeriova.jpg",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Květa Jeriová Pecková"
     },
     "pavel-sporcl": {
       "src": "/images/pavel-sporcl.jpg",
@@ -318,7 +349,1130 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "rights_status": "licensed",
       "publication_status": "ready",
-      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS."
+      "changes": "Wikimedia thumbnail where available; presentation may crop via CSS.",
+      "name": "Pavel Šporcl"
+    },
+    "petr-fejk": {
+      "src": "/images/petr-fejk.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Petr_Fejk_(2022).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Petr Fejk"
+    },
+    "manolo-blahnik": {
+      "src": "/images/manolo-blahnik.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Manolo_Blahn%C3%ADk_(2017).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Manolo Blahník"
+    },
+    "dagmar-peckova": {
+      "src": "/images/dagmar-peckova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dagmar_Peckov%C3%A1_2014.JPG",
+      "author": "David Sedlecký",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Dagmar Pecková"
+    },
+    "david-drahoninsky": {
+      "src": "/images/david-drahoninsky.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:DavidDrahoninsky,_uspechy.jpg",
+      "author": "LidaFik",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "David Drahonínský"
+    },
+    "ludvik-vaculik": {
+      "src": "/images/ludvik-vaculik.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ludv%C3%ADk_Vacul%C3%ADk,_2010,_cut.jpg",
+      "author": "Mercy from Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Ludvík Vaculík"
+    },
+    "david-ondricek": {
+      "src": "/images/david-ondricek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:David_Ond%C5%99%C3%AD%C4%8Dek.jpg",
+      "author": "Luckymanfilms",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "David Ondříček"
+    },
+    "pierre-richard": {
+      "src": "/images/pierre-richard.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pierre_Richard-0800.jpg",
+      "author": "Harald Krichel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Pierre Richard"
+    },
+    "magdalena-kozena": {
+      "src": "/images/magdalena-kozena.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Praha,_kostel_U_J%C3%A1kobova_%C5%BEeb%C5%99%C3%ADku,_n%C3%A1cvik_vystoupen%C3%AD_Magdaleny_Ko%C5%BEen%C3%A9_(22).jpg",
+      "author": "Jan Polák",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Magdalena Kožená"
+    },
+    "eliska-buckova": {
+      "src": "/images/eliska-buckova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eli%C5%A1ka_Bu%C4%8Dkov%C3%A1_(2023)_III.jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Eliška Bučková"
+    },
+    "ester-ledecka": {
+      "src": "/images/ester-ledecka.webp",
+      "source": "https://www.ester-ledecka.cz/",
+      "author": "Jan Kasl / Red Bull Content Pool",
+      "license": "Official gallery usage terms",
+      "license_cs": "Použití s uvedením zdroje podle oficiální galerie",
+      "license_en": "Use with source credit under the official gallery terms",
+      "licenseUrl": "https://www.ester-ledecka.cz/",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "permission_basis": "Official gallery offers a downloadable photo archive and states: Při použití fotografií uveďte zdroj, který je uveden přímo v jejich názvu. Verified 2026-10-09.",
+      "original_filename": "fotokredit-Jan-Kasl-Red-Bull-Content-Pool-4.jpeg",
+      "changes": "Downloaded official gallery image unchanged; displayed with natural aspect ratio and rounded corners.",
+      "name": "Ester Ledecká"
+    },
+    "bohuslav-svoboda": {
+      "src": "/images/bohuslav-svoboda.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bohuslav_Svoboda_(2022).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Bohuslav Svoboda"
+    },
+    "jiri-hanzelka": {
+      "src": "/images/jiri-hanzelka.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jiri_Hanzelka_(1920_2003).jpg",
+      "author": "Author of this photo is unknown person.",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jiri_Hanzelka_(1920_2003).jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jiří Hanzelka"
+    },
+    "vaclav-kuchynka": {
+      "src": "/images/vaclav-kuchynka.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brig.gen.V%C3%A1clav_Kuchynka_(2019).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Václav Kuchynka"
+    },
+    "marek-benes": {
+      "src": "/images/marek-benes.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marek_Bene%C5%A1_(2022)_III.jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Marek Beneš"
+    },
+    "lukas-krpalek": {
+      "src": "/images/lukas-krpalek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Luk%C3%A1%C5%A1_Krp%C3%A1lek_-_Rio_2016_(cropped).jpg",
+      "author": "Fernando Frazão/Agência Brasil",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Lukáš Krpálek"
+    },
+    "alfons-mucha": {
+      "src": "/images/alfons-mucha.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_LOC_3c05828u_(cropped).jpg",
+      "author": "George R. Lawrence Co., Chicago.",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_LOC_3c05828u_(cropped).jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Alfons Mucha"
+    },
+    "barbora-spotakova": {
+      "src": "/images/barbora-spotakova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Barbora_%C5%A0pot%C3%A1kov%C3%A1.jpg",
+      "author": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Barbora Špotáková"
+    },
+    "karel-gott": {
+      "src": "/images/karel-gott.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Karel_Gott_2018.jpg",
+      "author": "David Sedlecký",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Karel Gott"
+    },
+    "vojtech-jasny": {
+      "src": "/images/vojtech-jasny.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vojt%C4%9Bch_Jasn%C3%BD_0007.JPG",
+      "author": "Magig",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Vojtěch Jasný"
+    },
+    "jaroslav-sterba": {
+      "src": "/images/jaroslav-sterba.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Jaroslav_%C5%A0t%C4%9Brba.png",
+      "author": "Lomikarus",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jaroslav Štěrba"
+    },
+    "vaclav-cilek": {
+      "src": "/images/vaclav-cilek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:V%C3%A1clav_C%C3%ADlek_2024.jpg",
+      "author": "David Sedlecký",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Václav Cílek"
+    },
+    "daria-klimentova": {
+      "src": "/images/daria-klimentova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Daria_Klimentov%C3%A1_-_Show_Jana_Krause.jpg",
+      "author": "Show Jana Krause, FTV Prima",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Daria Klimentová"
+    },
+    "vera-caslavska": {
+      "src": "/images/vera-caslavska.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vera_Caslavska.JPG",
+      "author": "Nizozemský archiv",
+      "license": "CC BY-SA 3.0 nl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Věra Čáslavská"
+    },
+    "vaclav-postranecky": {
+      "src": "/images/vaclav-postranecky.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:V%C3%A1clav_Postr%C3%A1neck%C3%BD_2013.JPG",
+      "author": "David Sedlecký",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Václav Postránecký"
+    },
+    "jiri-jezek": {
+      "src": "/images/jiri-jezek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Je%C5%BEek_(2018).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jiří Ježek"
+    },
+    "linda-wichterlova": {
+      "src": "/images/linda-wichterlova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Linda_Wichterlov%C3%A1_(2018).jpg",
+      "author": "NoJin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Linda Wichterlová"
+    },
+    "zdenek-miler": {
+      "src": "/images/zdenek-miler.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kladno,_Bendlova3.jpg",
+      "author": "Zelenymuzik",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Zdeněk Miler"
+    },
+    "petr-pavel": {
+      "src": "/images/petr-pavel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Petr_Pavel_(crop).jpg",
+      "author": "Jana Jabůrková, Jiří Turek (J3T)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Petr Pavel"
+    },
+    "josef-koutecky": {
+      "src": "/images/josef-koutecky.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Prof._MUDr._Josef_Kouteck%C3%BD,_DrSc._(2017).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Josef Koutecký"
+    },
+    "josef-masopust": {
+      "src": "/images/josef-masopust.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Josef_Masopust_official_photo.jpg",
+      "author": "Study1919",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Josef Masopust"
+    },
+    "jirina-jiraskova": {
+      "src": "/images/jirina-jiraskova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jirina_jiraskova.jpg",
+      "author": "No machine-readable author provided. Egg assumed (based on copyright claims).",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jiřina Jirásková"
+    },
+    "vendula-svobodova": {
+      "src": "/images/vendula-svobodova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vendula_Pizingerov%C3%A1_(2017).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Vendula Svobodová"
+    },
+    "tatana-gregor-kucharova": {
+      "src": "/images/tatana-gregor-kucharova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ta%C5%A5%C3%A1na_Gregor_Brzobohat%C3%A1_(2018).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Taťána Gregor Kuchařová"
+    },
+    "stepanka-duchkova": {
+      "src": "/images/stepanka-duchkova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%C5%A0t%C4%9Bp%C3%A1nka_Duchkov%C3%A1_2014.JPG",
+      "author": "David Sedlecký",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Štěpánka Duchková"
+    },
+    "jiri-suchy": {
+      "src": "/images/jiri-suchy.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Such%C3%BD_(2019).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jiří Suchý"
+    },
+    "iva-janzurova": {
+      "src": "/images/iva-janzurova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Iva_Jan%C5%BEurov%C3%A1_(2023).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Iva Janžurová"
+    },
+    "tomas-hudecek": {
+      "src": "/images/tomas-hudecek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Hude%C4%8Dek_prosinec_2013.JPG",
+      "author": "David Sedlecký",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Tomáš Hudeček"
+    },
+    "zdenek-sverak": {
+      "src": "/images/zdenek-sverak.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Zden%C4%9Bk_Sv%C4%9Br%C3%A1k_(2016).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Zdeněk Svěrák"
+    },
+    "petr-cech": {
+      "src": "/images/petr-cech.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arsenal_players_training_before_2019_UEFA_Europa_League_final_07_(cropped).jpg",
+      "author": "Amir Hosseini",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Petr Čech"
+    },
+    "pavel-pafko": {
+      "src": "/images/pavel-pafko.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Prof._MUDr._Pavel_Pafko,_DrSc._(2017).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Pavel Pafko"
+    },
+    "antonin-kratochvil": {
+      "src": "/images/antonin-kratochvil.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Anton%C3%ADn_Kratochv%C3%ADl_(2019).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Antonín Kratochvíl"
+    },
+    "jan-hrebejk": {
+      "src": "/images/jan-hrebejk.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jan_H%C5%99ebejk.jpg",
+      "author": "PfefferT",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jan Hřebejk"
+    },
+    "jirina-bohdalova": {
+      "src": "/images/jirina-bohdalova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99ina_Bohdalov%C3%A1_(2022).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jiřina Bohdalová"
+    },
+    "jiri-anderle": {
+      "src": "/images/jiri-anderle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Anderle_(2013).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jiří Anderle"
+    },
+    "otakar-vavra": {
+      "src": "/images/otakar-vavra.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Otakar_V%C3%A1vra.jpg",
+      "author": "Otakar vavra.jpg : Marcony12 derivative work: Mathuzalem",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Otakar_V%C3%A1vra.jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Otakar Vávra"
+    },
+    "eva-jiricna": {
+      "src": "/images/eva-jiricna.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eva_Ji%C5%99i%C4%8Dn%C3%A1_(2019).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Eva Jiřičná"
+    },
+    "helena-illnerova": {
+      "src": "/images/helena-illnerova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Helena_Illnerova_066_foto_Stanislava_Kyselov%C3%A1,_AV_%C4%8CR.jpg",
+      "author": "Akademie věd České republiky / Czech Academy of Science (photo by Stanislava Kyselová)",
+      "license": "CC BY-SA 3.0 cz",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/cz/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Helena Illnerová"
+    },
+    "anna-geislerova": {
+      "src": "/images/anna-geislerova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Anna_Geislerov%C3%A1_(2021)_I.jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Anna Geislerová"
+    },
+    "lida-rakusanova": {
+      "src": "/images/lida-rakusanova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:L%C3%ADda_Raku%C5%A1anov%C3%A1.jpg",
+      "author": "Josef Rakušan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Lída Rakušanová"
+    },
+    "katerina-neumannova": {
+      "src": "/images/katerina-neumannova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20190225_Seefeld_3339_Katerina_Neumannova_(cropped).jpg",
+      "author": "Ailura",
+      "license": "CC BY-SA 3.0 at",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Kateřina Neumannová"
+    },
+    "josef-vana": {
+      "src": "/images/josef-vana.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Josef_vana.jpg",
+      "author": "Lu2nek",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Josef_vana.jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Josef Váňa"
+    },
+    "jan-pirk": {
+      "src": "/images/jan-pirk.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Prof._MUDr._Jan_Pirk,_DrSc.(2017).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jan Pirk"
+    },
+    "tomas-j-bata": {
+      "src": "/images/tomas-j-bata.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_-_Ba%C5%A5a.jpg",
+      "author": "Jadran Šetlík",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Tomáš J. Baťa"
+    },
+    "martina-smukova": {
+      "src": "/images/martina-smukova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Martina_%C5%A0mukov%C3%A1_(2024).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Martina Šmuková"
+    },
+    "david-smoljak": {
+      "src": "/images/david-smoljak.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:David_Smoljak.jpg",
+      "author": "Milan Říha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "David Smoljak"
+    },
+    "helena-stachova": {
+      "src": "/images/helena-stachova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Helena_%C5%A0t%C3%A1chov%C3%A1_PA078802.jpg",
+      "author": "Luděk Kovář – ludek@kovar.biz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Helena Štáchová"
+    },
+    "martin-hilsky": {
+      "src": "/images/martin-hilsky.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Martin_Hilsk%C3%BD_(2019)_III.jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Martin Hilský"
+    },
+    "jan-sverak": {
+      "src": "/images/jan-sverak.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jan_Sverak.jpg",
+      "author": "che",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jan Svěrák"
+    },
+    "zuzana-baudysova": {
+      "src": "/images/zuzana-baudysova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Zuzana_Baudy%C5%A1ov%C3%A1_in_2014.jpg",
+      "author": "Martin Vlček, Kancelář Senátu",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Zuzana Baudyšová"
+    },
+    "emil-zatopek": {
+      "src": "/images/emil-zatopek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fotothek_df_roe-neg_0006305_003_Emil_Z%C3%A1topek-2.jpg",
+      "author": "Fotothek_df_roe-neg_0006305_003_Emil_Zátopek.jpg : Roger Rössing derivative work: MachoCarioca",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Emil Zátopek"
+    },
+    "stepanka-hilgertova": {
+      "src": "/images/stepanka-hilgertova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%C5%A0t%C4%9Bp%C3%A1nka_Hilgertov%C3%A1_(2018).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Štěpánka Hilgertová"
+    },
+    "petr-janda": {
+      "src": "/images/petr-janda.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Petr_janda.jpg",
+      "author": "Bojars",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Petr Janda"
+    },
+    "zuzana-caputova": {
+      "src": "/images/zuzana-caputova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%97%D1%83%D0%B7%D0%B0%D0%BD%D0%B0_%D0%A7%D0%B0%D0%BF%D1%83%D1%82%D0%BE%D0%B2%D0%B0_(02-11-2021).jpg",
+      "author": "Пресс-служба Президента Украины",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Zuzana Čaputová"
+    },
+    "tomas-bata": {
+      "src": "/images/tomas-bata.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tomas_Bata.jpg",
+      "author": "bata shoe company",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Tomáš Baťa"
+    },
+    "karel-loprais": {
+      "src": "/images/karel-loprais.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Karel_Loprais.jpg",
+      "author": "Richenza",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Karel Loprais"
+    },
+    "jiri-menzel": {
+      "src": "/images/jiri-menzel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Menzel_III_(2017).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jiří Menzel"
+    },
+    "jan-potmesil": {
+      "src": "/images/jan-potmesil.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jan_Potm%C4%9B%C5%A1il_(2019)_II.jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jan Potměšil"
+    },
+    "marta-kubisova": {
+      "src": "/images/marta-kubisova.jpg",
+      "name": "Marta Kubišová",
+      "source": "https://www.kubisova.cz/ke-stazeni.html",
+      "author": "Marie a Tomáš Salabovi",
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.kubisova.cz/ke-stazeni.html",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "permission_basis": "User confirmed permission in this chat on 2026-10-09 for use on koreny-osobnosti.cz.",
+      "changes": "Unmodified original; CSS preserves the complete image and rounded corners."
+    },
+    "milan-samanek": {
+      "src": "/images/milan-samanek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Prof._MUDr._Milan_%C5%A0am%C3%A1nek,_DrSc._(2018).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Milan Šamánek"
+    },
+    "vladimir-remek": {
+      "src": "/images/vladimir-remek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vladim%C3%ADr_Remek_(2018).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Vladimír Remek"
+    },
+    "jaroslav-nemecek": {
+      "src": "/images/jaroslav-nemecek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jaroslav_N%C4%9Bme%C4%8Dek_(2).JPG",
+      "author": "Chmee2",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jaroslav Němeček"
+    },
+    "zdenek-hrib": {
+      "src": "/images/zdenek-hrib.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Zden%C4%9Bk_H%C5%99ib_(cropped).jpg",
+      "author": "Piráti",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Zdeněk Hřib"
+    },
+    "richard-konkolski": {
+      "src": "/images/richard-konkolski.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Richard_Konkolski_(2024).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Richard Konkolski"
+    },
+    "dagmar-havlova": {
+      "src": "/images/dagmar-havlova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dagmar_Havlov%C3%A1_(2013)_III.jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Dagmar Havlová"
+    },
+    "lucie-bila": {
+      "src": "/images/lucie-bila.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lucie_B%C3%ADl%C3%A1_2017.jpg",
+      "author": "David Sedlecký",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Lucie Bílá"
+    },
+    "bohdan-pomahac": {
+      "src": "/images/bohdan-pomahac.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Bohdan_Pomahac.png",
+      "author": "Michal Maňas",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Bohdan Pomahač"
+    },
+    "ivan-klima": {
+      "src": "/images/ivan-klima.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ivan_Kl%C3%ADma_2015.JPG",
+      "author": "David Sedlecký",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Ivan Klíma"
+    },
+    "jan-masaryk": {
+      "src": "/images/jan-masaryk.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jan_Masaryk_.jpg",
+      "author": "Anonymous Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jan_Masaryk_.jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jan Masaryk"
+    },
+    "antonin-holy": {
+      "src": "/images/antonin-holy.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Anton%C3%ADn_Hol%C3%BD_4_5_15_Prof_Holy_pro_deClercq_Pruhonice_foto_Stanislava_Kyselov%C3%A1,_AV_%C4%8CR_(cropped).jpg",
+      "author": "Akademie věd České republiky / Czech Academy of Science (photo by Stanislava Kyselová)",
+      "license": "CC BY-SA 3.0 cz",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/cz/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Antonín Holý"
+    },
+    "libor-pesek": {
+      "src": "/images/libor-pesek.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Libor_Pesek.jpg",
+      "author": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Libor Pešek"
+    },
+    "petr-brukner": {
+      "src": "/images/petr-brukner.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Petr_Brukner_(2017).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Petr Brukner"
+    },
+    "pavel-bem": {
+      "src": "/images/pavel-bem.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Praha,_Nov%C3%A1_radnice,_zased%C3%A1n%C3%AD_zastupitelstva,_Pavel_B%C3%A9m.jpg",
+      "author": "Aktron (Wikimedia Commons)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Praha,_Nov%C3%A1_radnice,_zased%C3%A1n%C3%AD_zastupitelstva,_Pavel_B%C3%A9m.jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Pavel Bém"
+    },
+    "helena-trestikova": {
+      "src": "/images/helena-trestikova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Helena_T%C5%99e%C5%A1t%C3%ADkov%C3%A1_(2018).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Helena Třeštíková"
+    },
+    "otto-wichterle": {
+      "src": "/images/otto-wichterle.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Prof._Ing._RTDr._Otto_Wichterle.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "CC BY-SA 3.0 cz",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/cz/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Otto Wichterle"
+    },
+    "tomas-lom": {
+      "src": "/images/tomas-lom.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:RNDr._Tom%C3%A1%C5%A1_Lom_-_p%C5%99%C3%ADslu%C5%A1n%C3%ADk_311._bombardovac%C3%AD_perut%C4%9B_RAF.jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Tomáš Lom"
+    },
+    "jiri-kylian": {
+      "src": "/images/jiri-kylian.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Kyli%C3%A1n_2020.jpg",
+      "author": "KYLIAN PRODUCTIONS BV",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jiří Kylián"
+    },
+    "pavel-nedved": {
+      "src": "/images/pavel-nedved.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pavel_Nedv%C4%9Bd.jpg",
+      "author": "Pavel Lebeda",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Pavel Nedvěd"
+    },
+    "adam-ondra": {
+      "src": "/images/adam-ondra.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20180227-LS-0055_by_Lukasz_Sokol.jpg",
+      "author": "AO Production",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Adam Ondra"
+    },
+    "milos-forman": {
+      "src": "/images/milos-forman.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Milos_Forman.jpg",
+      "author": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia projects.)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Miloš Forman"
+    },
+    "jan-hruska": {
+      "src": "/images/jan-hruska.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hruska.jpg",
+      "author": "Liberty Seguros-Würth",
+      "license": "Copyrighted free use",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hruska.jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Jan Hruška"
+    },
+    "jan-hrabeta": {
+      "src": "/images/jan-hrabeta.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jan_Hrab%C4%9Bta_a_Patrik_Ulrich_-_Stopy_J%C3%A1ry_Cimrmana.jpg",
+      "author": "Ladislavbruckner",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "caption": "Jan Hraběta a Patrik Ulrich – Stopy Járy Cimrmana",
+      "name": "Jan Hraběta"
+    },
+    "katerina-tepla-sromova": {
+      "src": "/images/katerina-tepla-sromova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kate%C5%99ina_Tepl%C3%A1-%C5%A0romov%C3%A1_(2018).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Kateřina Teplá Šromová"
+    },
+    "vaclav-vetvicka": {
+      "src": "/images/vaclav-vetvicka.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:V%C3%A1clav_V%C4%9Btvi%C4%8Dka_2009-09-30.jpg",
+      "author": "Luděk Kovář – ludek@kovar.biz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Václav Větvička"
+    },
+    "tereza-kmochova": {
+      "src": "/images/tereza-kmochova.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tereza_Kmochov%C3%A1_(2018).jpg",
+      "author": "Jindřich Nosek (NoJin)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "changes": "Downloaded Wikimedia image; presentation may crop via CSS.",
+      "name": "Tereza Kmochová"
+    },
+    "jindrich-pospisil": {
+      "src": "/images/jindrich-pospisil.jpg",
+      "source": "https://www.osobnosti.cz/jindrich-pospisil.php",
+      "original_url": "https://imagebox.cz.osobnosti.cz/foto/jindrich-pospisil/jindrich-pospisil.jpg",
+      "name": "Jindřich Pospíšil",
+      "author": "Autor ve zdroji neuveden (OSOBNOSTI.CZ)",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.osobnosti.cz/jindrich-pospisil.php",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "permission_basis": "User confirmed permission in this chat on 2026-10-09 for use on koreny-osobnosti.cz.",
+      "changes": "Unmodified source image; CSS preserves aspect ratio and rounded corners."
+    },
+    "jan-pospisil": {
+      "src": "/images/jan-pospisil.jpg",
+      "source": "https://www.osobnosti.cz/jan-pospisil.php",
+      "original_url": "https://imagebox.cz.osobnosti.cz/foto/jan-pospisil/jan-pospisil.jpg",
+      "name": "Jan Pospíšil",
+      "author": "Autor ve zdroji neuveden (OSOBNOSTI.CZ)",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.osobnosti.cz/jan-pospisil.php",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "permission_basis": "User confirmed permission in this chat on 2026-10-09 for use on koreny-osobnosti.cz.",
+      "changes": "Unmodified source image; CSS preserves aspect ratio and rounded corners."
+    },
+    "alena-vranova": {
+      "src": "/images/alena-vranova.jpg",
+      "source": "https://www.osobnosti.cz/alena-vranova.php",
+      "original_url": "https://imagebox.cz.osobnosti.cz/foto/alena-vranova/alena-vranova.jpg",
+      "name": "Alena Vránová",
+      "author": "Autor ve zdroji neuveden (OSOBNOSTI.CZ)",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.osobnosti.cz/alena-vranova.php",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "permission_basis": "User confirmed permission in this chat on 2026-10-09 for use on koreny-osobnosti.cz.",
+      "changes": "Unmodified source image; CSS preserves aspect ratio and rounded corners."
+    },
+    "borivoj-penc": {
+      "src": "/images/borivoj-penc.jpg",
+      "source": "https://www.osobnosti.cz/borivoj-penc.php",
+      "original_url": "https://imagebox.cz.osobnosti.cz/foto/borivoj-penc/borivoj-penc.jpg",
+      "name": "Bořivoj Penc",
+      "author": "Autor ve zdroji neuveden (OSOBNOSTI.CZ)",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.osobnosti.cz/borivoj-penc.php",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "permission_basis": "User confirmed permission in this chat on 2026-10-09 for use on koreny-osobnosti.cz.",
+      "changes": "Unmodified source image; CSS preserves aspect ratio and rounded corners."
+    },
+    "vaclav-kotek": {
+      "src": "/images/vaclav-kotek.jpg",
+      "source": "https://www.osobnosti.cz/vaclav-kotek.php",
+      "original_url": "https://imagebox.cz.osobnosti.cz/foto/vaclav-kotek/vaclav-kotek.jpg",
+      "name": "Václav Kotek",
+      "author": "Autor ve zdroji neuveden (OSOBNOSTI.CZ)",
+      "author_unknown": true,
+      "license": "Used with permission",
+      "license_cs": "Použito se svolením",
+      "license_en": "Used with permission",
+      "licenseUrl": "https://www.osobnosti.cz/vaclav-kotek.php",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "permission_basis": "User confirmed permission in this chat on 2026-10-09 for use on koreny-osobnosti.cz.",
+      "changes": "Unmodified source image; CSS preserves aspect ratio and rounded corners."
     }
   },
   "plants": {
@@ -341,6 +1495,566 @@
       "rights_status": "licensed",
       "publication_status": "ready",
       "changes": "Unmodified original file; presentation may crop via CSS."
+    },
+    "tilia-platyphyllos": {
+      "src": "/images/plant-tilia-platyphyllos.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:L%C3%ADpa_u_Horn%C3%ADho_Z%C3%A1blat%C3%AD_v_roce_2011_(1).JPG",
+      "author": "Chmee2",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Tilia platyphyllos",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/L%C3%ADpa_u_Horn%C3%ADho_Z%C3%A1blat%C3%AD_v_roce_2011_%281%29.JPG",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/L%C3%ADpa_u_Horn%C3%ADho_Z%C3%A1blat%C3%AD_v_roce_2011_%281%29.JPG/960px-L%C3%ADpa_u_Horn%C3%ADho_Z%C3%A1blat%C3%AD_v_roce_2011_%281%29.JPG",
+      "description": "Famous tree called \"Lípa u Horního Záblatí\". Horní Záblatí village in Prachatice District, Czech Republic",
+      "name": "lípa velkolistá"
+    },
+    "abies-balsamea": {
+      "src": "/images/plant-abies-balsamea.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Abies_balsamea.jpg",
+      "author": "U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Abies_balsamea.jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Abies balsamea",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Abies_balsamea.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Abies_balsamea.jpg/960px-Abies_balsamea.jpg",
+      "description": "Abies balsamea tree with cones, Sherburne National Wildlife Refuge, Minnesota",
+      "name": "jedle balzámová"
+    },
+    "pinus-mugo-svaty-sebestian-22-wb": {
+      "src": "/images/plant-pinus-mugo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_mugo_cone_01.jpg",
+      "author": "Agnieszka Kwiecień, Nova",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus mugo",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pinus_mugo_cone_01.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pinus_mugo_cone_01.jpg/960px-Pinus_mugo_cone_01.jpg",
+      "description": "Mountain Pine type subspecies ( Pinus mugp subsp. mugo ), seed cones, natural habitat in Tatra Mountains, Poland.",
+      "name": "čarověník"
+    },
+    "acer-palmatum": {
+      "src": "/images/plant-acer-palmatum.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Acer_palmatum0.jpg",
+      "author": "Kurt Stüber [1]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Acer palmatum",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Acer_palmatum0.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Acer_palmatum0.jpg",
+      "description": "Species : Acer palmatum Family : Aceraceae Image No. 1",
+      "name": "javor dlanitolistý"
+    },
+    "araucaria-araucana": {
+      "src": "/images/plant-araucaria-araucana.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Araucaria_en_Parque_Nacional_Conguillio.jpg",
+      "author": "Vicente Fernández Rioja",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Araucaria araucana",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Araucaria_en_Parque_Nacional_Conguillio.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Araucaria_en_Parque_Nacional_Conguillio.jpg/960px-Araucaria_en_Parque_Nacional_Conguillio.jpg",
+      "description": "Some Araucaria tree located in the Conguillío National Park , Chile",
+      "name": "blahočet chilský"
+    },
+    "betula-pendula-vanek": {
+      "src": "/images/plant-betula-pendula.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg",
+      "author": "Percita at Flickr",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Betula pendula",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Betula_pendula_Finland.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Betula_pendula_Finland.jpg/960px-Betula_pendula_Finland.jpg",
+      "description": "Betula pendula , Inari wilderness, Finland.",
+      "name": "bříza bělokorá"
+    },
+    "nothofagus-antarctica": {
+      "src": "/images/plant-nothofagus-antarctica.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nothofagus_antarctica_2.jpg",
+      "author": "Franz Xaver",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Nothofagus antarctica",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nothofagus_antarctica_2.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nothofagus_antarctica_2.jpg",
+      "description": "Antarktische Scheinbuche ( Nothofagus antarctica ), Scheinbuchengewächse (Nothofagaceae) - Chile, Patagonien/Patagonia, Parque Nacional Torres del Paine, bei Posada Río Serrano",
+      "name": "pabuk jižní"
+    },
+    "malus-baccata": {
+      "src": "/images/plant-malus-baccata.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Malus-baccata.JPG",
+      "author": "Sten at Danish Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Malus baccata",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Malus-baccata.JPG",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Malus-baccata.JPG",
+      "description": "Malus baccata",
+      "name": "jabloň drobnoplodá"
+    },
+    "pinus-sabiniana": {
+      "src": "/images/plant-pinus-sabiniana.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_sabiniana_mature_specimen_Mount_Diablo_12.jpg",
+      "author": "Awinch1001",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus sabiniana",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pinus_sabiniana_mature_specimen_Mount_Diablo_12.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinus_sabiniana_mature_specimen_Mount_Diablo_12.jpg/960px-Pinus_sabiniana_mature_specimen_Mount_Diablo_12.jpg",
+      "description": "Mature Pinus sabiniana on Mount Diablo.",
+      "name": "borovice Sabinova"
+    },
+    "dendrobium-anosmum": {
+      "src": "/images/plant-dendrobium-anosmum.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dendrobium_anosmum_Lindl.,_Edwards%27s_Bot._Reg._31(Misc.)_32_(1845)_(48532684917).jpg",
+      "author": "sunoochi from Sapporo, Hokkaido, Japan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Dendrobium anosmum",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dendrobium_anosmum_Lindl.%2C_Edwards%27s_Bot._Reg._31%28Misc.%29_32_%281845%29_%2848532684917%29.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dendrobium_anosmum_Lindl.%2C_Edwards%27s_Bot._Reg._31%28Misc.%29_32_%281845%29_%2848532684917%29.jpg/960px-Dendrobium_anosmum_Lindl.%2C_Edwards%27s_Bot._Reg._31%28Misc.%29_32_%281845%29_%2848532684917%29.jpg",
+      "description": "SECTION Dendrobium autonym Distribution: Sri Lanka, Indo-China to New Guinea (40 SRL 41 LAO MYA THA VIE 42 BOR JAW LSI MLY MOL PHI SUL SUM 43 NWG) Lifeform: Pseudobulb epiphyte or lithophyte Homotypic synonyms Dendrobium superbum Rchb.f. in W.G.Walpers, Ann. Bot. Syst. 6: 282 (1861) Callista anosma ( Lindl. ) Kuntze , Revis. Gen. Pl. 2: 654 (1891) Heterotypic synonyms Dendrobium macrophyllum Lindl. , Edwards's Bot. Reg. 25(Misc.): 36 (1839) Dendrobium macranthum Hook. , Bot. Mag. 69: t. 3970 (1843), nom. illeg Dendrobium retusum Llanos , Mem. Real Acad. Ci. Exact. Madrid 2: 498 (1859) Dendrobium superbum var. giganteum Rchb.f. in W.G.Walpers, Ann. Bot. Syst. 6: 283 (1861) Dendrobium dayanum B.S.Williams , Proc. Roy. Hort. Soc. London 4: 97 (1864) Dendrobium superbum var. huttonii Rchb.f. , Gard. Chron. 1869: 1206 (1869) Dendrobium superbum var. velutinum Rchb.f. , Gard. Chron. 1869: 1206 (1869) Dendrobium superbum var. burkei Rchb.f. , Gard. Chron. 1884: 306 (1884) Dendrobium scortechinii Hook.f. , Fl. Brit. India 5: 741 (1890) Callista scortechinii ( Hook.f. ) Kuntze , Revis. Gen. Pl. 2: 655 (1891) Dendrobium superbum var. dearei Rolfe , Lindenia 6: 52 (1891) Dendrobium mastersianum F.Muell. & Kraenzl. in H.G.A.Engler (ed.), Pflanzenr., IV, 50 II B 21: 38 (1910) Dendrobium leucorhodum Schltr. , Repert. Spec. Nov. Regni Veg. Beih. 1: 499 (1912) Dendrobium anosmum var. dearei ( Rolfe ) Oakes Ames & Quisumb. , Philipp. J. Sci. 56: 453 (1935) Dendrobium anosmum var. huttonii ( Rchb.f. ) Ames & Quisumb. , Philipp. J. Sci. 56: 454 (1935)",
+      "name": "orchidej Dendrobium anosmum"
+    },
+    "prunus-mume": {
+      "src": "/images/plant-prunus-mume.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Prunus_mume.JPG",
+      "author": "Kakidai",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Prunus mume",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Prunus_mume.JPG",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Prunus_mume.JPG/960px-Prunus_mume.JPG",
+      "description": "Ume flower (white plum), at Kadokawa Garden, Suginami Ward, Tokyo",
+      "name": "meruňka japonská"
+    },
+    "quercus-lobata": {
+      "src": "/images/plant-quercus-lobata.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Quercus_lobata_Mount_Diablo_near_North_Gate_Road_1.jpg",
+      "author": "Awinch1001",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Quercus lobata",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Quercus_lobata_Mount_Diablo_near_North_Gate_Road_1.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Quercus_lobata_Mount_Diablo_near_North_Gate_Road_1.jpg/960px-Quercus_lobata_Mount_Diablo_near_North_Gate_Road_1.jpg",
+      "description": "Quercus lobata in Mount Diablo State Park.",
+      "name": "dub (anglicky Valley Oak)"
+    },
+    "angraecum-sesquipedale": {
+      "src": "/images/plant-angraecum-sesquipedale.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Angraecum_sesquipedale_-_Diogo_Correia.jpg",
+      "author": "Diogo Correia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Angraecum_sesquipedale_-_Diogo_Correia.jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Angraecum sesquipedale",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Angraecum_sesquipedale_-_Diogo_Correia.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Angraecum_sesquipedale_-_Diogo_Correia.jpg/960px-Angraecum_sesquipedale_-_Diogo_Correia.jpg",
+      "description": "Angraecum sesquipedale - Royal Horticultural Society National Orchid Show - London",
+      "name": "orchidej Angraecum sesquipedale"
+    },
+    "pinus-wallichiana": {
+      "src": "/images/plant-pinus-wallichiana.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fairy_Meadows_240622_04.jpg",
+      "author": "Moskenes",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus wallichiana",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fairy_Meadows_240622_04.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Fairy_Meadows_240622_04.jpg/960px-Fairy_Meadows_240622_04.jpg",
+      "description": "A Blue Pine Pinus wallichiana stands before Nanga Parbat, as seen from Fairy Meadows, Pakistan.",
+      "name": "borovice himálajská"
+    },
+    "pinus-arizonica": {
+      "src": "/images/plant-pinus-arizonica.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_arizonica_sapling.jpg",
+      "author": "karenandbrademerson on Flickr",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus arizonica",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pinus_arizonica_sapling.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Pinus_arizonica_sapling.jpg/960px-Pinus_arizonica_sapling.jpg",
+      "description": "Pinus arizonica young plant, Price Canyon, Arizona (south of Rodeo, SW New Mexico)",
+      "name": "borovice arizonská"
+    },
+    "pinus-armandii": {
+      "src": "/images/plant-pinus-armandii.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_armandii_Cangshan.jpg",
+      "author": "nekonoir on Flickr",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus armandii",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Pinus_armandii_Cangshan.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Pinus_armandii_Cangshan.jpg/960px-Pinus_armandii_Cangshan.jpg",
+      "description": "Pinus armandii foliage and cones, Cangshan, Dali, Yunnan.",
+      "name": "borovice Armandova"
+    },
+    "sophora-microphylla": {
+      "src": "/images/plant-sophora-microphylla.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sophora_microphylla_-_John_Barkla_-_93710499.jpeg",
+      "author": "John Barkla",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Sophora microphylla",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Sophora_microphylla_-_John_Barkla_-_93710499.jpeg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Sophora_microphylla_-_John_Barkla_-_93710499.jpeg/960px-Sophora_microphylla_-_John_Barkla_-_93710499.jpeg",
+      "description": "Sophora microphylla, Bucklands Crossing, New Zealand, 2020-09-06 (iNaturalist).",
+      "name": "jerlín drobnolistý"
+    },
+    "quercus-macrocarpa": {
+      "src": "/images/plant-quercus-macrocarpa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Big_Tree_with_spring_picnic.jpg",
+      "author": "Heath Cajandig",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Quercus macrocarpa",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Tree_with_spring_picnic.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Big_Tree_with_spring_picnic.jpg/960px-Big_Tree_with_spring_picnic.jpg",
+      "description": "The Big Tree in Boone County, Missouri in springtime being enjoyed by picnickers",
+      "name": "dub velkoplodý"
+    },
+    "acer-platanoides-holata": {
+      "src": "/images/plant-acer-platanoides.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Spitz-Ahorn(mbo).jpg",
+      "author": "Martin Bobka (= Martin120 )",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Acer platanoides",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Spitz-Ahorn%28mbo%29.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Spitz-Ahorn%28mbo%29.jpg/960px-Spitz-Ahorn%28mbo%29.jpg",
+      "description": "Spitz-Ahorn ( Acer platanoides )",
+      "name": "javor mleč"
+    },
+    "malus-toringoides": {
+      "src": "/images/plant-malus-toringoides.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Malus_toringoides_JPG1fr.jpg",
+      "author": "Jean-Pol GRANDMONT",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Malus toringoides",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malus_toringoides_JPG1fr.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Malus_toringoides_JPG1fr.jpg/960px-Malus_toringoides_JPG1fr.jpg",
+      "description": "' Malus toringoides",
+      "name": "Jabloň laločnatá"
+    },
+    "pteroceltis-tatarinowii": {
+      "src": "/images/plant-pteroceltis-tatarinowii.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pteroceltis_tatarinowii_-_Morris_Arboretum_-_DSC00350.JPG",
+      "author": "Daderot",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pteroceltis tatarinowii",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pteroceltis_tatarinowii_-_Morris_Arboretum_-_DSC00350.JPG",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Pteroceltis_tatarinowii_-_Morris_Arboretum_-_DSC00350.JPG/960px-Pteroceltis_tatarinowii_-_Morris_Arboretum_-_DSC00350.JPG",
+      "description": "Botanical specimen in the Morris Arboretum, 100 East Northwestern Avenue, Chestnut Hill, Philadelphia, Pennsylvania, USA.",
+      "name": "břestovníček Tatarinovův"
+    },
+    "pinus-bungeana": {
+      "src": "/images/plant-pinus-bungeana.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lacebark_pine_of_Susong-dong.jpg",
+      "author": "Integral",
+      "license": "CC BY-SA 2.0 kr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus bungeana",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lacebark_pine_of_Susong-dong.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lacebark_pine_of_Susong-dong.jpg/960px-Lacebark_pine_of_Susong-dong.jpg",
+      "description": "Lacebark Pine of Susong-dong, South Korea Natural Monument No.9 ( ko:서울 수송동의 백송 )",
+      "name": "borovice Bungeova"
+    },
+    "magnolia-macrophylla": {
+      "src": "/images/plant-magnolia-macrophylla.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:MagnoliaMacrophylla.jpg",
+      "author": "Chhe ( talk )",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:MagnoliaMacrophylla.jpg",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Magnolia macrophylla",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/MagnoliaMacrophylla.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/MagnoliaMacrophylla.jpg/960px-MagnoliaMacrophylla.jpg",
+      "description": "A picture of Magnolia macrophylla.",
+      "name": "šácholan velkolistý"
+    },
+    "pinus-mugo-hvozdany": {
+      "src": "/images/plant-pinus-mugo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_mugo_cone_01.jpg",
+      "author": "Agnieszka Kwiecień, Nova",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus mugo",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pinus_mugo_cone_01.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pinus_mugo_cone_01.jpg/960px-Pinus_mugo_cone_01.jpg",
+      "description": "Mountain Pine type subspecies ( Pinus mugp subsp. mugo ), seed cones, natural habitat in Tatra Mountains, Poland.",
+      "name": "čarověník"
+    },
+    "pinus-densiflora": {
+      "src": "/images/plant-pinus-densiflora.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_densiflora_01.JPG",
+      "author": "Dalgial",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus densiflora",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pinus_densiflora_01.JPG",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pinus_densiflora_01.JPG/960px-Pinus_densiflora_01.JPG",
+      "description": "Pinus densiflora in Damyang, Korea",
+      "name": "borovice hustokvětá"
+    },
+    "nyssa-sylvatica": {
+      "src": "/images/plant-nyssa-sylvatica.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nyssa_sylvatica_v_sylvatica.jpg",
+      "author": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Nyssa sylvatica",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nyssa_sylvatica_v_sylvatica.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Nyssa_sylvatica_v_sylvatica.jpg/960px-Nyssa_sylvatica_v_sylvatica.jpg",
+      "description": "Species from eastern North America Common name: Black Tupelo Photographed along the Kings Bluff Loop at Pedestal Rocks Scenic Area in the Ozark National Forest, Pope County, Arkansas",
+      "name": "tupela lesní"
+    },
+    "paulownia-fortunei": {
+      "src": "/images/plant-paulownia-fortunei.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:PaulowniaFortuneiWhite.jpg",
+      "author": "Fanghong",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Paulownia fortunei",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PaulowniaFortuneiWhite.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/PaulowniaFortuneiWhite.jpg/960px-PaulowniaFortuneiWhite.jpg",
+      "description": "Empress tree white flowers",
+      "name": "pavlovnie Fortuneova"
+    },
+    "malus-sikkimensis": {
+      "src": "/images/plant-malus-sikkimensis.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Crab_Apple_(Malus_sikkimensis)_(1444)_Relic38.jpg",
+      "author": "Darren Swim",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Malus sikkimensis",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Crab_Apple_%28Malus_sikkimensis%29_%281444%29_Relic38.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Crab_Apple_%28Malus_sikkimensis%29_%281444%29_Relic38.jpg/960px-Crab_Apple_%28Malus_sikkimensis%29_%281444%29_Relic38.jpg",
+      "description": "Crab Apple (Malus sikkimensis) fruit",
+      "name": "jabloň sikkimská"
+    },
+    "pterocarya-stenoptera": {
+      "src": "/images/plant-pterocarya-stenoptera.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Laoshan,_Qingdao,_Shandong,_China_-_panoramio_(30).jpg",
+      "author": "Your friend",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pterocarya stenoptera",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Laoshan%2C_Qingdao%2C_Shandong%2C_China_-_panoramio_%2830%29.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Laoshan%2C_Qingdao%2C_Shandong%2C_China_-_panoramio_%2830%29.jpg/960px-Laoshan%2C_Qingdao%2C_Shandong%2C_China_-_panoramio_%2830%29.jpg",
+      "description": "Laoshan, Qingdao, Shandong, China",
+      "name": "lapina úzkokřídlá"
+    },
+    "tilia-platyphyllos-aurea": {
+      "src": "/images/plant-tilia-platyphyllos.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:L%C3%ADpa_u_Horn%C3%ADho_Z%C3%A1blat%C3%AD_v_roce_2011_(1).JPG",
+      "author": "Chmee2",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Tilia platyphyllos",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/L%C3%ADpa_u_Horn%C3%ADho_Z%C3%A1blat%C3%AD_v_roce_2011_%281%29.JPG",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/L%C3%ADpa_u_Horn%C3%ADho_Z%C3%A1blat%C3%AD_v_roce_2011_%281%29.JPG/960px-L%C3%ADpa_u_Horn%C3%ADho_Z%C3%A1blat%C3%AD_v_roce_2011_%281%29.JPG",
+      "description": "Famous tree called \"Lípa u Horního Záblatí\". Horní Záblatí village in Prachatice District, Czech Republic",
+      "name": "lípa velkolistá"
+    },
+    "pinus-thunbergii": {
+      "src": "/images/plant-pinus-thunbergii.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_Izu_Oshima.jpg",
+      "author": "Nikita from Russian Federation",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Pinus thunbergii",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pinus_thunbergii_Izu_Oshima.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Pinus_thunbergii_Izu_Oshima.jpg/960px-Pinus_thunbergii_Izu_Oshima.jpg",
+      "description": "Pinus thunbergii , Izu Oshima island, Tokyo, Japan.",
+      "name": "borovice Thunbergova"
+    },
+    "arbutus-unedo": {
+      "src": "/images/plant-arbutus-unedo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Carcassonne_-_Arbutus_unedo_02.jpg",
+      "author": "Tylwyth Eldar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Arbutus unedo",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Carcassonne_-_Arbutus_unedo_02.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Carcassonne_-_Arbutus_unedo_02.jpg/960px-Carcassonne_-_Arbutus_unedo_02.jpg",
+      "description": "Arbousier (Arbutus unedo) à Carcassonne",
+      "name": "planika (český a latinský název zdroje nesouhlasí)"
+    },
+    "acer-mandshuricum": {
+      "src": "/images/plant-acer-mandshuricum.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Acer_mandshuricum_leaf.jpg",
+      "author": "Abarmot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Acer mandshuricum",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Acer_mandshuricum_leaf.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Acer_mandshuricum_leaf.jpg/960px-Acer_mandshuricum_leaf.jpg",
+      "description": "Leaf of the Manchurian Maple ( Acer mandshuricum ),\nBotanical garden of Tallinn, Estonia",
+      "name": "javor mandžuský, červenolistá forma"
+    },
+    "magnolia-stellata-chrysanthemiflora": {
+      "src": "/images/plant-magnolia-stellata.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Magnolia_stellata_fleurs.jpg",
+      "author": "Myrabella",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Magnolia stellata",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Magnolia_stellata_fleurs.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Magnolia_stellata_fleurs.jpg/960px-Magnolia_stellata_fleurs.jpg",
+      "description": "Flowers and buds of star magnolia  ( Magnolia stellata ) in the park of Bagatelle, Paris, France.",
+      "name": "šácholan hvězdovitý"
+    },
+    "quercus-kelloggii": {
+      "src": "/images/plant-quercus-kelloggii.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Quercus_kelloggii_tree_in_situ_Briones_Preserve_11.jpg",
+      "author": "Awinch1001",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "rights_status": "licensed",
+      "publication_status": "ready",
+      "illustration_scope": "species",
+      "scientific_name": "Quercus kelloggii",
+      "changes": "Downloaded Wikimedia image; CSS preserves the complete image and aspect ratio.",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Quercus_kelloggii_tree_in_situ_Briones_Preserve_11.jpg",
+      "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Quercus_kelloggii_tree_in_situ_Briones_Preserve_11.jpg/960px-Quercus_kelloggii_tree_in_situ_Briones_Preserve_11.jpg",
+      "description": "Quercus kelloggii tree at Briones Preserve.",
+      "name": "dub černý kalifornský"
     }
   }
 }

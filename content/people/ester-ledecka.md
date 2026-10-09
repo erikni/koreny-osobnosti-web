@@ -4,7 +4,9 @@ name: Ester Ledecká
 category_id: sportovci
 entry_numbers:
 - 95
+official_website: https://www.ester-ledecka.cz/
 source_urls:
+- https://www.ester-ledecka.cz/
 - https://cs.wikipedia.org/wiki/Ester_Ledeck%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

@@ -5,6 +5,7 @@ category_id: sportovci
 entry_numbers:
 - 39
 source_urls:
+- https://edu.ceskatelevize.cz/porad/skromny-velikan-josef-masopust
 - https://cs.wikipedia.org/wiki/Josef_Masopust
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true
@@ -22,6 +23,7 @@ highlights_cs:
 highlights_en:
 - Josef Masopust was a Czech football player and coach.
 facts_source_urls:
+- https://edu.ceskatelevize.cz/porad/skromny-velikan-josef-masopust
 - https://cs.wikipedia.org/wiki/Josef_Masopust
 - https://en.wikipedia.org/wiki/Josef_Masopust
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

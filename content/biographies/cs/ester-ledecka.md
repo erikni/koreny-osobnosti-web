@@ -5,6 +5,7 @@ lang: cs
 title: Ester Ledecká
 status: ready
 source_urls:
+- https://www.ester-ledecka.cz/
 - https://cs.wikipedia.org/wiki/Ester_Ledeck%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_source: https://cs.wikipedia.org/wiki/Ester_Ledeck%C3%A1

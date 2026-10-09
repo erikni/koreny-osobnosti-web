@@ -4,7 +4,9 @@ name: Jiří Anderle
 category_id: vytvarnici-fotografove-a-navrhari
 entry_numbers:
 - 106
+official_website: https://www.anderle.cz/
 source_urls:
+- https://www.anderle.cz/
 - https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Anderle
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

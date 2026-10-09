@@ -4,7 +4,9 @@ name: Pavel Nedvěd
 category_id: sportovci
 entry_numbers:
 - 40
+official_website: http://www.pavelnedved.cz/home/
 source_urls:
+- http://www.pavelnedved.cz/home/
 - https://cs.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

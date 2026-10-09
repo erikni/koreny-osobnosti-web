@@ -4,7 +4,9 @@ name: David Smoljak
 category_id: herci-a-herecky
 entry_numbers:
 - 36
+official_website: https://www.davidsmoljak.cz
 source_urls:
+- https://www.davidsmoljak.cz
 - https://cs.wikipedia.org/wiki/David_Smoljak
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

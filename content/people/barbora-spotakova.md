@@ -5,6 +5,7 @@ category_id: sportovci
 entry_numbers:
 - 69
 source_urls:
+- https://www.olympijskytym.cz/athlete/barbora-spotakova
 - https://cs.wikipedia.org/wiki/Barbora_%C5%A0pot%C3%A1kov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true
@@ -22,6 +23,7 @@ highlights_en:
 - She is a two-time Olympic Champion and three-time World Champion, as well as the
   current world record holder with a throw of 72.28 m.
 facts_source_urls:
+- https://www.olympijskytym.cz/athlete/barbora-spotakova
 - https://cs.wikipedia.org/wiki/Barbora_%C5%A0pot%C3%A1kov%C3%A1
 - https://en.wikipedia.org/wiki/Barbora_%C5%A0pot%C3%A1kov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

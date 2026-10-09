@@ -4,7 +4,9 @@ name: Richard Konkolski
 category_id: sportovci
 entry_numbers:
 - 113
+official_website: https://www.konkolski.com
 source_urls:
+- https://www.konkolski.com
 - https://cs.wikipedia.org/wiki/Richard_Konkolski
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

@@ -4,7 +4,9 @@ name: David Drahonínský
 category_id: sportovci
 entry_numbers:
 - 118
+official_website: https://www.daviddrahoninsky.cz/
 source_urls:
+- https://www.daviddrahoninsky.cz/
 - https://cs.wikipedia.org/wiki/David_Drahon%C3%ADnsk%C3%BD
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true

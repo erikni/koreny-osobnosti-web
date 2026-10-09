@@ -5,6 +5,7 @@ category_id: sportovci
 entry_numbers:
 - 45
 source_urls:
+- https://www.zatopek100.cz/
 - https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true
@@ -25,6 +26,7 @@ highlights_en:
 - 'Helsinki 1952: gold in the 5,000 m, 10,000 m and marathon.'
 - 13 world records over metric distances and five over imperial distances.
 facts_source_urls:
+- https://www.zatopek100.cz/
 - https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek
 - https://en.wikipedia.org/wiki/Emil_Z%C3%A1topek
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam

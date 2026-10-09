@@ -5,6 +5,7 @@ category_id: sportovci
 entry_numbers:
 - 81
 source_urls:
+- https://www.instagram.com/josefvanaofficial/?hl=cs
 - https://cs.wikipedia.org/wiki/Josef_V%C3%A1%C5%88a
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
 biography_verified: true
@@ -21,6 +22,7 @@ highlights_en:
 - In 2024, he assumed the seat of Jana Mračková Vildumetzová in the Chamber of Deputies
   of the Czech Republic after she was elected as mayor of Karlovy Vary.
 facts_source_urls:
+- https://www.instagram.com/josefvanaofficial/?hl=cs
 - https://cs.wikipedia.org/wiki/Josef_V%C3%A1%C5%88a
 - https://en.wikipedia.org/wiki/Josef_V%C3%A1%C5%88a
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
