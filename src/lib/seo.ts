@@ -33,9 +33,7 @@ export function pageMetadata({lang, kind, id, title, entry, plant, person, relat
   } else if (kind === 'category') {
     const name = category.data[cs ? 'name_cs' : 'name_en'];
     heading = cs ? `${name} – osobnosti a jejich výsadby` : `${name} – people and their plantings`;
-    description = cs
-      ? `${name} v projektu Kořeny osobností. Prozkoumejte ${count} položek, související rostliny a příběhy výsadeb v ${garden}.`
-      : `${name} in Kořeny osobností. Explore ${count} entries, related plants and planting stories at ${garden}.`;
+    description = category.data[cs ? 'intro_cs' : 'intro_en'];
   } else if (kind === 'year') {
     description = cs
       ? `Výsadby v roce ${id} v ${garden}: ${count} položek projektu Kořeny osobností. Prohlédněte si osobnosti, jejich rostliny a příběhy.`
