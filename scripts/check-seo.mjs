@@ -7,6 +7,15 @@ const site = 'https://www.koreny-osobnosti.cz';
 const decode = text => text.replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
 const urls = [...fs.readFileSync('dist/sitemap.xml', 'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => decode(m[1]));
 const canonicalUrls = new Set(urls);
+const sitemap = fs.readFileSync('dist/sitemap.xml', 'utf8');
+assert(sitemap.includes('xmlns:xhtml="http://www.w3.org/1999/xhtml"'));
+const alternates = new Map([...sitemap.matchAll(/<url>([\s\S]*?)<\/url>/g)].map(m => {
+  const location = decode(m[1].match(/<loc>([^<]+)<\/loc>/)[1]);
+  const links = [...m[1].matchAll(/<xhtml:link rel="alternate" hreflang="([^"]+)" href="([^"]+)"\/>/g)];
+  assert.equal(links.length,3, `${location}: expected three sitemap alternates`);
+  return [location,Object.fromEntries(links.map(l=>[l[1],decode(l[2])]))];
+}));
+
 assert.equal(urls.length, canonicalUrls.size, 'Duplicate sitemap URL');
 const records = folder => fs.readdirSync(`content/${folder}`).filter(f => f.endsWith('.md'))
   .map(f => YAML.parse(fs.readFileSync(`content/${folder}/${f}`, 'utf8').split('---')[1]));
@@ -16,6 +25,17 @@ let trails = 0, listLinks = 0;
 for (const canonical of urls) {
   const pathname = new URL(canonical).pathname, lang = pathname.startsWith('/en/') ? 'en' : 'cs';
   const html = fs.readFileSync(path.join('dist', pathname, 'index.html'), 'utf8');
+  const languageLinks = alternates.get(canonical);
+  assert.deepEqual(Object.keys(languageLinks).sort(), ['cs','en','x-default']);
+  assert.equal(languageLinks[lang], canonical);
+  assert.equal(languageLinks['x-default'], languageLinks.cs);
+  for (const [language,target] of Object.entries(languageLinks)) {
+    assert(canonicalUrls.has(target), `${canonical}: non-canonical sitemap alternate`);
+    assert(html.includes(`hreflang="${language}" href="${target}"`), `${canonical}: sitemap/HTML alternate mismatch`);
+    assert.deepEqual(alternates.get(target),languageLinks, `${canonical}: non-reciprocal alternates`);
+  }
+  assert(html.includes('<meta name="robots" content="max-image-preview:large"'), `${canonical}: missing image preview rule`);
+
   const scripts = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)];
   assert.equal(scripts.length, 1, `${canonical}: expected one graph`);
   const schema = JSON.parse(scripts[0][1]);
