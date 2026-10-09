@@ -5,22 +5,13 @@ lang: en
 title: Miroslav Ondříček
 description: Miroslav Ondříček · Quercus garryana · 2011
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Miroslav_Ond%C5%99%C3%AD%C4%8Dek
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
+planting_note: 'Current catalogue: Quercus garryana. The 2011 annual report records
+  Quercus prinus at planting.'
 ---
 
-Czech cinematographer and long-time collaborator of Miloš Forman.
+Miroslav Ondříček (4 November 1934 – 28 March 2015) was a Czech cinematographer.
 
-## Planting and plant
-
-This entry is associated with **Quercus garryana**.
-
-**Year:** 2011.
-
-**Planters or representatives (as documented):** Miroslav Ondříček.
-
-## Historical name in the references
-
-Quercus prinus. This historical designation is retained for comparison with the current garden catalogue.
-
-## Clarification
-
-Current catalogue: Quercus garryana. The 2011 annual report records Quercus prinus at planting.
+He worked on over 40 films, including Amadeus, Ragtime and If.....

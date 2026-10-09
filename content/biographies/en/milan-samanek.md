@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech paediatrician specialising in paediatric cardiology.
+
+For this entry, the garden identifies the planters or representatives as: Milan Šamánek. The linked planting article provides the plant record and the documented circumstances of participation.

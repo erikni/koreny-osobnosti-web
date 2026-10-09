@@ -5,18 +5,13 @@ lang: en
 title: Bohuslav Svoboda
 description: Bohuslav Svoboda · Sciadopitys verticillata · year unconfirmed
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Bohuslav_Svoboda
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
+planting_note: The 2017 annual report records the state at year end but does not establish
+  the planting year.
 ---
 
-Czech physician and politician who has served as mayor of Prague.
+Bohuslav Svoboda (born 8 February 1944) is a Czech politician and gynaecologist who has been serving as the mayor of Prague since 16 February 2023.
 
-## Planting and plant
-
-This entry is associated with **Sciadopitys verticillata**.
-
-**Year:** the exact year has not been established in the checked sources.
-
-**Planters or representatives (as documented):** Bohuslav Svoboda.
-
-## Clarification
-
-The 2017 annual report records the state at year end but does not establish the planting year.
+He previously served as the mayor of Prague from 30 November 2010 to 23 May 2013.

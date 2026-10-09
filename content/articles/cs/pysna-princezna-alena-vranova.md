@@ -9,13 +9,3 @@ status: ready
 ---
 
 Položka projektu propojuje příběh „Pyšná princezna / Alena Vránová“ se světem rostlin. Alena Vránová: Česká herečka známá také z titulní role ve filmu Pyšná princezna.
-
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **višeň chloupkatá** (*Prunus subhirtella 'Autumnalis Rosea'*).
-
-**Rok:** 2019.
-
-**Sázející nebo zástupci:** Alena Vránová.
-
-

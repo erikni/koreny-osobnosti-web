@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech screenwriter, dramaturge and politician.
+
+For this entry, the garden identifies the planters or representatives as: Zdeněk Svěrák, Bořivoj Penc, Petr Brukner, Jan Hraběta, Václav Kotek and David Smoljak. The linked planting article provides the plant record and the documented circumstances of participation.

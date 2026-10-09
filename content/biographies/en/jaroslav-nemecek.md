@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech illustrator and creator of the Čtyřlístek comic.
+
+For this entry, the garden identifies the planters or representatives as: Čtyřlístek and Jaroslav Němeček. The linked planting article provides the plant record and the documented circumstances of participation.

@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech model and winner of Česká Miss 2008.
+
+For this entry, the garden identifies the planters or representatives as: Eliška Bučková. The linked planting article provides the plant record and the documented circumstances of participation.

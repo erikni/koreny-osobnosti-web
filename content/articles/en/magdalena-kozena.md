@@ -5,16 +5,11 @@ lang: en
 title: Magdalena Kožená
 description: Magdalena Kožená · Tilia paucicostata · 2013
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Magdalena_Ko%C5%BEen%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech opera singer and mezzo-soprano.
+Magdalena Kožená (born 26 May 1973) is a Czech mezzo-soprano.
 
-## Planting and plant
-
-This entry is associated with **Tilia paucicostata**.
-
-**Year:** 2013.
-
-**Planters or representatives (as documented):** Magdalena Kožená.
-
-
+Kožená was born in Brno in Czechoslovakia. Both her parents had come originally from Bohemia, to the west. She was born one of the two daughters of a mathematician father and a biologist mother. Her father died when she was eleven. As a child she sang in Kantiléna, the Children's and Youth Choir headed up by Ivan Sedláček and attached to the Brno Philharmonic Orchestra. It was, however, as a professional pianist that she planned to make her career until 1987 when she injured her hand in a sports accident at school: this led her to focus on training for a singing career.

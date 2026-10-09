@@ -9,12 +9,4 @@ status: ready
 
 Czech manager and former director of Prague Zoo.
 
-## Planting and plant
-
-This entry is associated with **Pinus bungeana**.
-
-**Year:** 2009.
-
-**Planters or representatives (as documented):** Petr Fejk.
-
-
+For this entry, the garden identifies the planters or representatives as: Petr Fejk. The linked planting article provides the plant record and the documented circumstances of participation.

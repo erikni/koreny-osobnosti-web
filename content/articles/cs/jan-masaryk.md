@@ -5,20 +5,11 @@ lang: cs
 title: Jan Masaryk
 description: Jan Masaryk · Quercus robur 'Salfast' · 2019
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Jan_Masaryk
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Československý diplomat a ministr zahraničí.
+Jan Masaryk (také Jan Garrigue Masaryk, 14. září 1886 Královské Vinohrady – 10. března 1948 Praha-Hradčany) byl československý diplomat a politik, mladší syn prvního československého prezidenta Tomáše Garrigue Masaryka. V letech 1925–1938 sloužil jako československý vyslanec ve Spojeném království. Mezi roky 1940–1948 byl ministrem zahraničí v první i druhé Šrámkově exilové vládě, v prvním i druhém kabinetu Fierlingera a první i druhé Gottwaldově vládě.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **dub letní** (*Quercus robur 'Salfast'*).
-
-**Rok:** 2019.
-
-**Sázející nebo zástupci:** Charlotta Kotíková.
-
-## Upřesnění
-
-Jeden společný strom Masarykových. Výroční zpráva 2019 přehazuje pořadí Alice a Jana.
-
-
+V londýnském exilovém období byl také v letech 1944–1945 pověřen správou ministerstva národní obrany. V únoru 1948 odmítl podat demisi s ostatními demokratickými ministry v první Gottwaldově vládě. Zemřel za nevyjasněných okolností 10. března 1948 pádem z okna služebního bytu v Černínském paláci. S cílem objasnit případ za pomoci moderních kriminalistických metod přistoupila Policie České republiky v září 2026 k exhumaci Masarykových ostatků na hřbitově v Lánech.

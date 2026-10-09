@@ -9,12 +9,4 @@ status: ready
 
 Módní návrhář, jehož jméno je spojeno především s obuví.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **třešeň** (*Prunus 'Okame'*).
-
-**Rok:** 2017.
-
-**Sázející nebo zástupci:** Manolo Blahník.
-
-
+U této položky zahrada uvádí jako sázející nebo zástupce: Manolo Blahník. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

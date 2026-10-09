@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Participant in Kořeny osobností, documented in connection with project entry 107.
+
+For this entry, the garden identifies the planters or representatives as: Vladimír Beneš, the middle and youngest generations; the planting honours three generations. The linked planting article provides the plant record and the documented circumstances of participation.

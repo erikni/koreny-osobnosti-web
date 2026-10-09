@@ -9,12 +9,4 @@ status: ready
 
 Česká lyžařka a deaflympijská vítězka.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **dub proměnlivý** (*Quercus variabilis*).
-
-**Rok:** 2018.
-
-**Sázející nebo zástupci:** Tereza Kmochová.
-
-
+U této položky zahrada uvádí jako sázející nebo zástupce: Tereza Kmochová. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

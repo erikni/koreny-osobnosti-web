@@ -5,23 +5,11 @@ lang: cs
 title: Vojtěch Jasný
 description: Vojtěch Jasný · Arbutus unedo · 2014
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Jasn%C3%BD
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Česko-americký režisér a scenárista spojený s československou novou vlnou.
+Vojtěch Jasný (30. listopadu 1925 Kelč – 15. listopadu 2019 Přerov) byl česko-americký scenárista, filmový režisér, fotograf, vysokoškolský pedagog a jogín.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **planika (český a latinský název zdroje nesouhlasí)** (*Arbutus unedo*).
-
-**Rok:** 2014.
-
-**Sázející nebo zástupci:** Vojtěch Jasný.
-
-## Upřesnění
-
-Současný seznam: Arbutus unedo; zpráva 2014: původní Arbutus menziesii. Český název v současném seznamu s latinským nesouhlasí.
-
-## Historický název v pramenech
-
-Arbutus menziesii. Údaj uchováváme pro srovnání s aktuálním seznamem zahrady.
-
+Jednalo se o jednu z významných postav české kinematografie 60. let 20. století řazeného k představitelům tzv. nové vlny v československém filmu. Svou celoživotní tvorbou si získal mezinárodní věhlas.

@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Rodinná zástupkyně Tomáše J. Bati při výsadbě věnované jeho památce.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Monica Pignal Bata. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

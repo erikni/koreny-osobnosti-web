@@ -5,16 +5,11 @@ lang: en
 title: Lukáš Krpálek
 description: Lukáš Krpálek · Cryptomeria japonica · 2020
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Krp%C3%A1lek
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech judoka and double Olympic champion.
+Lukáš Krpálek (born 15 November 1990) is a Czech heavyweight judoka.
 
-## Planting and plant
-
-This entry is associated with **Cryptomeria japonica**.
-
-**Year:** 2020.
-
-**Planters or representatives (as documented):** Lukáš Krpálek.
-
-
+A former world champion (2014, 2019), European champion (2013, 2014, 2018) and Olympic Champion (2016, 2021). He is the most successful judoka in Czech and Czechoslovak history, and was named Czech Judoka of the Year eight times between 2008 and 2015.

@@ -8,13 +8,3 @@ status: ready
 ---
 
 This project entry connects Pat a Mat a Lubomír Beneš with the world of plants. Lubomír Beneš: Czech animator and director, creator of Pat & Mat.
-
-## Planting and plant
-
-This entry is associated with **Quercus rubra 'Aurea'**.
-
-**Year:** 2022.
-
-**Planters or representatives (as documented):** Marek Beneš and Tereza Benešová.
-
-

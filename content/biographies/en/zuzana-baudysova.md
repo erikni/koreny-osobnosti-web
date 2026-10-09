@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech foundation director associated with Naše dítě and former senator.
+
+For this entry, the garden identifies the planters or representatives as: Zuzana Baudyšová. The linked planting article provides the plant record and the documented circumstances of participation.

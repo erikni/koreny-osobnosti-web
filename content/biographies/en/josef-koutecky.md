@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech physician and founder of paediatric oncology in Czechoslovakia.
+
+For this entry, the garden identifies the planters or representatives as: Josef Koutecký. The linked planting article provides the plant record and the documented circumstances of participation.

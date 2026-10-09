@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech dentist and scientist, wife and collaborator of Otto Wichterle.
+
+For this entry, the garden identifies the planters or representatives as: Linda Wichterlová. The linked planting article provides the plant record and the documented circumstances of participation.

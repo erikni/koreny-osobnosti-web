@@ -8,13 +8,3 @@ status: ready
 ---
 
 This project entry connects Čtyřlístek and Jaroslav Němeček with the world of plants. Jaroslav Němeček: Czech illustrator and creator of the Čtyřlístek comic.
-
-## Planting and plant
-
-This entry is associated with **Mespilus germanica**.
-
-**Year:** 2019.
-
-**Planters or representatives (as documented):** Čtyřlístek and Jaroslav Němeček.
-
-

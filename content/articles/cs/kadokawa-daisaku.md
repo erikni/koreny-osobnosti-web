@@ -9,12 +9,4 @@ status: ready
 
 Japonský politik, který působil jako starosta Kjóta.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **meruňka japonská** (*Prunus mume*).
-
-**Rok:** 2016.
-
-**Sázející nebo zástupci:** Kadokawa Daisaku.
-
-
+U této položky zahrada uvádí jako sázející nebo zástupce: Kadokawa Daisaku. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

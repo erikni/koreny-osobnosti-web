@@ -9,12 +9,4 @@ status: ready
 
 Fashion designer known especially for footwear.
 
-## Planting and plant
-
-This entry is associated with **Prunus 'Okame'**.
-
-**Year:** 2017.
-
-**Planters or representatives (as documented):** Manolo Blahník.
-
-
+For this entry, the garden identifies the planters or representatives as: Manolo Blahník. The linked planting article provides the plant record and the documented circumstances of participation.

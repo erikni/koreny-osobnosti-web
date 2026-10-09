@@ -9,12 +9,4 @@ status: ready
 
 Czech visually impaired skier and Paralympic champion.
 
-## Planting and plant
-
-This entry is associated with **Quercus variabilis**.
-
-**Year:** 2018.
-
-**Planters or representatives (as documented):** Kateřina Teplá Šromová.
-
-
+For this entry, the garden identifies the planters or representatives as: Kateřina Teplá Šromová. The linked planting article provides the plant record and the documented circumstances of participation.

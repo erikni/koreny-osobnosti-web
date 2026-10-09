@@ -9,12 +9,4 @@ status: ready
 
 Czech cardiac surgeon.
 
-## Planting and plant
-
-This entry is associated with **Sorbus omissa**.
-
-**Year:** 2017.
-
-**Planters or representatives (as documented):** Jan Pirk.
-
-
+For this entry, the garden identifies the planters or representatives as: Jan Pirk. The linked planting article provides the plant record and the documented circumstances of participation.

@@ -8,13 +8,3 @@ status: ready
 ---
 
 Položka projektu propojuje příběh „Pat a Mat a Lubomír Beneš“ se světem rostlin. Lubomír Beneš: Český animátor a režisér, tvůrce seriálu Pat a Mat.
-
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **dub červený - Quercus rubra ´Aurea´** (*Quercus rubra 'Aurea'*).
-
-**Rok:** 2022.
-
-**Sázející nebo zástupci:** Marek Beneš a Tereza Benešová.
-
-

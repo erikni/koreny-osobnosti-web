@@ -5,16 +5,11 @@ lang: en
 title: Jiří Ježek
 description: Jiří Ježek · Quercus variabilis · 2018
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Je%C5%BEek
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech cyclist and six-time Paralympic champion.
+Jiří Ježek  (born 16 October 1974 in Prague) is a former Czech road and track racing cyclist and Paralympian who has won medals at each of the past three Paralympic Games.
 
-## Planting and plant
-
-This entry is associated with **Quercus variabilis**.
-
-**Year:** 2018.
-
-**Planters or representatives (as documented):** Jiří Ježek.
-
-
+He also took part in charitable projects and motivational talks and wrote the autobiographical book Frajer. His racing career lasted from 1994 to 2017, and included competition alongside non-disabled cyclists.

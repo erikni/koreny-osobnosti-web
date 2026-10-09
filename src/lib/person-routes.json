@@ -1,0 +1,767 @@
+{
+  "otto-hrodek": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": true
+  },
+  "stefan-margita": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "jan-zelezny": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "antonin-panenka": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "tereza-benesova": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "vladimir-jiranek": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": false
+  },
+  "tadeas-vnuk-jiriho-haagera": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "bara-kodetova": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "gabriela-koukalova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "mathilda-nostitzova": {
+    "cs": "mecenas",
+    "en": "philanthropist",
+    "merged": true
+  },
+  "marie-vodickova": {
+    "cs": "spolek",
+    "en": "organisation",
+    "merged": false
+  },
+  "radek-jaros": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "nicholas-winton": {
+    "cs": "mecenas",
+    "en": "philanthropist",
+    "merged": true
+  },
+  "theodor-pistek": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": true
+  },
+  "adriana-krnacova": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "venceslava-hrdlickova": {
+    "cs": "vedec",
+    "en": "scientist",
+    "merged": true
+  },
+  "marina-odvarkova-pilarova": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "petr-sis": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": true
+  },
+  "miroslav-zikmund": {
+    "cs": "cestovatel",
+    "en": "traveller",
+    "merged": true
+  },
+  "alice-masarykova": {
+    "cs": "spolek",
+    "en": "organisation",
+    "merged": true
+  },
+  "jiri-suchy": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "zuzana-baudysova": {
+    "cs": "spolek",
+    "en": "organisation",
+    "merged": false
+  },
+  "meda-mladkova": {
+    "cs": "mecenas",
+    "en": "philanthropist",
+    "merged": true
+  },
+  "petr-brukner": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "stepanka-hilgertova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "jiri-haager": {
+    "cs": "vedec",
+    "en": "scientist",
+    "merged": true
+  },
+  "david-ondricek": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "vladimir-benes-nejstarsi": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": false
+  },
+  "iva-janzurova": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": true
+  },
+  "miroslav-jiranek": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": false
+  },
+  "charlotta-kotikova": {
+    "cs": "historik-umeni",
+    "en": "art-historian",
+    "merged": false
+  },
+  "14-dalajlama": {
+    "cs": "duchovni",
+    "en": "spiritual-leader",
+    "merged": true
+  },
+  "josef-masopust": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "petr-pavel": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "vaclav-kuchynka": {
+    "cs": "veteran",
+    "en": "veteran",
+    "merged": false
+  },
+  "ludvik-vaculik": {
+    "cs": "spisovatel",
+    "en": "writer",
+    "merged": true
+  },
+  "libor-pesek": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "martina-smukova": {
+    "cs": "modelka",
+    "en": "model",
+    "merged": false
+  },
+  "helena-stachova": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "karel-gott": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "manri-ponlob-thinla-nima-rinpoche": {
+    "cs": "duchovni",
+    "en": "spiritual-leader",
+    "merged": true
+  },
+  "jaroslav-nemecek": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": false
+  },
+  "jirina-bohdalova": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": true
+  },
+  "linda-wichterlova": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "jan-pirk": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": true
+  },
+  "petr-janda": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "alice-jandova": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "tomas-garrigue-masaryk": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "bohuslav-svoboda": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "miroslav-ondricek": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "jiri-friml": {
+    "cs": "vedec",
+    "en": "scientist",
+    "merged": true
+  },
+  "vladimir-benes-nejmladsi": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": false
+  },
+  "vladimir-remek": {
+    "cs": "kosmonaut",
+    "en": "astronaut",
+    "merged": true
+  },
+  "lida-haagerova": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "stepanka-duchkova": {
+    "cs": "novinar",
+    "en": "journalist",
+    "merged": false
+  },
+  "manolo-blahnik": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": true
+  },
+  "petr-fejk": {
+    "cs": "reditel",
+    "en": "director",
+    "merged": true
+  },
+  "josef-koutecky": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": true
+  },
+  "martin-doktor": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "dana-zatopkova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "vojtech-jasny": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "jan-pospisil": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": false
+  },
+  "kveta-jeriova-peckova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "tomas-hudecek": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "tomas-j-bata": {
+    "cs": "podnikatel",
+    "en": "entrepreneur",
+    "merged": true
+  },
+  "jan-hrabeta": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "david-drahoninsky": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "jan-hrebejk": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "pavel-sporcl": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "jan-potmesil": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "karel-loprais": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "alena-vranova": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "richard-konkolski": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "vaclav-kotek": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "petra-kvitova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "zdenek-hrib": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "marjanka-vnucka-radka-pilare": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "pavel-nedved": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "lubomir-benes": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": false
+  },
+  "milan-samanek": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": true
+  },
+  "pierre-richard": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": true
+  },
+  "marta-kubisova": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "marek-benes": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": false
+  },
+  "vaclav-vetvicka": {
+    "cs": "vedec",
+    "en": "scientist",
+    "merged": true
+  },
+  "katerina-tepla-sromova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "tomas-bata": {
+    "cs": "podnikatel",
+    "en": "entrepreneur",
+    "merged": true
+  },
+  "jan-masaryk": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "jiri-jezek": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "jindrich-pospisil": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": false
+  },
+  "lucie-bila": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "jiri-menzel": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "otto-wichterle": {
+    "cs": "vedec",
+    "en": "scientist",
+    "merged": true
+  },
+  "bohdan-pomahac": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": true
+  },
+  "ester-ledecka": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "martin-hilsky": {
+    "cs": "spisovatel",
+    "en": "writer",
+    "merged": true
+  },
+  "antonin-kratochvil": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": true
+  },
+  "alfons-mucha": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": true
+  },
+  "jirina-jiraskova": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": true
+  },
+  "antonin-holy": {
+    "cs": "vedec",
+    "en": "scientist",
+    "merged": true
+  },
+  "david-smoljak": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "katerina-neumannova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "zdenek-miler": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": false
+  },
+  "barbora-spotakova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "vaclav-cilek": {
+    "cs": "vedec",
+    "en": "scientist",
+    "merged": true
+  },
+  "zdenek-sverak": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "eva-jiricna": {
+    "cs": "architekt",
+    "en": "architect",
+    "merged": true
+  },
+  "zdenek-pecka": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "borivoj-penc": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "jaroslav-sterba": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": false
+  },
+  "tatana-gregor-kucharova": {
+    "cs": "modelka",
+    "en": "model",
+    "merged": true
+  },
+  "jiri-kylian": {
+    "cs": "tanecnik",
+    "en": "dancer",
+    "merged": true
+  },
+  "eva-pavlova": {
+    "cs": "osobnost-verejneho-zivota",
+    "en": "public-figure",
+    "merged": false
+  },
+  "zuzana-caputova": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "sona-cervena": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "emil-zatopek": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "tomas-lom": {
+    "cs": "veteran",
+    "en": "veteran",
+    "merged": false
+  },
+  "kadokawa-daisaku": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "pavel-bem": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "geraldine-muchova": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "chantal-poullain": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": false
+  },
+  "jan-sverak": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "dagmar-peckova": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "vaclav-havel": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  },
+  "jiri-belohlavek": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "anna-geislerova": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": true
+  },
+  "dagmar-havlova": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": true
+  },
+  "andrew-j-feustel": {
+    "cs": "kosmonaut",
+    "en": "astronaut",
+    "merged": true
+  },
+  "otakar-vavra": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "daria-klimentova": {
+    "cs": "tanecnik",
+    "en": "dancer",
+    "merged": true
+  },
+  "lukas-krpalek": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "monica-pignal-bata": {
+    "cs": "podnikatel",
+    "en": "entrepreneur",
+    "merged": false
+  },
+  "eliska-buckova": {
+    "cs": "modelka",
+    "en": "model",
+    "merged": false
+  },
+  "josef-vana": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "jiri-hanzelka": {
+    "cs": "cestovatel",
+    "en": "traveller",
+    "merged": true
+  },
+  "helena-trestikova": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "vendula-svobodova": {
+    "cs": "spolek",
+    "en": "organisation",
+    "merged": false
+  },
+  "josef-skalka": {
+    "cs": "veteran",
+    "en": "veteran",
+    "merged": false
+  },
+  "ota-vnuk-miroslava-jiranka": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "jiri-anderle": {
+    "cs": "vytvarnik",
+    "en": "artist",
+    "merged": true
+  },
+  "jan-hruska": {
+    "cs": "rodinny-zastupce",
+    "en": "family-representative",
+    "merged": false
+  },
+  "pavel-pafko": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": true
+  },
+  "lida-rakusanova": {
+    "cs": "novinar",
+    "en": "journalist",
+    "merged": true
+  },
+  "helena-illnerova": {
+    "cs": "vedec",
+    "en": "scientist",
+    "merged": true
+  },
+  "vladimir-benes-mladsi": {
+    "cs": "lekar",
+    "en": "doctor",
+    "merged": false
+  },
+  "magdalena-kozena": {
+    "cs": "hudebnik",
+    "en": "musician",
+    "merged": true
+  },
+  "tereza-kmochova": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "ivan-klima": {
+    "cs": "spisovatel",
+    "en": "writer",
+    "merged": true
+  },
+  "vaclav-postranecky": {
+    "cs": "herec",
+    "en": "actor",
+    "merged": true
+  },
+  "petr-cech": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "adam-ondra": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "vera-caslavska": {
+    "cs": "sportovec",
+    "en": "athlete",
+    "merged": true
+  },
+  "milos-forman": {
+    "cs": "reziser",
+    "en": "filmmaker",
+    "merged": true
+  },
+  "madeleine-albrightova": {
+    "cs": "politik",
+    "en": "politician",
+    "merged": true
+  }
+}

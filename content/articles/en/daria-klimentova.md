@@ -5,22 +5,13 @@ lang: en
 title: Daria Klimentová
 description: Daria Klimentová · Adansonia fony var. rubrostipa · 2014
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Daria_Klimentov%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
+planting_note: 'Current catalogue: Adansonia fony var. rubrostipa; contemporary 2014
+  report: Adansonia rubrostipa.'
 ---
 
-Czech ballet dancer and dance educator.
+Daria Klimentová (born 23 June 1971) is a Czech retired ballet dancer, ballet teacher and photographer .
 
-## Planting and plant
-
-This entry is associated with **Adansonia fony var. rubrostipa**.
-
-**Year:** 2014.
-
-**Planters or representatives (as documented):** Daria Klimentová.
-
-## Historical name in the references
-
-Adansonia rubrostipa. This historical designation is retained for comparison with the current garden catalogue.
-
-## Clarification
-
-Current catalogue: Adansonia fony var. rubrostipa; contemporary 2014 report: Adansonia rubrostipa.
+She spent most of her career as a lead principal dancer at English National Ballet. She is currently a teacher at the Royal Ballet Upper School.

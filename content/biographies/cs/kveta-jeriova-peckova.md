@@ -7,6 +7,11 @@ status: ready
 source_urls:
 - https://cs.wikipedia.org/wiki/Kv%C4%9Bta_Jeriov%C3%A1
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti-seznam
+biography_source: https://cs.wikipedia.org/wiki/Kv%C4%9Bta_Jeriov%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Československá běžkyně na lyžích a trojnásobná olympijská medailistka.
+Květoslava „Květa“ Jeriová (* 10. října 1956 Jilemnice), provdaná Pecková, známá jako Jeriová-Pecková či Pecková-Jeriová, je bývalá československá reprezentantka v běhu na lyžích.
+
+Je trojnásobnou olympijskou medailistkou z let 1980 a 1984 a vdovou po veslaři Zdeňku Peckovi. V letech 2006 až 2020 byla předsedkyní Českého klubu fair play.

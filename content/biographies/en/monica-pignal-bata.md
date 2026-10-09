@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Family representative of Tomáš J. Baťa at the planting dedicated to his memory.
+
+For this entry, the garden identifies the planters or representatives as: Monica Pignal Bata. The linked planting article provides the plant record and the documented circumstances of participation.

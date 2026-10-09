@@ -5,23 +5,11 @@ lang: cs
 title: Miroslav Ondříček
 description: Miroslav Ondříček · Quercus garryana · 2011
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Miroslav_Ond%C5%99%C3%AD%C4%8Dek
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Český kameraman a dlouholetý spolupracovník Miloše Formana.
+Miroslav Ondříček (4. listopadu 1934 Praha – 28. března 2015) byl český kameraman a jeden z tvůrců České nové vlny.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **dub oregonský** (*Quercus garryana*).
-
-**Rok:** 2011.
-
-**Sázející nebo zástupci:** Miroslav Ondříček.
-
-## Upřesnění
-
-Současný seznam: Quercus garryana. Výroční zpráva 2011 uvádí při výsadbě Quercus prinus.
-
-## Historický název v pramenech
-
-Quercus prinus. Údaj uchováváme pro srovnání s aktuálním seznamem zahrady.
-
+Byl dlouholetým spolupracovníkem Miloše Formana. Byl nominován i na Oscara a stal se držitelem Českého lva.

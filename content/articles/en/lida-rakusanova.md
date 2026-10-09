@@ -9,12 +9,4 @@ status: ready
 
 Czech journalist and writer who worked for Radio Free Europe.
 
-## Planting and plant
-
-This entry is associated with **Fagus sylvatica 'Dawyck Purple'**.
-
-**Year:** 2021.
-
-**Planters or representatives (as documented):** Lída Rakušanová.
-
-
+For this entry, the garden identifies the planters or representatives as: Lída Rakušanová. The linked planting article provides the plant record and the documented circumstances of participation.

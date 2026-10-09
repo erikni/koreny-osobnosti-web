@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Participant in Kořeny osobností, documented in connection with project entry 82.
+
+For this entry, the garden identifies the planters or representatives as: Marina Odvárková Pilařová with family. The linked planting article provides the plant record and the documented circumstances of participation.

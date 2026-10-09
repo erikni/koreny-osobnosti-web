@@ -5,16 +5,11 @@ lang: en
 title: Jiří Anderle
 description: Jiří Anderle · Paulownia fortunei · 2020
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Anderle
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech painter, graphic artist and illustrator.
+Jiří Anderle  (born 14 September 1936) is a Czech painter and graphic artist.
 
-## Planting and plant
-
-This entry is associated with **Paulownia fortunei**.
-
-**Year:** 2020.
-
-**Planters or representatives (as documented):** Jiří Anderle.
-
-
+He is of assimilated German ethnic ancestry from paternal side.

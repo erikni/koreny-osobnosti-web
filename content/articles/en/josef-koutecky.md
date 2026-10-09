@@ -9,12 +9,4 @@ status: ready
 
 Czech physician and founder of paediatric oncology in Czechoslovakia.
 
-## Planting and plant
-
-This entry is associated with **Sorbus omissa**.
-
-**Year:** 2017.
-
-**Planters or representatives (as documented):** Josef Koutecký.
-
-
+For this entry, the garden identifies the planters or representatives as: Josef Koutecký. The linked planting article provides the plant record and the documented circumstances of participation.

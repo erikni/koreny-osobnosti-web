@@ -9,12 +9,4 @@ status: ready
 
 Czech physiologist and biochemist, former president of the Czech Academy of Sciences.
 
-## Planting and plant
-
-This entry is associated with **Abies balsamea**.
-
-**Year:** 2025.
-
-**Planters or representatives (as documented):** Helena Illnerová.
-
-
+For this entry, the garden identifies the planters or representatives as: Helena Illnerová. The linked planting article provides the plant record and the documented circumstances of participation.

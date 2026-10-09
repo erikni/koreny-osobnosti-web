@@ -9,12 +9,4 @@ status: ready
 
 Czech skier and Deaflympic champion.
 
-## Planting and plant
-
-This entry is associated with **Quercus variabilis**.
-
-**Year:** 2018.
-
-**Planters or representatives (as documented):** Tereza Kmochová.
-
-
+For this entry, the garden identifies the planters or representatives as: Tereza Kmochová. The linked planting article provides the plant record and the documented circumstances of participation.

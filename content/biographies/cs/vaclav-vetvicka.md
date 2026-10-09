@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Český botanik a popularizátor rostlinného světa.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Václav Větvička. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

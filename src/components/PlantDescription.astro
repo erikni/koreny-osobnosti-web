@@ -1,0 +1,8 @@
+---
+import {render} from 'astro:content';
+const {profile,lang}=Astro.props;
+const {Content}=await render(profile);
+---
+<dl class="plant-facts"><div><dt>{lang==='cs'?'Velikost v dospělosti':'Mature size'}</dt><dd>{profile.data.height}</dd></div><div><dt>{lang==='cs'?'Kvetení':'Flowering'}</dt><dd>{profile.data.flowering}</dd></div><div><dt>{lang==='cs'?'Životnost a doložené stáří':'Lifespan and documented age'}</dt><dd>{profile.data.longevity}</dd></div><div><dt>{lang==='cs'?'Jak číst údaje':'Reading these figures'}</dt><dd>{lang==='cs'?'Údaje o taxonu; skutečná velikost a kvetení v zahradě závisí na podmínkách.':'Taxon characteristics; actual size and flowering in the garden depend on conditions.'}</dd></div></dl>
+
+<div class="article-body plant-description"><Content/></div>

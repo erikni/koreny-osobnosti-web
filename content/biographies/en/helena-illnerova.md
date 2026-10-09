@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech physiologist and biochemist, former president of the Czech Academy of Sciences.
+
+For this entry, the garden identifies the planters or representatives as: Helena Illnerová. The linked planting article provides the plant record and the documented circumstances of participation.

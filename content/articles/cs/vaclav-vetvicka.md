@@ -9,12 +9,4 @@ status: ready
 
 Český botanik a popularizátor rostlinného světa.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **hrušeň vrbolistá** (*Pyrus salicifolia 'Pendula'*).
-
-**Rok:** 2018.
-
-**Sázející nebo zástupci:** Václav Větvička.
-
-
+U této položky zahrada uvádí jako sázející nebo zástupce: Václav Větvička. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

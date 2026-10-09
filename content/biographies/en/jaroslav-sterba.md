@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech paediatric oncologist and university educator.
+
+For this entry, the garden identifies the planters or representatives as: Jaroslav Štěrba according to the current catalogue; Martina Šmuková according to the 2009 report. The linked planting article provides the plant record and the documented circumstances of participation.

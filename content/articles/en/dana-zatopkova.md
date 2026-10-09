@@ -5,16 +5,11 @@ lang: en
 title: Dana Zátopková
 description: Dana Zátopková · Buxus sempervirens 'Blauer Heinz' · 2011
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Dana_Z%C3%A1topkov%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czechoslovak javelin thrower and Olympic champion.
+Dana Zátopková (née Ingrová , 19 September 1922 – 13 March 2020) was a Czech javelin thrower who won a gold medal at the 1952 Summer Olympics.
 
-## Planting and plant
-
-This entry is associated with **Buxus sempervirens 'Blauer Heinz'**.
-
-**Year:** 2011.
-
-**Planters or representatives (as documented):** Dana Zátopková.
-
-
+At the 1952 Olympic Games, she won the gold medal in the javelin throw event at the 1952 Summer Olympics (only an hour after her husband, Emil Zátopek, won the 5,000 m), and the silver medal in the 1960 Summer Olympics. She was the European champion in 1954 and 1958.

@@ -5,16 +5,11 @@ lang: cs
 title: Karel Loprais
 description: Karel Loprais · Nothofagus antarctica · 2018
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Karel_Loprais
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Český automobilový závodník a šestinásobný vítěz Rallye Dakar v kategorii kamionů.
+Karel Loprais (4. března 1949 Ostrava – 30. prosince 2021 Nový Jičín) byl český automobilový závodník a šestinásobný vítěz automobilových závodů Rallye Dakar v kategorii kamionů.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **pabuk jižní** (*Nothofagus antarctica*).
-
-**Rok:** 2018.
-
-**Sázející nebo zástupci:** Karel Loprais.
-
-
+V květnu 2011 byl jmenován vládním zmocněncem pro oblast bezpečnosti silničního provozu. Dne 28. října 2017 převzal z rukou českého prezidenta Miloše Zemana české státní vyznamenání, medaili Za zásluhy.

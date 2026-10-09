@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech actor and comedian, a member of the Jára Cimrman Theatre.
+
+For this entry, the garden identifies the planters or representatives as: Zdeněk Svěrák, Bořivoj Penc, Petr Brukner, Jan Hraběta, Václav Kotek and David Smoljak. The linked planting article provides the plant record and the documented circumstances of participation.

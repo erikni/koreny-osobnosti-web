@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech writer and director of Pat & Mat animated films.
+
+For this entry, the garden identifies the planters or representatives as: Marek Beneš and Tereza Benešová. The linked planting article provides the plant record and the documented circumstances of participation.

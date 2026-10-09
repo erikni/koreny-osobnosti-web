@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Rodinná zástupkyně Alfonse Muchy při výsadbě v projektu.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Geraldine Muchová. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

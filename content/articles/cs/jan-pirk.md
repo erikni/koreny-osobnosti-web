@@ -5,16 +5,11 @@ lang: cs
 title: Jan Pirk
 description: Jan Pirk · Sorbus omissa · 2017
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Jan_Pirk
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Český kardiochirurg.
+Jan Pirk (* 20. dubna 1948 Praha) je český kardiochirurg, emeritní přednosta Kardiocentra a Kliniky kardiovaskulární chirurgie IKEM.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **jeřáb opominutý** (*Sorbus omissa*).
-
-**Rok:** 2017.
-
-**Sázející nebo zástupci:** Jan Pirk.
-
-
+Od října 2022 působí jako senátor za obvod č. 22 – Praha 10.

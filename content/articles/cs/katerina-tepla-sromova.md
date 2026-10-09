@@ -9,12 +9,4 @@ status: ready
 
 Česká nevidomá lyžařka a paralympijská vítězka.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **dub proměnlivý** (*Quercus variabilis*).
-
-**Rok:** 2018.
-
-**Sázející nebo zástupci:** Kateřina Teplá Šromová.
-
-
+U této položky zahrada uvádí jako sázející nebo zástupce: Kateřina Teplá Šromová. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

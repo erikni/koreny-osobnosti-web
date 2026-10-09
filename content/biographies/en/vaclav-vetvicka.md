@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Czech botanist and populariser of plant science.
+
+For this entry, the garden identifies the planters or representatives as: Václav Větvička. The linked planting article provides the plant record and the documented circumstances of participation.

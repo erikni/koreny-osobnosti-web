@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Česká nevidomá lyžařka a paralympijská vítězka.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Kateřina Teplá Šromová. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

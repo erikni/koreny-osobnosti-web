@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech cardiac surgeon.
+
+For this entry, the garden identifies the planters or representatives as: Jan Pirk. The linked planting article provides the plant record and the documented circumstances of participation.

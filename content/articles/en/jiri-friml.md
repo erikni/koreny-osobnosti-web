@@ -9,12 +9,4 @@ status: ready
 
 Czech biologist researching plant growth and its hormonal regulation.
 
-## Planting and plant
-
-This entry is associated with **Tilia platyphyllos var. vitifolia**.
-
-**Year:** 2021.
-
-**Planters or representatives (as documented):** Jiří Friml.
-
-
+For this entry, the garden identifies the planters or representatives as: Jiří Friml. The linked planting article provides the plant record and the documented circumstances of participation.

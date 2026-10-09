@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Účastník projektu Kořeny osobností. Ve zdrojích je uveden v souvislosti s položkou 99.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Václav Kuchynka, Tomáš Lom a Josef Skalka. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

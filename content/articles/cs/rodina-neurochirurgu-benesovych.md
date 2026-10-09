@@ -8,13 +8,3 @@ status: ready
 ---
 
 Výsadba je věnována třem generacím neurochirurgů rodiny Benešových.
-
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **jeřáb český** (*Sorbus bohemica*).
-
-**Rok:** 2020.
-
-**Sázející nebo zástupci:** Vladimír Beneš ml. a Vladimír Beneš nejml.; výsadba věnovaná třem generacím.
-
-

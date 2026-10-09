@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Česká lyžařka a deaflympijská vítězka.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Tereza Kmochová. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

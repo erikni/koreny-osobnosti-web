@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Rodinný zástupce Vladimíra Jiránka při výsadbě věnované Bobovi a Bobkovi.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Miroslav Jiránek s rodinou. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

@@ -5,16 +5,11 @@ lang: cs
 title: Jiří Menzel
 description: Jiří Menzel · Sequoiadendron giganteum 'Pendula' · 2010
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Menzel
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Český filmový a divadelní režisér, herec a držitel Oscara.
+Jiří Menzel (23. února 1938 Praha – 5. září 2020 Praha) byl český filmový a divadelní režisér, herec a spisovatel.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **sekvojovec obrovský** (*Sequoiadendron giganteum 'Pendula'*).
-
-**Rok:** 2010.
-
-**Sázející nebo zástupci:** Jiří Menzel.
-
-
+Je jedním z mála českých filmařů oceněných Oscarem, proslavil se zejména adaptacemi děl Bohumila Hrabala.

@@ -5,20 +5,11 @@ lang: cs
 title: Alice Masaryková
 description: Alice Masaryková · Quercus robur 'Salfast' · 2019
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Alice_Masarykov%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Česká veřejná činitelka a zakladatelka Československého červeného kříže.
+Alice Garrigue Masaryková (3. května 1879 Vídeň, Rakousko-Uhersko – 29. listopadu 1966 Chicago, USA) byla česká veřejná činitelka, zakladatelka a první předsedkyně Československého červeného kříže, bojovala za zlepšení sociální situace a vzdělávaní žen.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **dub letní** (*Quercus robur 'Salfast'*).
-
-**Rok:** 2019.
-
-**Sázející nebo zástupci:** Charlotta Kotíková.
-
-## Upřesnění
-
-Jeden společný strom Masarykových. Výroční zpráva 2019 přehazuje pořadí Alice a Jana.
-
-
+Byla dcerou Charlotty Garrigue Masarykové a Tomáše Garrigua Masaryka a po smrti své matky se stala první dámou Československa.

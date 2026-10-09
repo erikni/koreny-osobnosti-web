@@ -5,20 +5,11 @@ lang: cs
 title: Zdeněk Pecka
 description: Zdeněk Pecka · Betula lenta · 2021
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Zden%C4%9Bk_Pecka
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Československý veslař a dvojnásobný olympijský medailista.
+Zdeněk Pecka (6. února 1954 Litoměřice – 30. ledna 2024) byl český veslař, reprezentant Československa, olympionik, který získal dvě bronzové medaile z olympijských her, manžel československé běžkyně na lyžích Květy Jeriové.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **bříza tuhá - Betula lenta** (*Betula lenta*).
-
-**Rok:** 2021.
-
-**Sázející nebo zástupci:** Květa Jeriová Pecková a Zdeněk Pecka.
-
-## Upřesnění
-
-Společná výsadba s Květou Jeriovou Peckovou.
-
-
+Na Letních olympijských hrách v Montrealu 1976 získal bronzovou medaili v párové čtyřce a v Moskvě v roce 1980 také bronz ve dvojskifu.

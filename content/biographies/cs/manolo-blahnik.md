@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Módní návrhář, jehož jméno je spojeno především s obuví.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Manolo Blahník. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

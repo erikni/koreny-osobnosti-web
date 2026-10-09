@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Tibetský lama, který je uveden v projektu Kořeny osobností.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Mänri pönlob Thinlä Ňima Rinpočhe. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

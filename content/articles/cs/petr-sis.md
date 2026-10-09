@@ -5,16 +5,11 @@ lang: cs
 title: Petr Sís
 description: Petr Sís · Aesculus glabra 'Red Fall' · 2012
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Petr_S%C3%ADs
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Autor dětských knih, ilustrátor a tvůrce animovaných filmů českého původu.
+Petr Sís (též Peter Sís; * 11. května 1949 Brno) je autor knih pro děti, ilustrátor, grafik a tvůrce animovaných filmů českého původu.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **jírovec** (*Aesculus glabra 'Red Fall'*).
-
-**Rok:** 2012.
-
-**Sázející nebo zástupci:** Petr Sís.
-
-
+Narodil se v Brně jako syn režiséra Vladimíra Síse. Vyrůstal v Praze, kde v roce 1968 absolvoval Střední uměleckoprůmyslovou školu a v roce 1974 Vysokou školu uměleckoprůmyslovou (prof. Jiří Trnka, prof. Miloslav Jágr).

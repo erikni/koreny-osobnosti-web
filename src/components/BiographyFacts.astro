@@ -1,0 +1,15 @@
+---
+const {person,lang}=Astro.props;
+const d=person.data;
+const isCS=lang==='cs';
+const dateLabel=value=>new Intl.DateTimeFormat(isCS?'cs-CZ':'en-GB',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(value+'T00:00:00Z'));
+const highlights=d[isCS?'highlights_cs':'highlights_en']??[];
+---
+{d.birth_date&&<div><dt>{isCS?'Datum narození':'Date of birth'}</dt><dd><time datetime={d.birth_date}>{dateLabel(d.birth_date)}</time></dd></div>}
+{!d.birth_date&&d.birth_year&&<div><dt>{isCS?'Rok narození':'Year of birth'}</dt><dd>{d.birth_year}</dd></div>}
+{d.birth_place&&<div><dt>{isCS?'Místo narození':'Place of birth'}</dt><dd>{d.birth_place}</dd></div>}
+{d.death_date&&<div><dt>{isCS?'Datum úmrtí':'Date of death'}</dt><dd><time datetime={d.death_date}>{dateLabel(d.death_date)}</time></dd></div>}
+{!d.death_date&&d.death_year&&<div><dt>{isCS?'Rok úmrtí':'Year of death'}</dt><dd>{d.death_year}</dd></div>}
+{d.death_place&&<div><dt>{isCS?'Místo úmrtí':'Place of death'}</dt><dd>{d.death_place}</dd></div>}
+{d.residence&&<div><dt>{isCS?'Veřejně uvedené bydliště':'Publicly documented residence'}</dt><dd>{d.residence}</dd></div>}
+{highlights.length>0&&<div class="biography-highlights"><dt>{isCS?'Významné úspěchy a působení':'Notable achievements and career'}</dt><dd><ul>{highlights.map(item=><li>{item}</li>)}</ul></dd></div>}

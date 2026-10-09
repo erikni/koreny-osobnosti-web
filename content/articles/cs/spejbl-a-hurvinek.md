@@ -8,13 +8,3 @@ status: ready
 ---
 
 „Spejbl a Hurvínek“ je samostatnou položkou projektu Kořeny osobností. Výsadbu uskutečnil nebo zastupoval: Spejbl a Hurvínek / Divadlo Spejbla a Hurvínka.
-
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **lípa japonská** (*Tilia japonica*).
-
-**Rok:** 2013.
-
-**Sázející nebo zástupci:** Spejbl a Hurvínek / Divadlo Spejbla a Hurvínka.
-
-

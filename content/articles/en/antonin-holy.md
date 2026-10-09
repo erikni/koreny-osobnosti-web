@@ -5,18 +5,13 @@ lang: en
 title: Antonín Holý
 description: Antonín Holý · Aesculus carnea 'Briotii' · 2012
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Anton%C3%ADn_Hol%C3%BD
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
+planting_note: The year 2012 is verified. The exact day is omitted because of an internal
+  chronological conflict in the annual report.
 ---
 
-Czech chemist whose research contributed to the development of antiviral medicines.
+Antonín Holý (1 September 1936 – 16 July 2012) was a Czech medicinal chemist known for his research on acyclic nucleoside phosphonates (ANPs), an important class of antiviral nucleotide analogues. He spent most of his scientific career at the Institute of Organic Chemistry and Biochemistry in Prague, where he served as director from 1994 to 2002. In a long-term collaboration with virologist Erik De Clercq, Holý synthesized antiviral compounds including Cidofovir, Adefovir and Tenofovir.
 
-## Planting and plant
-
-This entry is associated with **Aesculus carnea 'Briotii'**.
-
-**Year:** 2012.
-
-**Planters or representatives (as documented):** Antonín Holý.
-
-## Clarification
-
-The year 2012 is verified. The exact day is omitted because of an internal chronological conflict in the annual report.
+These compounds were subsequently developed into medicines used against Cytomegalovirus infections, Hepatitis B and HIV/AIDS. Tenofovir also became a component of combination therapies used for both HIV treatment and prevention. Holý's work has been credited with improving or extending the lives of millions of people with viral diseases worldwide. Over his career, he co-authored around 600 scientific publications and held more than 60 patents.

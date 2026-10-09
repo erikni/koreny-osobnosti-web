@@ -9,16 +9,4 @@ status: ready
 
 Český botanik a někdejší ředitel botanických zahrad v Praze a Teplicích.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **liliovník tulipánokvětý - Liriodendron tulipifera** (*Liriodendron tulipifera*).
-
-**Rok:** 2024.
-
-**Sázející nebo zástupci:** Lída Haagerová a vnuk Tadeáš.
-
-## Upřesnění
-
-Pamětní výsadba po smrti Jiřího Haagera.
-
-
+U této položky zahrada uvádí jako sázející nebo zástupce: Lída Haagerová a vnuk Tadeáš. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

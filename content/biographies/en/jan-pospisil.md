@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Czechoslovak cycle-ball player and twenty-time world champion with his brother Jindřich.
+
+For this entry, the garden identifies the planters or representatives as: Jan Pospíšil; the tree honours both brothers. The linked planting article provides the plant record and the documented circumstances of participation.

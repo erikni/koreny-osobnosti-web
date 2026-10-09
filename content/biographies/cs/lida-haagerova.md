@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Rodinná zástupkyně Jiřího Haagera při pamětní výsadbě.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Lída Haagerová a vnuk Tadeáš. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

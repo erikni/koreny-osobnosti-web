@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech manager and former director of Prague Zoo.
+
+For this entry, the garden identifies the planters or representatives as: Petr Fejk. The linked planting article provides the plant record and the documented circumstances of participation.

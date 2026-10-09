@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Czech television and radio presenter.
+
+For this entry, the garden identifies the planters or representatives as: Štěpánka Duchková and Jan Hruška. The linked planting article provides the plant record and the documented circumstances of participation.

@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Český botanik a někdejší ředitel botanických zahrad v Praze a Teplicích.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Lída Haagerová a vnuk Tadeáš. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

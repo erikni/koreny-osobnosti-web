@@ -8,17 +8,3 @@ status: ready
 ---
 
 Jindřich a Jan Pospíšilovi jsou českoslovenští hráči kolové a dvacetinásobní mistři světa.
-
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **jasan americký - Fraxinus americana** (*Fraxinus americana*).
-
-**Rok:** 2023.
-
-**Sázející nebo zástupci:** Jan Pospíšil; strom věnovaný oběma bratrům.
-
-## Upřesnění
-
-Jedna číslovaná položka pro dva bratry.
-
-

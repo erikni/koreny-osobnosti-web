@@ -5,16 +5,11 @@ lang: en
 title: Ludvík Vaculík
 description: Ludvík Vaculík · Aesculus carnea 'Fort Mc Nair' · 2012
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Ludv%C3%ADk_Vacul%C3%ADk
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech writer, journalist and dissident, author of the Two Thousand Words manifesto.
+Ludvík Vaculík  (23 July 1926 – 6 June 2015) was a Czech writer and journalist.
 
-## Planting and plant
-
-This entry is associated with **Aesculus carnea 'Fort Mc Nair'**.
-
-**Year:** 2012.
-
-**Planters or representatives (as documented):** Ludvík Vaculík.
-
-
+He was born in Brumov, Moravian Wallachia. A prominent samizdat writer, he was best known as the author of the "Two Thousand Words" manifesto of June 1968.

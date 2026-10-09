@@ -5,16 +5,11 @@ lang: en
 title: Meda Mládková
 description: Meda Mládková · Photinia parvifolia · 2013
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Meda_Ml%C3%A1dkov%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech art patron and collector, founder of Museum Kampa.
+Marie Magdalena Františka "Meda" Mládková (née Sokolová, 8 September 1919 – 3 May 2022) was a Czech art collector.
 
-## Planting and plant
-
-This entry is associated with **Photinia parvifolia**.
-
-**Year:** 2013.
-
-**Planters or representatives (as documented):** Meda Mládková.
-
-
+Her husband, Jan Viktor Mládek (1911–1989), was an economist and a governor of the IMF. Having spent several years in exile, she returned to Czechoslovakia after the Velvet Revolution of 1989.

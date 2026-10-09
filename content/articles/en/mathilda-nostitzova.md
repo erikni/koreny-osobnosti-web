@@ -9,12 +9,4 @@ status: ready
 
 Czech noblewoman and patron of a foundation supporting people with visual impairments.
 
-## Planting and plant
-
-This entry is associated with **Lycaste skinneri**.
-
-**Year:** 2010.
-
-**Planters or representatives (as documented):** Mathilda Nostitzová.
-
-
+For this entry, the garden identifies the planters or representatives as: Mathilda Nostitzová. The linked planting article provides the plant record and the documented circumstances of participation.

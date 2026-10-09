@@ -5,16 +5,11 @@ lang: cs
 title: Dagmar Havlová
 description: Dagmar Havlová · Acer palmatum · 2013
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Dagmar_Havlov%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Česká herečka a filantropka, někdejší první dáma České republiky.
+Dagmar Havlová (rozená Veškrnová, od roku 2016 Havlová Veškrnová, * 22. března 1953 Brno) je česká herečka a filantropka.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **javor dlanitolistý** (*Acer palmatum*).
-
-**Rok:** 2013.
-
-**Sázející nebo zástupci:** Dagmar Havlová.
-
-
+V letech 1997–2003 byla první dámou České republiky z titulu manželky prezidenta republiky Václava Havla.

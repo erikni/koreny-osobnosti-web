@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Czech reserve army officer and wife of President Petr Pavel.
+
+For this entry, the garden identifies the planters or representatives as: Petr Pavel and Eva Pavlová. The linked planting article provides the plant record and the documented circumstances of participation.

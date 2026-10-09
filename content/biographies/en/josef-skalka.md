@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Participant in Kořeny osobností, documented in connection with project entry 99.
+
+For this entry, the garden identifies the planters or representatives as: Václav Kuchynka, Tomáš Lom and Josef Skalka. The linked planting article provides the plant record and the documented circumstances of participation.

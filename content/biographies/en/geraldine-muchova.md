@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Family representative of Alfons Mucha at the project planting.
+
+For this entry, the garden identifies the planters or representatives as: Geraldine Muchová. The linked planting article provides the plant record and the documented circumstances of participation.

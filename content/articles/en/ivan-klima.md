@@ -5,16 +5,11 @@ lang: en
 title: Ivan Klíma
 description: Ivan Klíma · Aesculus sp. · 2012
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Ivan_Kl%C3%ADma
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech novelist and playwright.
+Ivan Klíma (born Ivan Kauders, 9 September 1931 – 4 October 2025) was a Czech novelist and playwright.
 
-## Planting and plant
-
-This entry is associated with **Aesculus sp.**.
-
-**Year:** 2012.
-
-**Planters or representatives (as documented):** Ivan Klíma.
-
-
+He received the Magnesia Litera award and the Franz Kafka Prize, among other honours.

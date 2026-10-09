@@ -5,16 +5,11 @@ lang: en
 title: Jan Hřebejk
 description: Jan Hřebejk · Castanea sativa 'Vincent van Gogh' · 2010
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Jan_H%C5%99ebejk
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech film, television and theatre director.
+Jan Hřebejk (born 27 June 1967) is a Czech film director and actor.
 
-## Planting and plant
-
-This entry is associated with **Castanea sativa 'Vincent van Gogh'**.
-
-**Year:** 2010.
-
-**Planters or representatives (as documented):** Jan Hřebejk.
-
-
+His films are known for their reflection on Czech history, family life, and morality.

@@ -9,12 +9,4 @@ status: ready
 
 Czech botanist and populariser of plant science.
 
-## Planting and plant
-
-This entry is associated with **Pyrus salicifolia 'Pendula'**.
-
-**Year:** 2018.
-
-**Planters or representatives (as documented):** Václav Větvička.
-
-
+For this entry, the garden identifies the planters or representatives as: Václav Větvička. The linked planting article provides the plant record and the documented circumstances of participation.

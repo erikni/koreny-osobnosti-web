@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Účastník projektu Kořeny osobností. Ve zdrojích je uveden v souvislosti s položkou 107.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Vladimír Beneš ml. a Vladimír Beneš nejml.; výsadba věnovaná třem generacím. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

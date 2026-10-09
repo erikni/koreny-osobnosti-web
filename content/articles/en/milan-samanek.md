@@ -9,12 +9,4 @@ status: ready
 
 Czech paediatrician specialising in paediatric cardiology.
 
-## Planting and plant
-
-This entry is associated with **Tilia platyphyllos**.
-
-**Year:** 2017.
-
-**Planters or representatives (as documented):** Milan Šamánek.
-
-
+For this entry, the garden identifies the planters or representatives as: Milan Šamánek. The linked planting article provides the plant record and the documented circumstances of participation.

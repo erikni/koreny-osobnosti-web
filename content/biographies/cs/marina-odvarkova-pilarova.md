@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Dcera výtvarníka Radka Pilaře, která se s rodinou účastnila výsadby věnované Večerníčkovi.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Marina Odvárková Pilařová s rodinou. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

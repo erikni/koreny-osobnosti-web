@@ -5,18 +5,13 @@ lang: en
 title: Madeleine Albrightová
 description: Madeleine Albrightová · Pinus thunbergii · 2012
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Madeleine_Albright
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
+planting_note: In 2012, Albright became patron of an existing bonsai planted in 2010.
+  The year used here indicates entry into the project.
 ---
 
-Czech-born American diplomat and the first woman to serve as US Secretary of State.
+Madeleine Jana Korbel Albright (born Marie Jana Körbelová; May 15, 1937 – March 23, 2022) was an American diplomat and political scientist who served as the 64th United States secretary of state under President Bill Clinton from 1997 to 2001. A member of the Democratic Party, she was the first woman to hold the position. Born in Prague, Czechoslovakia, Albright immigrated to the United States after the 1948 communist coup d'état when she was eleven years old. Her father, diplomat Josef Korbel, settled the family in Denver, Colorado, and she became a U.S. citizen in 1957. Albright graduated from Wellesley College in 1959 and earned a PhD from Columbia University in 1975, writing her thesis on the Prague Spring.
 
-## Planting and plant
-
-This entry is associated with **Pinus thunbergii**.
-
-**Year:** 2012.
-
-**Planters or representatives (as documented):** Madeleine Albrightová.
-
-## Clarification
-
-In 2012, Albright became patron of an existing bonsai planted in 2010. The year used here indicates entry into the project.
+She worked as an aide to Senator Edmund Muskie from 1976 to 1978, before serving as a staff member on the National Security Council under Zbigniew Brzezinski. She served in that position until 1981 when President Jimmy Carter left office. After leaving the National Security Council, Albright joined the academic faculty of Georgetown University in 1982 and advised Democratic candidates regarding foreign policy. Following the 1992 presidential election, Albright helped assemble President Bill Clinton's National Security Council. She was appointed United States ambassador to the United Nations, a position she held until her elevation as secretary of state in 1997.

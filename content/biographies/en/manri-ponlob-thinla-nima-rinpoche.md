@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Tibetan lama included in the Kořeny osobností project.
+
+For this entry, the garden identifies the planters or representatives as: Mänri pönlob Thinlä Ňima Rinpočhe. The linked planting article provides the plant record and the documented circumstances of participation.

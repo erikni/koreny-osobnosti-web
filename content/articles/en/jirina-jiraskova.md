@@ -5,16 +5,11 @@ lang: en
 title: Jiřina Jirásková
 description: Jiřina Jirásková · Dendrobium sanderae · 2010
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Ji%C5%99ina_Jir%C3%A1skov%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Czech actress who also directed the Vinohrady Theatre.
+Jiřina Jirásková (17 February 1931 – 7 January 2013) was a Czech actress.
 
-## Planting and plant
-
-This entry is associated with **Dendrobium sanderae**.
-
-**Year:** 2010.
-
-**Planters or representatives (as documented):** Jiřina Jirásková.
-
-
+She was born and died in Prague, Czech Republic.

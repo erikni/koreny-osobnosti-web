@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Vnučka režiséra Lubomíra Beneše a účastnice výsadby věnované Patovi a Matovi.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Marek Beneš a Tereza Benešová. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

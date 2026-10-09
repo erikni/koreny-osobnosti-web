@@ -5,23 +5,11 @@ lang: cs
 title: Štefan Margita
 description: Štefan Margita · Malus toringoides · 2012
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/%C5%A0tefan_Margita
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Operní tenor slovenského původu, který působil na světových operních scénách.
+Štefan Margita (* 3. srpna 1956 Košice) je operní pěvec – tenor slovenského původu, žijící v Praze.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **Jabloň laločnatá** (*Malus toringoides*).
-
-**Rok:** 2012.
-
-**Sázející nebo zástupci:** Štefan Margita.
-
-## Upřesnění
-
-Leták 2017 uvádí Broussonetia kazinoki; současný seznam a zpráva 2012 Malus toringoides.
-
-## Historický název v pramenech
-
-Broussonetia kazinoki (leták 2017). Údaj uchováváme pro srovnání s aktuálním seznamem zahrady.
-
+V minulosti již působil na scénách světových operních domů v milánské La Scale, londýnské Covent Garden a v roce 2008 i v newyorské Metropolitní opeře. Mezi jeho stěžejní repertoár patří opery Leoše Janáčka (Káťa Kabanová, Z mrtvého domu, Osud) a postava Tambourmajora z opery Vojcek od Albana Berga, s níž vystoupil v Paříži, Římě či Berlíně.

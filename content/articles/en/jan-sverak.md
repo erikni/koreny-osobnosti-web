@@ -6,22 +6,14 @@ title: Jan Svěrák
 description: Jan Svěrák · × Sorbocrataegua 'Granatina' (zápis zdroje, identita neověřena)
   · 2010
 status: ready
+biography_source: https://en.wikipedia.org/wiki/Jan_Sv%C4%9Br%C3%A1k
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
+planting_note: The current catalogue spells the name × Sorbocrataegua Granatina; a
+  2017 leaflet gives ×Sorbopyrus auricularis. Botanical identity needs confirmation
+  from the garden.
 ---
 
-Czech film director, screenwriter and producer.
+Jan Svěrák (born 6 February 1965) is a Czech film director and screenwriter. He is the son of screenwriter and actor Zdeněk Svěrák, with whom he collaborated on his most successful films.
 
-## Planting and plant
-
-This entry is associated with **× Sorbocrataegua 'Granatina' (zápis zdroje, identita neověřena)**.
-
-**Year:** 2010.
-
-**Planters or representatives (as documented):** Jan Svěrák.
-
-## Historical name in the references
-
-×Sorbopyrus auricularis (leták 2017). This historical designation is retained for comparison with the current garden catalogue.
-
-## Clarification
-
-The current catalogue spells the name × Sorbocrataegua Granatina; a 2017 leaflet gives ×Sorbopyrus auricularis. Botanical identity needs confirmation from the garden.
+He is among the most recognised Czech filmmakers. His best-known films are the Oscar-winning Kolya and the Oscar-nominated The Elementary School.

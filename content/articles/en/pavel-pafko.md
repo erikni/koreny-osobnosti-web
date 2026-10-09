@@ -9,12 +9,4 @@ status: ready
 
 Czech surgeon specialising in abdominal and thoracic surgery.
 
-## Planting and plant
-
-This entry is associated with **Sorbus omissa**.
-
-**Year:** 2017.
-
-**Planters or representatives (as documented):** Pavel Pafko.
-
-
+For this entry, the garden identifies the planters or representatives as: Pavel Pafko. The linked planting article provides the plant record and the documented circumstances of participation.

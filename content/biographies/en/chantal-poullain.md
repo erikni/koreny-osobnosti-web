@@ -10,3 +10,5 @@ source_urls:
 ---
 
 French-born stage and film actress working in the Czech Republic.
+
+For this entry, the garden identifies the planters or representatives as: Chantal Poullain. The linked planting article provides the plant record and the documented circumstances of participation.

@@ -10,12 +10,4 @@ status: ready
 
 Tibetský lama, který je uveden v projektu Kořeny osobností.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **kamélie japonská** (*Camellia japonica 'April Snow'*).
-
-**Rok:** 2011.
-
-**Sázející nebo zástupci:** Mänri pönlob Thinlä Ňima Rinpočhe.
-
-
+U této položky zahrada uvádí jako sázející nebo zástupce: Mänri pönlob Thinlä Ňima Rinpočhe. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

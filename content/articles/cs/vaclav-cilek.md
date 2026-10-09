@@ -5,16 +5,11 @@ lang: cs
 title: Václav Cílek
 description: Václav Cílek · Betula pendula 'Vaněk' · 2023
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/V%C3%A1clav_C%C3%ADlek
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Český geolog, spisovatel a popularizátor vědy.
+Václav Cílek (* 11. května 1955 Brno) je český geolog, spisovatel a popularizátor vědy.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **bříza bělokorá - Betula pendula - kultivar 'Vaněk' s panašovanými listy** (*Betula pendula 'Vaněk'*).
-
-**Rok:** 2023.
-
-**Sázející nebo zástupci:** Václav Cílek.
-
-
+V letech 2004–2012 byl ředitelem Geologického ústavu Akademie věd ČR.

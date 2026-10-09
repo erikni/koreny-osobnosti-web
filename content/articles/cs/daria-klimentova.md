@@ -5,23 +5,11 @@ lang: cs
 title: Daria Klimentová
 description: Daria Klimentová · Adansonia fony var. rubrostipa · 2014
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Daria_Klimentov%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Česká tanečnice a taneční pedagožka.
+Daria Klimentová (* 23. června 1971 Praha) je česká taneční pedagožka, bývalá tanečnice a fotografka.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **baobab** (*Adansonia fony var. rubrostipa*).
-
-**Rok:** 2014.
-
-**Sázející nebo zástupci:** Daria Klimentová.
-
-## Upřesnění
-
-Současný seznam: Adansonia fony var. rubrostipa; dobová zpráva 2014: Adansonia rubrostipa.
-
-## Historický název v pramenech
-
-Adansonia rubrostipa. Údaj uchováváme pro srovnání s aktuálním seznamem zahrady.
-
+Od roku 1991 působila ve všech angažmá jako primabalerína. V roce 1992 přijala angažmá v městském baletním souboru Kapského Města, od sezóny 1993 tančila ve Skotském baletu a od roku 1996 byla první sólistkou Anglického národního baletu. Do roku 2010 odtancovala přes tisíc představení. Vyhrála několik mezinárodních soutěží.

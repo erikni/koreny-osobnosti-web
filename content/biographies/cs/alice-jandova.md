@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Účastník projektu Kořeny osobností. Ve zdrojích je uveden v souvislosti s položkou 4.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Petr Janda a Alice Jandová. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

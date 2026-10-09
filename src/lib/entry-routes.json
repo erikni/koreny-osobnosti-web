@@ -1,0 +1,510 @@
+{
+  "otto-hrodek": {
+    "cs": "lekar",
+    "en": "doctor"
+  },
+  "stefan-margita": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "jan-zelezny": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "bob-a-bobek-a-vladimir-jiranek": {
+    "cs": "postava",
+    "en": "character"
+  },
+  "antonin-panenka": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "gabriela-koukalova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "mathilda-nostitzova": {
+    "cs": "mecenas",
+    "en": "philanthropist"
+  },
+  "kapka-nadeje": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "radek-jaros": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "nicholas-winton": {
+    "cs": "mecenas",
+    "en": "philanthropist"
+  },
+  "theodor-pistek": {
+    "cs": "vytvarnik",
+    "en": "artist"
+  },
+  "adriana-krnacova": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "venceslava-hrdlickova": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "petr-sis": {
+    "cs": "vytvarnik",
+    "en": "artist"
+  },
+  "miroslav-zikmund": {
+    "cs": "cestovatel",
+    "en": "traveller"
+  },
+  "fond-ohrozenych-deti-klokanek": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "alice-masarykova": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "jiri-suchy": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "meda-mladkova": {
+    "cs": "mecenas",
+    "en": "philanthropist"
+  },
+  "stepanka-hilgertova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "jiri-haager": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "david-ondricek": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "iva-janzurova": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "14-dalajlama": {
+    "cs": "duchovni",
+    "en": "spiritual-leader"
+  },
+  "josef-masopust": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "petr-pavel": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "ludvik-vaculik": {
+    "cs": "spisovatel",
+    "en": "writer"
+  },
+  "libor-pesek": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "rodina-neurochirurgu-benesovych": {
+    "cs": "lekar",
+    "en": "doctor"
+  },
+  "karel-gott": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "manri-ponlob-thinla-nima-rinpoche": {
+    "cs": "duchovni",
+    "en": "spiritual-leader"
+  },
+  "archa-chantal": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "jirina-bohdalova": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "jan-pirk": {
+    "cs": "lekar",
+    "en": "doctor"
+  },
+  "petr-janda": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "tomas-garrigue-masaryk": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "bohuslav-svoboda": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "miroslav-ondricek": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "jiri-friml": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "pat-a-mat-a-lubomir-benes": {
+    "cs": "postava",
+    "en": "character"
+  },
+  "vladimir-remek": {
+    "cs": "kosmonaut",
+    "en": "astronaut"
+  },
+  "vozickari": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "manolo-blahnik": {
+    "cs": "vytvarnik",
+    "en": "artist"
+  },
+  "petr-fejk": {
+    "cs": "reditel",
+    "en": "director"
+  },
+  "josef-koutecky": {
+    "cs": "lekar",
+    "en": "doctor"
+  },
+  "martin-doktor": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "dana-zatopkova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "sos-detske-vesnicky": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "vojtech-jasny": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "kveta-jeriova-peckova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "tomas-hudecek": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "jindrich-a-jan-pospisilovi": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "tomas-j-bata": {
+    "cs": "podnikatel",
+    "en": "entrepreneur"
+  },
+  "david-drahoninsky": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "nase-dite": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "jan-hrebejk": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "pavel-sporcl": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "karel-loprais": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "richard-konkolski": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "petra-kvitova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "zdenek-hrib": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "pavel-nedved": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "milan-samanek": {
+    "cs": "lekar",
+    "en": "doctor"
+  },
+  "vecernicek": {
+    "cs": "postava",
+    "en": "character"
+  },
+  "pierre-richard": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "marta-kubisova": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "vaclav-vetvicka": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "katerina-tepla-sromova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "tomas-bata": {
+    "cs": "podnikatel",
+    "en": "entrepreneur"
+  },
+  "jan-masaryk": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "jiri-jezek": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "pysna-princezna-alena-vranova": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "jara-cimrman": {
+    "cs": "postava",
+    "en": "character"
+  },
+  "nadacni-fond-krtek": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "nedoklubko": {
+    "cs": "spolek",
+    "en": "organisation"
+  },
+  "lucie-bila": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "jiri-menzel": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "otto-wichterle": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "bohdan-pomahac": {
+    "cs": "lekar",
+    "en": "doctor"
+  },
+  "ester-ledecka": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "martin-hilsky": {
+    "cs": "spisovatel",
+    "en": "writer"
+  },
+  "antonin-kratochvil": {
+    "cs": "vytvarnik",
+    "en": "artist"
+  },
+  "alfons-mucha": {
+    "cs": "vytvarnik",
+    "en": "artist"
+  },
+  "jirina-jiraskova": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "antonin-holy": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "katerina-neumannova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "barbora-spotakova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "vaclav-cilek": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "eva-jiricna": {
+    "cs": "architekt",
+    "en": "architect"
+  },
+  "zdenek-pecka": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "tatana-gregor-kucharova": {
+    "cs": "modelka",
+    "en": "model"
+  },
+  "jiri-kylian": {
+    "cs": "tanecnik",
+    "en": "dancer"
+  },
+  "zuzana-caputova": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "sona-cervena": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "emil-zatopek": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "kadokawa-daisaku": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "pavel-bem": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "jan-sverak": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "dagmar-peckova": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "vaclav-havel": {
+    "cs": "politik",
+    "en": "politician"
+  },
+  "jiri-belohlavek": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "anna-geislerova": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "dagmar-havlova": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "andrew-j-feustel": {
+    "cs": "kosmonaut",
+    "en": "astronaut"
+  },
+  "otakar-vavra": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "krtek-a-zdenek-miler": {
+    "cs": "postava",
+    "en": "character"
+  },
+  "daria-klimentova": {
+    "cs": "tanecnik",
+    "en": "dancer"
+  },
+  "lukas-krpalek": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "josef-vana": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "valecni-veterani": {
+    "cs": "veteran",
+    "en": "veteran"
+  },
+  "jiri-hanzelka": {
+    "cs": "cestovatel",
+    "en": "traveller"
+  },
+  "helena-trestikova": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "jiri-anderle": {
+    "cs": "vytvarnik",
+    "en": "artist"
+  },
+  "pavel-pafko": {
+    "cs": "lekar",
+    "en": "doctor"
+  },
+  "lida-rakusanova": {
+    "cs": "novinar",
+    "en": "journalist"
+  },
+  "helena-illnerova": {
+    "cs": "vedec",
+    "en": "scientist"
+  },
+  "magdalena-kozena": {
+    "cs": "hudebnik",
+    "en": "musician"
+  },
+  "tereza-kmochova": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "ivan-klima": {
+    "cs": "spisovatel",
+    "en": "writer"
+  },
+  "vaclav-postranecky": {
+    "cs": "herec",
+    "en": "actor"
+  },
+  "spejbl-a-hurvinek": {
+    "cs": "postava",
+    "en": "character"
+  },
+  "petr-cech": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "adam-ondra": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "vera-caslavska": {
+    "cs": "sportovec",
+    "en": "athlete"
+  },
+  "milos-forman": {
+    "cs": "reziser",
+    "en": "filmmaker"
+  },
+  "ctyrlistek-a-jaroslav-nemecek": {
+    "cs": "postava",
+    "en": "character"
+  },
+  "madeleine-albrightova": {
+    "cs": "politik",
+    "en": "politician"
+  }
+}

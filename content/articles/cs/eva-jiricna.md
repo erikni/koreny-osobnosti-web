@@ -5,23 +5,11 @@ lang: cs
 title: Eva Jiřičná
 description: Eva Jiřičná · Phalaenopsis schilleriana · 2011
 status: ready
+biography_source: https://cs.wikipedia.org/wiki/Eva_Ji%C5%99i%C4%8Dn%C3%A1
+text_license: CC BY-SA 4.0
+text_adaptation: excerpt and paragraph layout
 ---
 
-Česká architektka a designérka působící v Praze a Londýně.
+Eva Jiřičná (* 3. března 1939 Zlín) je česká architektka a designérka, aktivní v Londýně a Praze.
 
-## Výsadba a rostlina
-
-Rostlina spojená s touto položkou je **orchidej Phalaenopsis schilleriana** (*Phalaenopsis schilleriana*).
-
-**Rok:** 2011.
-
-**Sázející nebo zástupci:** Eva Jiřičná.
-
-## Upřesnění
-
-Současný seznam: Phalaenopsis schilleriana. Výroční zpráva 2011 uvádí při výsadbě Renanthera; nepovažováno za tentýž taxon.
-
-## Historický název v pramenech
-
-Renanthera (druh v reportu neurčen). Údaj uchováváme pro srovnání s aktuálním seznamem zahrady.
-
+Má dva architektonické ateliéry – v Londýně a AI Design se sídlem v Praze, který založila s architektem Petrem Vágnerem v roce 1999.

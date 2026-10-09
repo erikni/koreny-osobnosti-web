@@ -9,3 +9,5 @@ source_urls:
 ---
 
 Japonský politik, který působil jako starosta Kjóta.
+
+U této položky zahrada uvádí jako sázející nebo zástupce: Kadokawa Daisaku. Podrobnosti o výsadbě a související rostlině jsou uvedeny v navazujícím článku.

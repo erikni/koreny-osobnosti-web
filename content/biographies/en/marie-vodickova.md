@@ -10,3 +10,5 @@ source_urls:
 ---
 
 Founder of the Fund for Children in Need and the Klokánek project.
+
+For this entry, the garden identifies the planters or representatives as: Marie Vodičková. The linked planting article provides the plant record and the documented circumstances of participation.

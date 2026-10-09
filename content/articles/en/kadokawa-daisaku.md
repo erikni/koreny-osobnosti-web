@@ -9,12 +9,4 @@ status: ready
 
 Japanese politician who served as mayor of Kyoto.
 
-## Planting and plant
-
-This entry is associated with **Prunus mume**.
-
-**Year:** 2016.
-
-**Planters or representatives (as documented):** Kadokawa Daisaku.
-
-
+For this entry, the garden identifies the planters or representatives as: Kadokawa Daisaku. The linked planting article provides the plant record and the documented circumstances of participation.
