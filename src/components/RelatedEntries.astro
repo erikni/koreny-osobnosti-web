@@ -1,0 +1,24 @@
+---
+import {url} from '../lib/catalog';
+import {plantLabel} from '../lib/seo';
+const {entry,entries,plant,category,lang}=Astro.props;
+const cs=lang==='cs';
+const others=entries.filter(e=>e.data.id!==entry.data.id).sort((a,b)=>a.data.sort_name.localeCompare(b.data.sort_name,lang));
+const samePlant=others.filter(e=>e.data.plant_id===entry.data.plant_id).slice(0,4);
+const sameCategory=others.filter(e=>e.data.category_id===entry.data.category_id&&!samePlant.some(p=>p.data.id===e.data.id)).slice(0,4);
+---
+{(samePlant.length>0||sameCategory.length>0)&&<nav class="related-entries" aria-label={cs?'Související osobnosti a výsadby':'Related people and plantings'}>
+  <h2>{cs?'Objevte další osobnosti a výsadby':'Discover more people and plantings'}</h2>
+  {samePlant.length>0&&<section data-relation="plant">
+    <h3>{cs?'Stejná rostlina':'The same plant'}: <a href={url(lang,'plants',plant.data.id)}>{plantLabel(plant.data,lang)}</a></h3>
+    <ul class="entry-links">{samePlant.map(e=><li><a href={url(lang,'entries',e.data.id)}>{e.data.name}</a> · {e.data.year??(cs?'rok není doložen':'year unconfirmed')}</li>)}</ul>
+  </section>}
+  {sameCategory.length>0&&<section data-relation="category">
+    <h3>{cs?'Stejná kategorie':'The same category'}: <a href={url(lang,'category',category.data.id)}>{category.data[cs?'name_cs':'name_en']}</a></h3>
+    <ul class="entry-links">{sameCategory.map(e=><li><a href={url(lang,'entries',e.data.id)}>{e.data.name}</a> · {e.data.year??(cs?'rok není doložen':'year unconfirmed')}</li>)}</ul>
+  </section>}
+</nav>}
+<style>
+  .related-entries{margin:2rem 0;padding:1.5rem;border:1px solid var(--line,#d6ddcf);border-radius:1rem;background:var(--pale,#f0f3e9)}
+  .related-entries h2{margin-top:0}.related-entries h3{font-size:1.05rem}.related-entries .entry-links{margin-bottom:0}
+</style>
