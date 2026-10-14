@@ -2,7 +2,7 @@
 id: visit-cs
 lang: cs
 page_id: visit
-title: "Stezka osobností: průvodce návštěvou zahrady"
+title: Jak se k nám dostanete
 status: ready
 sources:
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti.html
@@ -12,6 +12,18 @@ sources:
 ---
 
 Kořeny osobností najdete v Botanické zahradě hl. m. Prahy v Troji. Stezka osobností propojuje výsadby projektu, který začal v roce 2009; návštěvnická trasa byla otevřena v roce 2017. Na procházku si můžete předem vybrat jména, která vás zajímají, a poznat jejich rostliny.
+
+## Městskou dopravou
+
+Z **Nádraží Holešovice** (metro C) jeďte autobusem **112 nebo 234** do zastávky **Kovárna** pro vstup z Troji. Ke skleníku Fata Morgana využijte linku **234** do zastávky **Botanická zahrada Troja** a pokračujte podle značení.
+
+Z **Kobylis** (metro C) jeďte autobusem **102 nebo 144** do zastávky **Na Pazderce**, odkud se dostanete ke vstupu Bohnice. Před cestou ověřte aktuální spojení a případné výluky.
+
+## Autem a pěšky
+
+Placené parkoviště zahrady je u hlavního vstupu **Bohnice** v severní části areálu; příjezd vede z ulice **K Pazderkám**. Aktuální podmínky parkování najdete na [oficiální stránce Jak k nám](https://www.botanicka.cz/pro-navstevniky/zakladni-informace/kudy-do-zahrady-parkoviste-planky.html).
+
+Pěší vstup zvolte podle své trasy. Zahrada nabízí mapu vstupů a pokladen na stejné stránce; pomůže vám najít nejbližší přístup do areálu.
 
 ## Jak si naplánovat procházku
 
@@ -43,4 +55,4 @@ Pro výběr příběhu s dětmi můžete začít v kategorii [Pohádkové a diva
 
 Vždy si přečtěte údaj o sázejícím nebo zástupcích na detailu. Poctěná osobnost, rodinný zástupce a další účastník nejsou totéž. Nedoložený rok ponecháváme jako neznámý.
 
-*Praktické podklady ověřeny 9. října 2026; před návštěvou zkontrolujte aktuální informace zahrady.*
+*Praktické podklady ověřeny 14. října 2026; před návštěvou zkontrolujte aktuální informace zahrady.*

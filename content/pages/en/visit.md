@@ -2,7 +2,7 @@
 id: visit-en
 lang: en
 page_id: visit
-title: "Trail of Personalities: a guide to visiting the garden"
+title: Getting here
 status: ready
 sources:
 - https://www.botanicka.cz/pro-navstevniky/navstevnicke-okruhy/koreny-osobnosti.html
@@ -12,6 +12,16 @@ sources:
 ---
 
 You can explore Kořeny osobností at Prague Botanical Garden in Troja. The project began in 2009, and its Trail of Personalities opened in 2017 to connect the plantings. Choose people whose stories interest you before your walk and discover the plants associated with them.
+
+## By public transport
+
+From **Nádraží Holešovice** (metro line C), take bus **112 or 234** to **Kovárna** for the Troja entrance. For the Fata Morgana greenhouse, take bus **234** to **Botanická zahrada Troja** and follow the signs.
+
+From **Kobylisy** (metro line C), take bus **102 or 144** to **Na Pazderce** for the Bohnice entrance. Check current services and any diversions before travelling.
+
+## By car or on foot
+
+The garden's paid car park is beside the main **Bohnice entrance** in the northern part of the grounds, accessed from **K Pazderkám** street. See the garden's [official directions](https://www.botanicka.cz/en/for-visitors/basic-info/how-to-get-to-us) for current parking conditions and entrance maps. Choose your walking entrance to suit your route.
 
 ## Plan your walk
 
@@ -43,4 +53,4 @@ To choose a story with children, start with [Fictional and theatrical characters
 
 Read the planters or representatives field on the entry. The person being honoured, a family representative and another participant are different roles. An undocumented planting year remains unconfirmed.
 
-*Practical sources checked on 9 October 2026; consult the garden’s current information before visiting. The linked visitor pages are in Czech.*
+*Practical sources checked on 14 October 2026; consult the garden’s current information before visiting. The linked visitor pages are in Czech.*

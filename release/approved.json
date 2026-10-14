@@ -1,8 +1,8 @@
 {
-  "release": "seo-canonical-type-categories-2026-10-09",
-  "approved_on": "2026-10-09",
-  "authorization": "Uživatel schválil publikaci odpovědí „accept“ po předložení ověřeného náhledu: přímý obsah přehledu na /politik/ a odpovídajících krátkých adresách všech 22 hlavních kategorií v obou jazycích, 301 ze starých adres, aktualizované interní odkazy a canonical metadata. Samostatné typy bez hlavní kategorie vedou na přehled účastníků.",
-  "content_source_sha256": "5b68b575948f7b9f4951e47d9ace22836a2adaa672e186cb6da4e680dfcd3c42",
+  "release": "project-visit-book-2026-10-14",
+  "approved_on": "2026-10-14",
+  "authorization": "Uživatel schválil odpovědí „schvaluji“ konkrétní náhled českých a anglických stránek O projektu, Jak se k nám dostanete a Kniha. Horní menu ponechává O projektu, Osobnosti a Stromy a rostliny; patička odkazuje na všechny tři informační stránky. Kniha se veřejně neprodává a odkazuje na Knihobot.",
+  "content_source_sha256": "7600ef05184a54150ffb9c7fea567990c885678b7f313135358240c99e16206d",
   "entries": 127,
   "people": 153,
   "languages": [

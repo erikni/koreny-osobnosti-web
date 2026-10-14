@@ -64,3 +64,6 @@ body{background-image:none}body:before,body:after{z-index:0}body>.wrap,body>main
 .breadcrumbs a{text-decoration:underline;text-underline-offset:3px}
 .breadcrumb-separator{padding:0 10px}
 .breadcrumbs [aria-current=page]{color:#22362b}
+
+/* Additional visitor pages remain reachable at every screen width. */
+header nav{flex-wrap:wrap;justify-content:flex-end;max-width:650px}header .logo{min-width:260px}@media(max-width:1100px){header{flex-wrap:wrap}header nav{justify-content:flex-start;max-width:none}}

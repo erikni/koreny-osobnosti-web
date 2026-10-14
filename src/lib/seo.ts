@@ -46,6 +46,7 @@ export function pageMetadata({lang, kind, id, title, entry, plant, person, relat
       people: ['Účastníci a zástupci při výsadbách osobností', 'Poznejte účastníky projektu Kořeny osobností včetně rodinných zástupců. Medailonky a odkazy na související výsadby v Botanické zahradě Praha.'],
       timeline: ['Roky výsadby osobností v Botanické zahradě Praha', 'Projděte projekt Kořeny osobností podle roků výsadby. Objevte osobnosti a rostliny, které postupně obohatily Botanickou zahradu Praha.'],
       gallery: ['Galerie osobností a účastníků výsadeb', 'Prohlédněte si portréty osobností a účastníků projektu Kořeny osobností. Z fotografií přejděte k jejich příběhům a souvisejícím výsadbám.'],
+      book: ['Kniha Kořeny osobností', 'Kniha z roku 2018 představuje osobnosti a rostliny projektu v letech 2009–2017. Informace o publikaci, která se veřejně neprodává, a odkaz na Knihobot.'],
       about: ['Příběh projektu Kořeny osobností', 'Kořeny osobností: společný projekt Dariny Miklovičové a Botanické zahrady hl. m. Prahy. Poznejte příběh projektu, zdroje a způsob čtení katalogu.'],
       visit: ['Stezka osobností v Botanické zahradě Praha – průvodce návštěvou', 'Naplánujte procházku po Stezce osobností v pražské Troji. Jak najít osobnosti a jejich rostliny, kde hledat mapu, aktuální vstupné a otevírací dobu.'],
     } : {
@@ -55,6 +56,7 @@ export function pageMetadata({lang, kind, id, title, entry, plant, person, relat
       people: ['Planting participants and family representatives', 'Meet the participants of Kořeny osobností, including family representatives. Read their biographies and explore related plantings at Prague Botanical Garden.'],
       timeline: ['Planting years at Prague Botanical Garden', 'Explore Kořeny osobností by planting year. Discover the people and plants that have enriched Prague Botanical Garden over time.'],
       gallery: ['Gallery of people and planting participants', 'Browse portraits of the people and participants of Kořeny osobností. Open their biographies and discover related plantings at Prague Botanical Garden.'],
+      book: ['The Kořeny osobností book', 'The 2018 book introduces the people and plants of the project from 2009 to 2017. About the publication, which is not on general sale, and a link to Knihobot.'],
       about: ['The story of the Kořeny osobností project', 'Kořeny osobností is a joint project by Darina Miklovičová and Prague Botanical Garden. Discover its story, sources and how to read the catalogue.'],
       visit: ['Trail of Personalities at Prague Botanical Garden – visitor guide', 'Plan a walk along the Trail of Personalities in Prague Troja. Find people and their plants, garden maps, current admission prices and opening hours.'],
     };
